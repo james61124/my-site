@@ -12,7 +12,7 @@ image: /images/post.jpg
 description: ""
 toc: 
 categories:
-  - Category1
+  - documentation
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways. :zap:

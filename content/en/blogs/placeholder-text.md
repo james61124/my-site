@@ -12,7 +12,7 @@ image: /images/post.jpg
 description: ""
 toc: 
 categories:
-  - Category1
+  - documentation
 ---
 
 Lorem est tota propiore conpellat pectoribus de pectora summo.
