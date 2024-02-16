@@ -12,7 +12,7 @@ image: /images/post.jpg
 description: ""
 toc:
 categories:
-  - documentation
+  - Documentation
 ---
 
 ## Paragraph

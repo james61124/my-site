@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Hugo Profile</title>
+    <link>https://hugo-profile.netlify.app/</link>
+    <description>Recent content in Home on Hugo Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DP 系列 - The Rod Cutting Problem</title>
+      <link>https://hugo-profile.netlify.app/blogs/the-rod-cutting-problem/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/the-rod-cutting-problem/</guid>
+      <description>如果賣出長度是 i 的 rod 可以得 pi 元，怎麼切一條長度是 n 的 rod 使總收入最大 方法一、遞迴 最直觀的方式就是用遞迴解，如下圖所示，rn 為切割長度 n 的 rod 可得</description>
+    </item>
+    <item>
+      <title>Github 新手入門</title>
+      <link>https://hugo-profile.netlify.app/blogs/github/</link>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/github/</guid>
+      <description>什麼是 Github？ git 是版本控制的軟體，而 Github 是程式碼線上儲存平台，將專案存成一個個儲存庫 ( repository )，利用 git 來進行版本控制，也方便一個團隊來做協作</description>
+    </item>
+    <item>
+      <title>Table of content</title>
+      <link>https://hugo-profile.netlify.app/posts/table-of-content/</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/posts/table-of-content/</guid>
+      <description>Table of content This theme supports displaying table of content (ToC) in blog posts.&#xA;Parameters You can manage a ToC with two parameters:&#xA;global toc parameter; post toc parameter. The post toc parameter has higher priority than the global toc parameter.&#xA;Enable table of content on all posts To enable ToC on all posts (globally) set parameter toc to true in config.toml.&#xA;[params] toc = true To disable ToC globally, simply ignore the toc parameter or set it to false.</description>
+    </item>
+    <item>
+      <title>Math Typesetting - use Mathematical notation in blog posts</title>
+      <link>https://hugo-profile.netlify.app/posts/math-typesetting/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using&#xA;&lt;a href=&#34;https://github.com/hugo-sid/hugo-blog-awesome/blob/main/layouts/partials/helpers/katex.html&#34;&gt;third party JavaScript libraries&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://hugo-profile.netlify.app/posts/markdown-syntax/</link>
+      <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>https://hugo-profile.netlify.app/posts/rich-content/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://hugo-profile.netlify.app/posts/placeholder-text/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://hugo-profile.netlify.app/posts/emoji-support/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Render Math With Mathjax</title>
+      <link>https://hugo-profile.netlify.app/blogs/math/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/math/</guid>
+      <description>Mathjax Math equations can be rendered using Mathjax syntax with AMS symbol support.&#xA;Optionally enable this on a per-page basis by adding mathjax: true to your frontmatter.&#xA;Then, use $$ ... $$ on a line by itself to render a block equation:&#xA;$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$&#xA;The raw version is:&#xA;$$ | Pr_{x \leftarrow P_{1}} [A(x) = 1] - Pr_{x \leftarrow P_{2}} [A(x) = 1] | &amp;lt; \text{negligible} $$ Write in-line equations with \\( .</description>
+    </item>
+    <item>
+      <title>Markdown Syntax</title>
+      <link>https://hugo-profile.netlify.app/blogs/markdown-syntax/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/markdown-syntax/</guid>
+      <description>Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga.</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://hugo-profile.netlify.app/blogs/emoji-support/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/emoji-support/</guid>
+      <description>Emoji can be enabled in a Hugo project in a number of ways. :zap:&#xA;Emoji Support The emojify function can be called directly in templates or Inline Shortcodes.&#xA;To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.&#xA;The Emoji cheat sheet is a useful reference for emoji shorthand codes.&#xA;N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform.</description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://hugo-profile.netlify.app/blogs/placeholder-text/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/placeholder-text/</guid>
+      <description>Lorem est tota propiore conpellat pectoribus de pectora summo.&#xA;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&#xA;Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude Rursus nulli murmur; hastile inridet ut ab gravi sententia!</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>https://hugo-profile.netlify.app/blogs/rich-content/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/rich-content/</guid>
+      <description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&#xA;Gist Simple Shortcode {{&amp;lt; gist spf13 7896402 &amp;#34;img.html&amp;#34; &amp;gt;}} Twitter Simple Shortcode {{&amp;lt; tweet GoHugoIO 1315233626070503424 &amp;gt;}} Profile is a customizable single-page portfolio theme for Hugo featuring a contact form and blog. Made by @gurusabarishh.https://t.co/KwYcwfdy16&#xA;&amp;mdash; GoHugo.io (@GoHugoIO) October 11, 2020 Vimeo Simple Shortcode {{&amp;lt; vimeo 146022717 &amp;gt;}} Youtube Simple Shortcode {{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}} Theme Custom Shortcodes These shortcodes are not Hugo built-ins, but are provided by the theme.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://hugo-profile.netlify.app/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hugo-profile.netlify.app/pages/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
+    </item>
+  </channel>
+</rss>

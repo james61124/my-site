@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math Typesetting - use Mathematical notation in blog posts on Hugo Profile</title>
+    <link>https://hugo-profile.netlify.app/zh/posts/math-typesetting/</link>
+    <description>Recent content in Math Typesetting - use Mathematical notation in blog posts on Hugo Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/zh/posts/math-typesetting/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

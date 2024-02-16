@@ -1,0 +1,35 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - category - Hugo Profile</title>
+        <link>https://hugo-profile.netlify.app/categories/</link>
+        <description>Categories - category - Hugo Profile</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 21 Jan 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Algorithm</title>
+    <link>https://hugo-profile.netlify.app/categories/Algorithm/</link>
+    <pubDate>Sun, 21 Jan 2024 00:00:00 &#43;0000</pubDate><author>
+        <name></name>
+    </author><guid>https://hugo-profile.netlify.app/categories/Algorithm/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Github</title>
+    <link>https://hugo-profile.netlify.app/categories/Github/</link>
+    <pubDate>Thu, 18 Jan 2024 00:00:00 &#43;0000</pubDate><author>
+        <name></name>
+    </author><guid>https://hugo-profile.netlify.app/categories/Github/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>math</title>
+    <link>https://hugo-profile.netlify.app/categories/math/</link>
+    <pubDate>Fri, 09 Dec 2022 19:53:33 &#43;0530</pubDate><author>
+        <name></name>
+    </author><guid>https://hugo-profile.netlify.app/categories/math/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>documentation</title>
+    <link>https://hugo-profile.netlify.app/categories/documentation/</link>
+    <pubDate>Sat, 03 Apr 2021 23:29:21 &#43;0530</pubDate><author>
+        <name></name>
+    </author><guid>https://hugo-profile.netlify.app/categories/documentation/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

@@ -12,7 +12,7 @@ description: ""
 toc: true
 mathjax: true
 categories:
-  - math
+  - Documentation
 ---
 
 ## Mathjax
