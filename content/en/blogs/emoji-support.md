@@ -7,7 +7,7 @@ author: "Gurusabarish"
 tags:
   - Emoji support
   - Sample
-  - example
+  - Example
 image: /images/post.jpg
 description: ""
 toc: 

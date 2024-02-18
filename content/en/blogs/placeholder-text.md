@@ -7,7 +7,7 @@ author: "Gurusabarish"
 tags:
   - Placeholder text
   - Sample
-  - example
+  - Example
 image: /images/post.jpg
 description: ""
 toc: 

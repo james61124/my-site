@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "http://james61124.github.io/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
@@ -56,19 +56,11 @@ languages:
       about:
         enable: true
         title: "About Me"
-        image: "/images/aboutme_selfie.svg"
+        # image: "/images/aboutme_selfie.svg"
         content: |-
           Hello everyone, I'm James, a computer science enthusiast who enjoys music and playing sports. 
 
           This is my blog, where I document my life journey, reflections, and share some technical insights. If you have any suggestions, feel free to leave a comment on the post and let's engage in some meaningful discussions!
-
-          Languages - C/C++, Python, Shell Script, Java, Kotlin, HTML, CSS, Javascript, Go
-
-          Frameworks - Django, Flask, React Native, Hugo
-
-          Developer Tools - Git, Docker, Podman, Nginx, Heroku, Unix APIs, FreeBSD
-
-          Extracurricular Interest - Guitar, Piano, Badminton, Basketball, Chess
 
         # skills:
         #   enable: true
@@ -82,55 +74,55 @@ languages:
         #     - "Express"
 
       # projects
-      projects:
-        enable: true
-        # title: "Custom Name"
-        items:
-          - title: Dida Dream
-            content: A system won second place in LINE Fresh 2022, with the goal of addressing the issue of leftovers
-            image: /images/projects/LineFreshProject.png
-            url: /blogs/math
-            # featured:
-            #   name: Demo
-            #   link: https://hugo-profile.netlify.app
-            badges:
-              - "Django"
-              - "LINE APIs"
-              - "Python"
-            links:
-              - icon: fab fa-github
-                url: https://github.com/james61124/DIDA-Dream
-              # - icon: fa fa-envelope
-              #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-              # - icon: fab fa-twitter
-              #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+      # projects:
+      #   enable: true
+      #   # title: "Custom Name"
+      #   items:
+      #     - title: Dida Dream
+      #       content: A system won second place in LINE Fresh 2022, with the goal of addressing the issue of leftovers
+      #       image: /images/projects/LineFreshProject.png
+      #       url: /blogs/math
+      #       # featured:
+      #       #   name: Demo
+      #       #   link: https://hugo-profile.netlify.app
+      #       badges:
+      #         - "Django"
+      #         - "LINE APIs"
+      #         - "Python"
+      #       links:
+      #         - icon: fab fa-github
+      #           url: https://github.com/james61124/DIDA-Dream
+      #         # - icon: fa fa-envelope
+      #         #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+      #         # - icon: fab fa-twitter
+      #         #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-          - title: Image Converter
-            content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-            image: /images/projects/converter.jpg
-            featured:
-              name: Demo
-              link: https://django-converter.herokuapp.com
-            badges:
-              - "Django"
-              - "Bootstrap"
-            links:
-              - icon: fab fa-github
-                url: https://github.com/gurusabarish/converter
+      #     - title: Image Converter
+      #       content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      #       image: /images/projects/converter.jpg
+      #       featured:
+      #         name: Demo
+      #         link: https://django-converter.herokuapp.com
+      #       badges:
+      #         - "Django"
+      #         - "Bootstrap"
+      #       links:
+      #         - icon: fab fa-github
+      #           url: https://github.com/gurusabarish/converter
 
-          - title: Hugo Profile V2
-            content: A clean and simple Hugo template for personal portfolio and blog.
-            image: /images/projects/profile2.jpg
-            featured:
-              name: Demo V2
-              link: https://hugo-profile-2.netlify.app
-            badges:
-              - "Hugo"
-              - "Bootstrap"
-              - "Javascript"
-            links:
-              - icon: fab fa-github
-                url: https://github.com/gurusabarish/HugoProfileV2
+      #     - title: Hugo Profile V2
+      #       content: A clean and simple Hugo template for personal portfolio and blog.
+      #       image: /images/projects/profile2.jpg
+      #       featured:
+      #         name: Demo V2
+      #         link: https://hugo-profile-2.netlify.app
+      #       badges:
+      #         - "Hugo"
+      #         - "Bootstrap"
+      #         - "Javascript"
+      #       links:
+      #         - icon: fab fa-github
+      #           url: https://github.com/gurusabarish/HugoProfileV2
 
       # Experience
       experience:
@@ -161,10 +153,10 @@ languages:
               name: "National Yang Ming Chiao Tung University"
               url: "https://www.nycu.edu.tw/nycu/en/index"
             date: "2020/09 - 2024/06"
-            GPA: "4.02 out of 4.3"
-            content: |-
-              Related courses: Introduction to Data Science, Machine Learning, System Administration, Network Programming,
-              Network System Capstone, Network Security Capstone, Advanced Programming in the UNIX Environment, etc.
+            # GPA: "4.02 out of 4.3"
+            # content: |-
+            #   Related courses: Introduction to Data Science, Machine Learning, System Administration, Network Programming,
+            #   Network System Capstone, Network Security Capstone, Advanced Programming in the UNIX Environment, etc.
 
             # I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
             # - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
@@ -193,15 +185,15 @@ languages:
         items:
           - title: 11th MeiChu Hackathon
             content: Champianship in Google Team
-            url: /blogs/math
+            url: /blogs/11th-meichu-hackathon
             image: /images/MeiChuHackathon.jpg
           - title: 2022 LINE Fresh
             content: Second place in Taiwan 
-            url: /blogs/math
+            # url: /blogs/math
             image: /images/MeiChuHackathon.jpg
           - title: Council College Student Research Program
             content: Selected for the Council College Student Research Program of National Science and Technology Council
-            url: /blogs/math
+            # url: /blogs/math
             image: /images/MeiChuHackathon.jpg
           # - title: Microsoft Imagine Runner
           #   content: We are developed a product which can help others.
@@ -216,14 +208,14 @@ languages:
         items:
           - title: 9th And 10th MeiChu Hackathon
             content: Event Planning Team Leader
-            url: /blogs/math
+            # url: /blogs/math
             image: /images/MeiChuHackathon.jpg
           - title: NYCU Guitar Club
             content: President
             image: /images/GuitarClub.jpg
           - title: Department Badminton Team
             content: Vice Captain
-            url: "https://github.com/gurusabarish/hugo-profile"
+            # url: "https://github.com/gurusabarish/hugo-profile"
             image: /images/achievment.jpg
           # - title: Microsoft Imagine Runner
           #   content: We are developed a product which can help others.
@@ -453,7 +445,7 @@ outputs:
     - "HTML"
     - "RSS"
 
-# Paginate: 3
+Paginate: 6
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -488,7 +480,7 @@ params:
   animate: true
 
   theme:
-    # disableThemeToggle: true
+    disableThemeToggle: true
     defaultTheme: "dark" # dark
 
   font:
@@ -540,12 +532,12 @@ params:
     title: "James Chiu"
     subtitle: "software developer"
     content: "Embrace the challenge, code beyond comfort, and evolve endlessly — scripting a legacy that transcends both software and self."
-    image: /images/homepage_selfie.svg
+    image: /images/homepage_selfie_v1.jpg
     bottomImage:
       enable: false
     # roundImage: true # Make hero image circular | default false
     button:
-      enable: true
+      enable: false
       name: "Resume"
       url: "#"
       download: true
@@ -554,6 +546,12 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/james61124
+        - icon: fab fa-linkedin
+          url: https://www.linkedin.com/in/hong-jun-chiu/
+        - icon: fab fa-instagram
+          url: https://www.instagram.com/james51124/
+        - icon: fab fa-facebook
+          url: https://www.facebook.com/profile.php?id=100006460037940
       #   - icon: fab fa-x-twitter
       #     url: https://example.com
       # customIcons:
@@ -591,11 +589,11 @@ params:
       enable: true
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/james61124
+      linkedin: https://www.linkedin.com/in/hong-jun-chiu/
+      # twitter: https://twitter.com
+      instagram: https://www.instagram.com/james51124/
+      facebook: https://www.facebook.com/profile.php?id=100006460037940
 
   # List pages like blogs and posts
   listPages:

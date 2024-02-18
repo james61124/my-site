@@ -6,7 +6,7 @@ author: "Gurusabarish"
 tags:
   - Markdown syntax
   - Mathjax
-  - example
+  - Example
 image: /images/mathjax.png
 description: ""
 toc: true

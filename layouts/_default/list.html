@@ -12,27 +12,6 @@
     <h2 class="text-center pb-2">{{.Title}}</h2>
     <div class="row">
 
-        <!-- <div class="col-lg-4 col-md-6 mx-auto my-3">
-            <div class="card-columns">
-                {{ range .Site.Taxonomies.categories.ByCount }}
-                    <div class="card h-100 mb-4">
-                        <div class="card-body bg-transparent p-4 shadow-sm">
-                            <h3 class="text-center pb-2" >
-                                <a href="{{ "/categories/" | relURL }}{{ .Name | urlize }}" class="primary-font card-title">
-                                    <h5 class="card-title bg-transparent">{{ .Name }} ({{ .Count }})</h5>
-                                </a>
-                            </h3>
-                            {{ range .Pages }}
-                                <a href="{{ .Permalink }}" class="card-text secondary-font">
-                                    <h6 style="color: var(--text-secondary-color) !important;">{{ .Title }}</h6>
-                                </a>
-                            {{- end -}}
-                        </div>
-                    </div>
-                {{ end }}
-            </div>
-        </div> -->
-
         {{ range .Paginator.Pages }}
         <div class="col-lg-4 col-md-6 my-3">
             <div class="card-columns">
@@ -61,11 +40,11 @@
         </div>
         {{ end }}
         
-        <!-- <div class="row justify-content-center">
+        <div class="row justify-content-center">
             <div class="col-auto m-3">
                 {{template "_internal/pagination.html" . }}
             </div>
-        </div> -->
+        </div>
     </div>
 </div>
 {{ end }}

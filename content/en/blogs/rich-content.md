@@ -6,7 +6,7 @@ author: "Gurusabarish"
 tags:
   - Rich content
   - Sample
-  - example
+  - Example
 image: /images/post.jpg
 description: ""
 toc: 
