@@ -51,6 +51,19 @@
                 
             </div>
         </div>
+    </div>
+</div>
+
+<footer style="bottom: 0; width: 100%;">
+    <!-- Recent blog posts -->
+    {{- partial "sections/footer/recentBlogPosts.html" . -}}
+
+    <!-- Social Icons -->
+    {{- partial "sections/footer/socialNetwork.html" . -}}
+
+    <!-- Copyright -->
+    {{- partial "sections/footer/copyright.html" . -}}
+</footer>
 
         <!-- {{ range .Paginator.Pages }}
         <div class="col-lg-4 col-md-6 my-3">

@@ -19,7 +19,7 @@ categories:
 
 ---------------------------------------------------------------------------------------------
 
-### 方法一、遞迴
+### **方法一、遞迴**
 最直觀的方式就是用遞迴解，如下圖所示，r<sub>n</sub> 為切割長度 n 的 rod 可得的最大收入，假設 i 為最佳解中的第一段長度，<mark>r<sub>n</sub> = p<sub>i</sub> + r<sub>n-i</sub></mark>，因為 p<sub>i</sub> 是切割的最佳解中第一段的獲利，再加上剩餘部分最佳獲利就是我們要的答案。
 
 i 怎麼求？利用迴圈讓 i 從 0 跑到 n-1，求出每一組 <mark>p<sub>i</sub> + r<sub>n-i</sub></mark>，找到最大的那組就是答案。
@@ -29,7 +29,7 @@ i 怎麼求？利用迴圈讓 i 從 0 跑到 n-1，求出每一組 <mark>p<sub>i
 ![Recursive](/images/posts/the-rod-cutting-problem/Recursive.jpg)
 
 
-### 方法二、DP
+### **方法二、DP**
 
 我們可以建表紀錄每一個 r<sub>i</sub> 的數值，這樣就不用每次遇到 i 都再算一次
 
@@ -37,5 +37,5 @@ i 怎麼求？利用迴圈讓 i 從 0 跑到 n-1，求出每一組 <mark>p<sub>i
 
 ![DP](/images/posts/the-rod-cutting-problem/DP.jpg)
 
-### 小筆記
+### **小筆記**
 建表紀錄遞迴中需要重複的部分，是 DP 裡很重要的工具！

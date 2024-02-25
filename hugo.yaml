@@ -1,6 +1,6 @@
-baseURL: "http://james61124.github.io/"
+baseURL: "https://james61124.github.io/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "James Blog"
 theme: hugo-profile
 
 taxonomies:
@@ -52,6 +52,41 @@ languages:
           weight: 3
 
     params:
+
+      # Hero
+      hero:
+        enable: true
+        intro: "Hi, my name is"
+        title: "James Chiu"
+        subtitle: "software developer"
+        content: "Step outside of your confort zone, for that's where life truly begins."
+        image: /images/homepage_selfie_v1.jpg
+        bottomImage:
+          enable: false
+        # roundImage: true # Make hero image circular | default false
+        button:
+          enable: false
+          name: "Resume"
+          url: "#"
+          download: true
+          newPage: false
+        socialLinks:
+          fontAwesomeIcons:
+            - icon: fab fa-github
+              url: https://github.com/james61124
+            - icon: fab fa-linkedin
+              url: https://www.linkedin.com/in/hong-jun-chiu/
+            - icon: fab fa-instagram
+              url: https://www.instagram.com/james51124/
+            - icon: fab fa-facebook
+              url: https://www.facebook.com/profile.php?id=100006460037940
+          #   - icon: fab fa-x-twitter
+          #     url: https://example.com
+          # customIcons:
+          #   - icon: /fav.png
+          #     url: "https://example.com"
+
+
       # About
       about:
         enable: true
@@ -191,10 +226,10 @@ languages:
             content: Second place in Taiwan 
             # url: /blogs/math
             image: /images/MeiChuHackathon.jpg
-          - title: Council College Student Research Program
-            content: Selected for the Council College Student Research Program of National Science and Technology Council
-            # url: /blogs/math
-            image: /images/MeiChuHackathon.jpg
+          # - title: Council College Student Research Program
+          #   content: Selected for the Council College Student Research Program of National Science and Technology Council
+          #   # url: /blogs/math
+          #   image: /images/MeiChuHackathon.jpg
           # - title: Microsoft Imagine Runner
           #   content: We are developed a product which can help others.
           # - title: Google Summer of Code
@@ -216,7 +251,7 @@ languages:
           - title: Department Badminton Team
             content: Vice Captain
             # url: "https://github.com/gurusabarish/hugo-profile"
-            image: /images/achievment.jpg
+            image: /images/badminton.jpg
           # - title: Microsoft Imagine Runner
           #   content: We are developed a product which can help others.
           # - title: Google Summer of Code
@@ -241,41 +276,83 @@ languages:
         #   title: Blog posts
         #   url: /gallery
         #   weight: 2
-        #Dropdown menu
-        # - identifier: dropdown
-        #   title: Example dropdown menu
-        #   name: Dropdown
-        #   weight: 3
-        # - identifier: dropdown1
-        #   title: example dropdown 1
-        #   name: example 1
-        #   url: /#
-        #   parent: dropdown
-        #   weight: 1
-        # - identifier: dropdown2
-        #   title: example dropdown 2
-        #   name: example 2
-        #   url: /#
-        #   parent: dropdown
-        #   weight: 2
+        # Dropdown menu
+        - identifier: blog
+          title: Blog posts
+          name: 部落格
+          url: /zh/blogs
+          weight: 1
+        - identifier: Blog
+          title: Blog posts
+          name: 文章
+          url: /zh/blogs
+          parent: blog
+          weight: 1
+        - identifier: Category
+          title: Category
+          name: 分類
+          url: /zh/categories/
+          parent: blog
+          weight: 2
+        - identifier: Tag
+          title: Tag
+          name: 標籤
+          url: /zh/tags/
+          parent: blog
+          weight: 3
+
+
     params:
+
+      hero:
+        enable: true
+        intro: "嗨，我是"
+        title: "James Chiu"
+        subtitle: "軟體工程師"
+        content: "勇敢跳脫舒適圈，這才是人生的起點。"
+        image: /images/homepage_selfie_v1.jpg
+        bottomImage:
+          enable: false
+        # roundImage: true # Make hero image circular | default false
+        button:
+          enable: false
+          name: "Resume"
+          url: "#"
+          download: true
+          newPage: false
+        socialLinks:
+          fontAwesomeIcons:
+            - icon: fab fa-github
+              url: https://github.com/james61124
+            - icon: fab fa-linkedin
+              url: https://www.linkedin.com/in/hong-jun-chiu/
+            - icon: fab fa-instagram
+              url: https://www.instagram.com/james51124/
+            - icon: fab fa-facebook
+              url: https://www.facebook.com/profile.php?id=100006460037940
+          #   - icon: fab fa-x-twitter
+          #     url: https://example.com
+          # customIcons:
+          #   - icon: /fav.png
+          #     url: "https://example.com"
 
       # About
       about:
         enable: true
         title: "關於我"
-        image: "/images/aboutme_selfie.svg"
+        # image: "/images/aboutme_selfie.svg"
         content: |-
-          大家好，我是詹姆士，是個喜歡音樂跟打球的資工人。
-          這是我的部落格，裡面記錄了我的人生歷程跟一些體悟，還有一些技術分享，如果有建議的話歡迎在文章的留言板留言交流。
+          大家好，我是 James ，是個喜歡音樂跟打球的資工人。
 
-          技能包 - C/C++, Python, Shell Script, Java, Kotlin, HTML, CSS, Javascript, Go
+          這是我的部落格，裡面記錄了我的人生歷程，還有一些技術分享，如果有建議的話歡迎在文章的留言板留言交流。
 
-          框架 - Django, Flask, React Native, Hugo
+        # 技能包 - C/C++, Python, Shell Script, Java, Kotlin, HTML, CSS, Javascript, Go
 
-          開發工具 - Git, Docker, Podman, Nginx, Heroku, Unix APIs, FreeBSD
+        # 框架 - Django, Flask, React Native, Hugo
 
-          興趣 - Guitar, Piano, Badminton, Basketball, Chess
+        # 開發工具 - Git, Docker, Podman, Nginx, Heroku, Unix APIs, FreeBSD
+
+        # 興趣 - Guitar, Piano, Badminton, Basketball, Chess
         # skills:
         #   enable: true
         #   title: "Here are a few technologies I've been working with recently:"
@@ -292,10 +369,10 @@ languages:
         enable: true
         title: "工作經驗"
         items:
-          - job: "Research and Development Intern"
-            company: "Block Chain Security Crop."
+          - job: "研發實習生"
+            company: "區塊科技股份有限公司"
             companyUrl: "https://chainsecurity.asia/"
-            date: "Jul 2023 - present"
+            date: "Jul 2023 - 現在"
             featuredLink:
               enable: true
               name: "View the project"
@@ -303,134 +380,138 @@ languages:
             #   info:
             #     enable: true
             #     content: I worked as a software developer for more than one year in Amazon.
-            content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+            content: "我們團隊主要負責開發 eDetector - 一款次世代的鑑識軟體，擁有偵測惡意程式、記憶體痕跡取證等功能。"
       
       # Education
       education:
         enable: true
-        # title: "Custom Name"
+        title: "教育"
         index: false
         items:
-          - title: "Bachelor of Science in Computer Science"
+          - title: "資工系學士"
             school:
-              name: "Massachusetts Institute of Technology"
-              url: "https://example.org"
-            date: "2009 - 2013"
-            GPA: "3.9 out of 5.0"
-            content: |-
-              I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-              - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-              - Face mask detection using a single convolutional neural network.
+              name: "國立陽明交通大學"
+              url: "https://www.nycu.edu.tw/nycu/en/index"
+            date: "2020/09 - 2024/06"
+            # GPA: "4.02 out of 4.3"
+            # content: |-
+            #   Related courses: Introduction to Data Science, Machine Learning, System Administration, Network Programming,
+            #   Network System Capstone, Network Security Capstone, Advanced Programming in the UNIX Environment, etc.
 
-              Extracurricular Activities
-                - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+            # I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
+            # - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+            # - Face mask detection using a single convolutional neural network.
+
+            # Extracurricular Activities
+            #   - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            #   - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
             featuredLink:
               enable: false
               name: "My academic record"
               url: "https://example.com"
-          - title: "High School"
+          - title: "高中"
             school:
-              name: "Thomas Jefferson High School for Science and Technology."
-              url: "https://example.org"
-            GPA: "4.2 out of 5.0"
+              name: "高雄市立高雄高級中學"
+              url: "https://www.kshs.kh.edu.tw/index.php?WebID=269"
+            date: "2017/09 - 2020/06"
             featuredLink:
               enable: false
               url: "https://example.com"
       
-      # projects
-      projects:
-        enable: true
-        # title: "Custom Name"
-        items:
-          - title: Hugo Profile
-            content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-            image: /images/projects/profile.png
-            featured:
-              name: Demo
-              link: https://hugo-profile.netlify.app
-            badges:
-              - "Hugo"
-              - "Bootstrap"
-              - "Javascript"
-            links:
-              - icon: fa fa-envelope
-                url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-              - icon: fab fa-github
-                url: https://github.com/gurusabarish/hugo-profile
-              - icon: fab fa-twitter
-                url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+      # # projects
+      # projects:
+      #   enable: true
+      #   # title: "Custom Name"
+      #   items:
+      #     - title: Hugo Profile
+      #       content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+      #       image: /images/projects/profile.png
+      #       featured:
+      #         name: Demo
+      #         link: https://hugo-profile.netlify.app
+      #       badges:
+      #         - "Hugo"
+      #         - "Bootstrap"
+      #         - "Javascript"
+      #       links:
+      #         - icon: fa fa-envelope
+      #           url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+      #         - icon: fab fa-github
+      #           url: https://github.com/gurusabarish/hugo-profile
+      #         - icon: fab fa-twitter
+      #           url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-          - title: Image Converter
-            content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-            image: /images/projects/converter.jpg
-            featured:
-              name: Demo
-              link: https://django-converter.herokuapp.com
-            badges:
-              - "Django"
-              - "Bootstrap"
-            links:
-              - icon: fab fa-github
-                url: https://github.com/gurusabarish/converter
+      #     - title: Image Converter
+      #       content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+      #       image: /images/projects/converter.jpg
+      #       featured:
+      #         name: Demo
+      #         link: https://django-converter.herokuapp.com
+      #       badges:
+      #         - "Django"
+      #         - "Bootstrap"
+      #       links:
+      #         - icon: fab fa-github
+      #           url: https://github.com/gurusabarish/converter
 
-          - title: Hugo Profile V2
-            content: A clean and simple Hugo template for personal portfolio and blog.
-            image: /images/projects/profile2.jpg
-            featured:
-              name: Demo V2
-              link: https://hugo-profile-2.netlify.app
-            badges:
-              - "Hugo"
-              - "Bootstrap"
-              - "Javascript"
-            links:
-              - icon: fab fa-github
-                url: https://github.com/gurusabarish/HugoProfileV2
+      #     - title: Hugo Profile V2
+      #       content: A clean and simple Hugo template for personal portfolio and blog.
+      #       image: /images/projects/profile2.jpg
+      #       featured:
+      #         name: Demo V2
+      #         link: https://hugo-profile-2.netlify.app
+      #       badges:
+      #         - "Hugo"
+      #         - "Bootstrap"
+      #         - "Javascript"
+      #       links:
+      #         - icon: fab fa-github
+      #           url: https://github.com/gurusabarish/HugoProfileV2
       
       # Achievements
       achievements:
         enable: true
-        # title: "Custom Name"
+        title: "成就"
         items:
-          - title: 11th MeiChu Hackathon
-            content: Champianship in Google Team
-            url: /blogs/math
+          - title: 第 11 屆梅竹黑客松
+            content: Google 組第一名
+            url: /blogs/11th-meichu-hackathon
             image: /images/MeiChuHackathon.jpg
-          - title: 2022 LINE Fresh
-            content: Second place in Taiwan 
-            image: /images/achievment.jpg
-          - title: Council College Student Research Program
-            content: Selected for the Council College Student Research Program of National Science and Technology Council
-            url: "https://github.com/gurusabarish/hugo-profile"
-            image: /images/achievment.jpg
-          - title: Microsoft Imagine Runner
-            content: We are developed a product which can help others.
-          - title: Google Summer of Code
-            content: Contributed to a open source project.
-            url: https://example.com
-
+          - title: 2022 LINE Fresh 校園競賽
+            content: 亞軍
+            # url: /blogs/math
+            image: /images/MeiChuHackathon.jpg
+          # - title: 大專生計畫
+          #   content: 專題入選大專生計畫
+          #   # url: /blogs/math
+          #   image: /images/MeiChuHackathon.jpg
+          # - title: Microsoft Imagine Runner
+          #   content: We are developed a product which can help others.
+          # - title: Google Summer of Code
+          #   content: Contributed to a open source project.
+          #   url: https://example.com
+      
       # Leadership
       leadership:
         enable: true
-        title: "Leadership"
+        title: "課外活動"
         items:
-          - title: 11th MeiChu Hackathon
-            content: Champianship in Google Team
-            url: /blogs/math
+          - title: 第九屆和第十屆梅竹黑客松
+            content: 活動部長
+            # url: /blogs/math
             image: /images/MeiChuHackathon.jpg
-          - title: 2022 LINE Fresh
-            content: Second place in Taiwan 
-            image: /images/achievment.jpg
-          - title: Council College Student Research Program
-            content: Selected for the Council College Student Research Program of National Science and Technology Council
-            url: "https://github.com/gurusabarish/hugo-profile"
-            image: /images/achievment.jpg
-          - title: Microsoft Imagine Runner
-            content: We are developed a product which can help others.
-          - title: Google Summer of Code
-            content: Contributed to a open source project.
-            url: https://example.com
+          - title: 交通大學吉他社
+            content: 社長
+            image: /images/GuitarClub.jpg
+          - title: 交通大學資工系系羽
+            content: 副隊長
+            # url: "https://github.com/gurusabarish/hugo-profile"
+            image: /images/badminton.jpg
+          # - title: Microsoft Imagine Runner
+          #   content: We are developed a product which can help others.
+          # - title: Google Summer of Code
+          #   content: Contributed to a open source project.
+          #   url: https://example.com
         
 enableInlineShortcodes: true
 hasCJKLanguage: true
@@ -458,10 +539,10 @@ markup:
 
 
 params:
-  title: "Hugo Profile"
+  title: "James Blog"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/icon.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -511,7 +592,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "James Blog" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -525,38 +606,7 @@ params:
       disableAchievements: false
       disableContact: false
 
-  # Hero
-  hero:
-    enable: true
-    intro: "Hi, my name is"
-    title: "James Chiu"
-    subtitle: "software developer"
-    content: "Embrace the challenge, code beyond comfort, and evolve endlessly — scripting a legacy that transcends both software and self."
-    image: /images/homepage_selfie_v1.jpg
-    bottomImage:
-      enable: false
-    # roundImage: true # Make hero image circular | default false
-    button:
-      enable: false
-      name: "Resume"
-      url: "#"
-      download: true
-      newPage: false
-    socialLinks:
-      fontAwesomeIcons:
-        - icon: fab fa-github
-          url: https://github.com/james61124
-        - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/hong-jun-chiu/
-        - icon: fab fa-instagram
-          url: https://www.instagram.com/james51124/
-        - icon: fab fa-facebook
-          url: https://www.facebook.com/profile.php?id=100006460037940
-      #   - icon: fab fa-x-twitter
-      #     url: https://example.com
-      # customIcons:
-      #   - icon: /fav.png
-      #     url: "https://example.com"
+  
 
   
 

@@ -2,339 +2,329 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-profile.netlify.app/zh/</loc>
+    <loc>https://james61124.github.io/zh/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/"
+                href="https://james61124.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/"
+                href="https://james61124.github.io/zh/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/posts/</loc>
+    <loc>https://james61124.github.io/zh/posts/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/posts/"
+                href="https://james61124.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/posts/"
+                href="https://james61124.github.io/zh/posts/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/posts/table-of-content/</loc>
+    <loc>https://james61124.github.io/zh/posts/table-of-content/</loc>
     <lastmod>2023-05-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/posts/table-of-content/"
+                href="https://james61124.github.io/posts/table-of-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/posts/table-of-content/"
+                href="https://james61124.github.io/zh/posts/table-of-content/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/posts/math-typesetting/</loc>
+    <loc>https://james61124.github.io/zh/posts/math-typesetting/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/posts/math-typesetting/"
+                href="https://james61124.github.io/posts/math-typesetting/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/posts/math-typesetting/"
+                href="https://james61124.github.io/zh/posts/math-typesetting/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/posts/markdown-syntax/</loc>
+    <loc>https://james61124.github.io/zh/posts/markdown-syntax/</loc>
     <lastmod>2023-02-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/posts/markdown-syntax/"
+                href="https://james61124.github.io/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/posts/markdown-syntax/"
+                href="https://james61124.github.io/zh/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/posts/rich-content/</loc>
+    <loc>https://james61124.github.io/zh/posts/rich-content/</loc>
     <lastmod>2023-02-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/posts/rich-content/"
+                href="https://james61124.github.io/posts/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/posts/rich-content/"
+                href="https://james61124.github.io/zh/posts/rich-content/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/posts/placeholder-text/</loc>
+    <loc>https://james61124.github.io/zh/posts/placeholder-text/</loc>
     <lastmod>2023-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/posts/placeholder-text/"
+                href="https://james61124.github.io/posts/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/posts/placeholder-text/"
+                href="https://james61124.github.io/zh/posts/placeholder-text/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/tags/emoji/</loc>
+    <loc>https://james61124.github.io/zh/tags/emoji/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/tags/emoji/"
+                href="https://james61124.github.io/tags/emoji/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/tags/emoji/"
+                href="https://james61124.github.io/zh/tags/emoji/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/posts/emoji-support/</loc>
+    <loc>https://james61124.github.io/zh/posts/emoji-support/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/posts/emoji-support/"
+                href="https://james61124.github.io/posts/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/posts/emoji-support/"
+                href="https://james61124.github.io/zh/posts/emoji-support/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/tags/</loc>
+    <loc>https://james61124.github.io/zh/tags/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/tags/"
+                href="https://james61124.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/tags/"
+                href="https://james61124.github.io/zh/tags/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/blogs/</loc>
+    <loc>https://james61124.github.io/zh/blogs/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/blogs/"
+                href="https://james61124.github.io/blogs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/blogs/"
+                href="https://james61124.github.io/zh/blogs/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/tags/example/</loc>
+    <loc>https://james61124.github.io/zh/tags/example/</loc>
+    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+  </url><url>
+    <loc>https://james61124.github.io/zh/tags/Markdown-syntax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/tags/example/"
+                href="https://james61124.github.io/tags/Markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/tags/example/"
+                href="https://james61124.github.io/zh/tags/Markdown-syntax/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/tags/Markdown-syntax/</loc>
+    <loc>https://james61124.github.io/zh/tags/Mathjax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/tags/Markdown-syntax/"
+                href="https://james61124.github.io/tags/Mathjax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/tags/Markdown-syntax/"
+                href="https://james61124.github.io/zh/tags/Mathjax/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/tags/Mathjax/</loc>
+    <loc>https://james61124.github.io/zh/blogs/math/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/tags/Mathjax/"
+                href="https://james61124.github.io/blogs/math/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/tags/Mathjax/"
+                href="https://james61124.github.io/zh/blogs/math/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/blogs/math/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://hugo-profile.netlify.app/blogs/math/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/blogs/math/"
-                />
-  </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/blogs/markdown-syntax/</loc>
+    <loc>https://james61124.github.io/zh/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/blogs/markdown-syntax/"
+                href="https://james61124.github.io/blogs/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/blogs/markdown-syntax/"
+                href="https://james61124.github.io/zh/blogs/markdown-syntax/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/tags/Sample/</loc>
+    <loc>https://james61124.github.io/zh/tags/Sample/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/tags/Sample/"
+                href="https://james61124.github.io/tags/Sample/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/tags/Sample/"
+                href="https://james61124.github.io/zh/tags/Sample/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/tags/Emoji-support/</loc>
+    <loc>https://james61124.github.io/zh/tags/Emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/tags/Emoji-support/"
+                href="https://james61124.github.io/tags/Emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/tags/Emoji-support/"
+                href="https://james61124.github.io/zh/tags/Emoji-support/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/blogs/emoji-support/</loc>
+    <loc>https://james61124.github.io/zh/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/blogs/emoji-support/"
+                href="https://james61124.github.io/blogs/emoji-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/blogs/emoji-support/"
+                href="https://james61124.github.io/zh/blogs/emoji-support/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/tags/Placeholder-text/</loc>
+    <loc>https://james61124.github.io/zh/tags/Placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/tags/Placeholder-text/"
+                href="https://james61124.github.io/tags/Placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/tags/Placeholder-text/"
+                href="https://james61124.github.io/zh/tags/Placeholder-text/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/blogs/placeholder-text/</loc>
+    <loc>https://james61124.github.io/zh/blogs/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/blogs/placeholder-text/"
+                href="https://james61124.github.io/blogs/placeholder-text/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/blogs/placeholder-text/"
+                href="https://james61124.github.io/zh/blogs/placeholder-text/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/tags/Rich-content/</loc>
+    <loc>https://james61124.github.io/zh/tags/Rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/tags/Rich-content/"
+                href="https://james61124.github.io/tags/Rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/tags/Rich-content/"
+                href="https://james61124.github.io/zh/tags/Rich-content/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/blogs/rich-content/</loc>
+    <loc>https://james61124.github.io/zh/blogs/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/blogs/rich-content/"
+                href="https://james61124.github.io/blogs/rich-content/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/blogs/rich-content/"
+                href="https://james61124.github.io/zh/blogs/rich-content/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/pages/about/</loc>
+    <loc>https://james61124.github.io/zh/pages/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/pages/about/"
+                href="https://james61124.github.io/pages/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/pages/about/"
+                href="https://james61124.github.io/zh/pages/about/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/categories/</loc>
+    <loc>https://james61124.github.io/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/categories/"
+                href="https://james61124.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/categories/"
+                href="https://james61124.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>https://hugo-profile.netlify.app/zh/pages/</loc>
+    <loc>https://james61124.github.io/zh/pages/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-profile.netlify.app/pages/"
+                href="https://james61124.github.io/pages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://hugo-profile.netlify.app/zh/pages/"
+                href="https://james61124.github.io/zh/pages/"
                 />
   </url>
 </urlset>
