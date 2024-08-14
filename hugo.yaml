@@ -225,7 +225,7 @@ languages:
           - title: 2022 LINE Fresh
             content: Second place in Taiwan 
             # url: /blogs/math
-            image: /images/MeiChuHackathon.jpg
+            image: /images/LINE-FRESH.jpg
           # - title: Council College Student Research Program
           #   content: Selected for the Council College Student Research Program of National Science and Technology Council
           #   # url: /blogs/math
@@ -244,7 +244,7 @@ languages:
           - title: 9th And 10th MeiChu Hackathon
             content: Event Planning Team Leader
             # url: /blogs/math
-            image: /images/MeiChuHackathon.jpg
+            image: /images/10th-MeiChu-Hackathon.jpg
           - title: NYCU Guitar Club
             content: President
             image: /images/GuitarClub.jpg
@@ -480,7 +480,7 @@ languages:
           - title: 2022 LINE Fresh 校園競賽
             content: 亞軍
             # url: /blogs/math
-            image: /images/MeiChuHackathon.jpg
+            image: /images/LINE-FRESH.jpg
           # - title: 大專生計畫
           #   content: 專題入選大專生計畫
           #   # url: /blogs/math
@@ -499,7 +499,7 @@ languages:
           - title: 第九屆和第十屆梅竹黑客松
             content: 活動部長
             # url: /blogs/math
-            image: /images/MeiChuHackathon.jpg
+            image: /images/10th-MeiChu-Hackathon.jpg
           - title: 交通大學吉他社
             content: 社長
             image: /images/GuitarClub.jpg
