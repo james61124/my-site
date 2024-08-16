@@ -1,77 +1,63 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - tag - Hugo Profile</title>
-        <link>https://james61124.github.io/tags/</link>
-        <description>Tags - tag - Hugo Profile</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 17 Feb 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://james61124.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+        <title>Tags - tag - James Blog</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - tag - James Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 23 Feb 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Guitar Club</title>
+    <link>http://localhost:1313/tags/Guitar-Club/</link>
+    <pubDate>Fri, 23 Feb 2024 00:00:00 &#43;0000</pubDate><author>
+        <name></name>
+    </author><guid>http://localhost:1313/tags/Guitar-Club/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>LINE FRESH</title>
+    <link>http://localhost:1313/tags/LINE-FRESH/</link>
+    <pubDate>Tue, 20 Feb 2024 00:00:00 &#43;0000</pubDate><author>
+        <name></name>
+    </author><guid>http://localhost:1313/tags/LINE-FRESH/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Paris</title>
+    <link>http://localhost:1313/tags/Paris/</link>
+    <pubDate>Tue, 20 Feb 2024 00:00:00 &#43;0000</pubDate><author>
+        <name></name>
+    </author><guid>http://localhost:1313/tags/Paris/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Travel</title>
+    <link>http://localhost:1313/tags/Travel/</link>
+    <pubDate>Tue, 20 Feb 2024 00:00:00 &#43;0000</pubDate><author>
+        <name></name>
+    </author><guid>http://localhost:1313/tags/Travel/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Hackathon</title>
-    <link>https://james61124.github.io/tags/Hackathon/</link>
+    <link>http://localhost:1313/tags/Hackathon/</link>
     <pubDate>Sat, 17 Feb 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://james61124.github.io/tags/Hackathon/</guid>
+    </author><guid>http://localhost:1313/tags/Hackathon/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Algorithm</title>
-    <link>https://james61124.github.io/tags/Algorithm/</link>
+    <link>http://localhost:1313/tags/Algorithm/</link>
     <pubDate>Sun, 21 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://james61124.github.io/tags/Algorithm/</guid>
+    </author><guid>http://localhost:1313/tags/Algorithm/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Dynamic Programming</title>
-    <link>https://james61124.github.io/tags/Dynamic-Programming/</link>
+    <link>http://localhost:1313/tags/Dynamic-Programming/</link>
     <pubDate>Sun, 21 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://james61124.github.io/tags/Dynamic-Programming/</guid>
+    </author><guid>http://localhost:1313/tags/Dynamic-Programming/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Github</title>
-    <link>https://james61124.github.io/tags/Github/</link>
+    <link>http://localhost:1313/tags/Github/</link>
     <pubDate>Thu, 18 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://james61124.github.io/tags/Github/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>emoji</title>
-    <link>https://james61124.github.io/tags/emoji/</link>
-    <pubDate>Wed, 01 Feb 2023 00:00:00 &#43;0000</pubDate><author>
-        <name></name>
-    </author><guid>https://james61124.github.io/tags/emoji/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Example</title>
-    <link>https://james61124.github.io/tags/Example/</link>
-    <pubDate>Fri, 09 Dec 2022 19:53:33 &#43;0530</pubDate><author>
-        <name></name>
-    </author><guid>https://james61124.github.io/tags/Example/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Markdown syntax</title>
-    <link>https://james61124.github.io/tags/Markdown-syntax/</link>
-    <pubDate>Fri, 09 Dec 2022 19:53:33 &#43;0530</pubDate><author>
-        <name></name>
-    </author><guid>https://james61124.github.io/tags/Markdown-syntax/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Mathjax</title>
-    <link>https://james61124.github.io/tags/Mathjax/</link>
-    <pubDate>Fri, 09 Dec 2022 19:53:33 &#43;0530</pubDate><author>
-        <name></name>
-    </author><guid>https://james61124.github.io/tags/Mathjax/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Sample</title>
-    <link>https://james61124.github.io/tags/Sample/</link>
-    <pubDate>Sat, 03 Apr 2021 23:29:21 &#43;0530</pubDate><author>
-        <name></name>
-    </author><guid>https://james61124.github.io/tags/Sample/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Emoji support</title>
-    <link>https://james61124.github.io/tags/Emoji-support/</link>
-    <pubDate>Sat, 03 Apr 2021 22:53:58 &#43;0530</pubDate><author>
-        <name></name>
-    </author><guid>https://james61124.github.io/tags/Emoji-support/</guid>
+    </author><guid>http://localhost:1313/tags/Github/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

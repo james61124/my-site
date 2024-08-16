@@ -16,40 +16,51 @@ languages:
     weight: 1
     Menus:
       main:
-        - identifier: blog
-          name: Blog
-          title: Blog posts
-          url: /blogs
+        - identifier: life
+          name: Life
+          title: life posts
+          url: /life
           weight: 1
-        # - identifier: gallery
-        #   name: Gallery
-        #   title: Blog posts
-        #   url: /gallery
-        #   weight: 2
-        # Dropdown menu
-        - identifier: blog
-          title: Blog posts
-          name: Blog
-          url: /blogs
-          weight: 1
-        - identifier: Blog
-          title: Blog posts
-          name: Post
-          url: /blogs
-          parent: blog
-          weight: 1
-        - identifier: Category
-          title: Category
-          name: Category
-          url: /categories/
-          parent: blog
+        - identifier: travel
+          name: Travel
+          title: travel posts
+          url: /travel
           weight: 2
-        - identifier: Tag
-          title: Tag
-          name: Tag
-          url: /tags/
-          parent: blog
+        - identifier: program
+          name: Program
+          title: program posts
+          url: /program
           weight: 3
+        
+        ### Dropdown menu
+        # - identifier: blog
+        #   name: Blog
+        #   title: Blog posts
+        #   url: /blogs
+        #   weight: 1
+        # - identifier: blog
+        #   title: Blog posts
+        #   name: Blog
+        #   url: /blogs
+        #   weight: 1
+        # - identifier: Blog
+        #   title: Blog posts
+        #   name: Post
+        #   url: /blogs
+        #   parent: blog
+        #   weight: 1
+        # - identifier: Category
+        #   title: Category
+        #   name: Category
+        #   url: /categories/
+        #   parent: blog
+        #   weight: 2
+        # - identifier: Tag
+        #   title: Tag
+        #   name: Tag
+        #   url: /tags/
+        #   parent: blog
+        #   weight: 3
 
     params:
 
@@ -91,7 +102,7 @@ languages:
       about:
         enable: true
         title: "About Me"
-        # image: "/images/aboutme_selfie.svg"
+        image: "/images/homepage_selfie_v3.jpg"
         content: |-
           Hello everyone, I'm James, a computer science enthusiast who enjoys music and playing sports. 
 
@@ -164,10 +175,23 @@ languages:
         enable: true
         title: "Work Experience"
         items:
-          - job: "Research and Development Intern"
+          - job: "CS EUV Software Engineer"
+            company: "ASML in Headquarters"
+            companyUrl: ""
+            date: "Jul 2024 - present"
+            featuredLink:
+              enable: true
+              name: "About the Product"
+              url: "https://example.com"
+            #   info:
+            #     enable: true
+            #     content: I worked as a software developer for more than one year in Amazon.
+            content: "Our team is tasked with developing eDetector, which is an integrated tool designed for cybersecurity, malware detection, and forensic analysis."
+
+          - job: "R&D Software Engineer"
             company: "Block Chain Security Crop."
             companyUrl: "https://chainsecurity.asia/"
-            date: "Jul 2023 - present"
+            date: "Jul 2023 - Jul 2024"
             featuredLink:
               enable: true
               name: "About the Product"
@@ -257,8 +281,6 @@ languages:
           # - title: Google Summer of Code
           #   content: Contributed to a open source project.
           #   url: https://example.com
-
-
   zh:
     contentDir: content/zh
     languageCode: zh
@@ -266,48 +288,57 @@ languages:
     weight: 2
     Menus:
       main:
-        - identifier: blog
-          name: 部落格
-          title: Blog posts
-          url: /zh/blogs
+        - identifier: life
+          name: 生活
+          title: life posts
+          url: /zh/life
           weight: 1
-        # - identifier: gallery
-        #   name: Gallery
-        #   title: Blog posts
-        #   url: /gallery
-        #   weight: 2
-        # Dropdown menu
-        - identifier: blog
-          title: Blog posts
-          name: 部落格
-          url: /zh/blogs
-          weight: 1
-        - identifier: Blog
-          title: Blog posts
-          name: 文章
-          url: /zh/blogs
-          parent: blog
-          weight: 1
-        - identifier: Category
-          title: Category
-          name: 分類
-          url: /zh/categories/
-          parent: blog
+        - identifier: travel
+          name: 旅行
+          title: travel posts
+          url: /zh/travel
           weight: 2
-        - identifier: Tag
-          title: Tag
-          name: 標籤
-          url: /zh/tags/
-          parent: blog
+        - identifier: program
+          name: 程式
+          title: program posts
+          url: /zh/program
           weight: 3
 
+        ### Dropdown menu
+        # - identifier: blog
+        #   name: 部落格
+        #   title: Blog posts
+        #   url: /zh/blogs
+        #   weight: 1
+        # - identifier: blog
+        #   title: Blog posts
+        #   name: 部落格
+        #   url: /zh/blogs
+        #   weight: 1
+        # - identifier: Blog
+        #   title: Blog posts
+        #   name: 文章
+        #   url: /zh/blogs
+        #   parent: blog
+        #   weight: 1
+        # - identifier: Category
+        #   title: Category
+        #   name: 分類
+        #   url: /zh/categories/
+        #   parent: blog
+        #   weight: 2
+        # - identifier: Tag
+        #   title: Tag
+        #   name: 標籤
+        #   url: /zh/tags/
+        #   parent: blog
+        #   weight: 3
 
     params:
-
       hero:
         enable: true
         intro: "嗨，我是"
-        title: "James Chiu"
+        title: "邱"
         subtitle: "軟體工程師"
         content: "勇敢跳脫舒適圈，這才是人生的起點。"
         image: /images/homepage_selfie_v1.jpg
@@ -340,18 +371,17 @@ languages:
       about:
         enable: true
         title: "關於我"
-        # image: "/images/aboutme_selfie.svg"
+        image: /images/homepage_selfie_v3.jpg
         content: |-
-          大家好，我是 James ，是個喜歡音樂跟打球的資工人。
+          大家好，大家比較喜歡直接叫我邱，是個喜歡音樂跟運動的資工人。
 
-          這是我的部落格，裡面記錄了我的人生歷程，還有一些技術分享，如果有建議的話歡迎在文章的留言板留言交流。
+          原本覺得求學階段滿無趣的，好像念太多書了，但升上大學之後發生了很多有趣的事情，做了很多以前從來沒有想過可以做的事。
+
+          這是我的部落格，裡面記錄了我的人生歷程，還有一些技術分享，如果有建議的話歡迎私訊交流。
 
         # 技能包 - C/C++, Python, Shell Script, Java, Kotlin, HTML, CSS, Javascript, Go
-
         # 框架 - Django, Flask, React Native, Hugo
-
         # 開發工具 - Git, Docker, Podman, Nginx, Heroku, Unix APIs, FreeBSD
-
         # 興趣 - Guitar, Piano, Badminton, Basketball, Chess
         # skills:
         #   enable: true
@@ -369,18 +399,34 @@ languages:
         enable: true
         title: "工作經驗"
         items:
-          - job: "研發實習生"
-            company: "區塊科技股份有限公司"
-            companyUrl: "https://chainsecurity.asia/"
-            date: "Jul 2023 - 現在"
+          - job: "CS EUV Software Enginner"
+            company: "ASML總部"
+            companyUrl: "https://www.asml.com/en"
+            date: "Jul 2024 - 現在"
             featuredLink:
-              enable: true
+              enable: false
               name: "View the project"
               url: "https://example.com"
-            #   info:
-            #     enable: true
-            #     content: I worked as a software developer for more than one year in Amazon.
-            content: "我們團隊主要負責開發 eDetector - 一款次世代的鑑識軟體，擁有偵測惡意程式、記憶體痕跡取證等功能。"
+              info:
+                enable: true
+                content: I worked as a software developer for more than one year in Amazon.
+            content: "主要負責開發 Real Time Monitoring Tool，可以實時監控機台的錯誤程序並通知一線工程師進行修復。
+                      以及開發 CS EUV Central End-to-End Issue Management 平台，旨在跨領域整合並分析各部門的資訊來協助產品領導管理框架性議題。"
+
+          - job: "R&D Software Engineer"
+            company: "區塊科技股份有限公司"
+            companyUrl: "https://chainsecurity.asia/"
+            date: "Jul 2023 - Jul 2024"
+            featuredLink:
+              enable: false
+              name: "View the project"
+              url: "https://example.com"
+              info:
+                enable: true
+                content: I worked as a software developer for more than one year in Amazon.
+            content: "我主要負責開發 eDetector - 一款次世代的鑑識軟體，擁有偵測惡意程式、記憶體痕跡取證等功能，
+                      利用後端微服務系統增加系統穩定性及可擴充性，並且已在市場流通。"
+          
       
       # Education
       education:
@@ -388,7 +434,7 @@ languages:
         title: "教育"
         index: false
         items:
-          - title: "資工系學士"
+          - title: "資訊工程學系學士"
             school:
               name: "國立陽明交通大學"
               url: "https://www.nycu.edu.tw/nycu/en/index"
@@ -561,8 +607,8 @@ params:
   animate: true
 
   theme:
-    disableThemeToggle: true
-    defaultTheme: "dark" # dark
+    disableThemeToggle: false
+    # defaultTheme: "dark" # dark
 
   font:
     fontSize: 1rem # default: 1rem
@@ -605,18 +651,6 @@ params:
       disableProjects: false
       disableAchievements: false
       disableContact: false
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
   #Contact
   contact:

@@ -86,21 +86,7 @@
                         </li>
                     {{ end }}
 
-                    {{ if and (.Site.Params.about.enable | default false) (not (.Site.Params.navbar.menus.disableAbout | default false)) }}
-                        {{ if eq .Site.Language.Lang "zh" }}
-                            <li class="nav-item navbar-text">
-                                <a class="nav-link" href="{{ absURL "/" }}/zh/" aria-label="about">
-                                    {{ .Site.Params.about.title | default "About" }}
-                                </a>
-                            </li>
-                        {{ else }}
-                            <li class="nav-item navbar-text">
-                                <a class="nav-link" href="{{ .Site.BaseURL | relURL }}" aria-label="about">
-                                    {{ .Site.Params.about.title | default "About" }}
-                                </a>
-                            </li>
-                        {{ end }}
-                    {{ end }}
+                    
 
                     <!-- {{ if and (.Site.Params.experience.enable | default false) (not (.Site.Params.navbar.menus.disableExperience | default false)) }}
                     <li class="nav-item navbar-text">
@@ -184,6 +170,22 @@
                     </li>
                     {{end}}
                     {{end}}
+
+                    {{ if and (.Site.Params.about.enable | default false) (not (.Site.Params.navbar.menus.disableAbout | default false)) }}
+                        {{ if eq .Site.Language.Lang "zh" }}
+                            <li class="nav-item navbar-text">
+                                <a class="nav-link" href="{{ absURL "/" }}/zh/" aria-label="about">
+                                    {{ .Site.Params.about.title | default "About" }}
+                                </a>
+                            </li>
+                        {{ else }}
+                            <li class="nav-item navbar-text">
+                                <a class="nav-link" href="{{ .Site.BaseURL | relURL }}" aria-label="about">
+                                    {{ .Site.Params.about.title | default "About" }}
+                                </a>
+                            </li>
+                        {{ end }}
+                    {{ end }}
 
                     {{ with .Translations }}
                     <li class="nav-item navbar-text">

@@ -2,329 +2,316 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://james61124.github.io/zh/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/zh/categories/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/"
+                href="http://localhost:1313/zh/categories/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/posts/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/zh/tags/Guitar-Club/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/posts/"
+                href="http://localhost:1313/tags/Guitar-Club/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/posts/"
+                href="http://localhost:1313/zh/tags/Guitar-Club/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/posts/table-of-content/</loc>
-    <lastmod>2023-05-02T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/zh/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/posts/table-of-content/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/posts/table-of-content/"
+                href="http://localhost:1313/zh/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/posts/math-typesetting/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/zh/categories/Life/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/posts/math-typesetting/"
+                href="http://localhost:1313/categories/Life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/posts/math-typesetting/"
+                href="http://localhost:1313/zh/categories/Life/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/posts/markdown-syntax/</loc>
-    <lastmod>2023-02-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/zh/life/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/posts/markdown-syntax/"
+                href="http://localhost:1313/life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/posts/markdown-syntax/"
+                href="http://localhost:1313/zh/life/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/posts/rich-content/</loc>
-    <lastmod>2023-02-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/zh/tags/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/posts/rich-content/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/posts/rich-content/"
+                href="http://localhost:1313/zh/tags/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/posts/placeholder-text/</loc>
-    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/zh/life/guitar-club/</loc>
+    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/posts/placeholder-text/"
+                href="http://localhost:1313/life/guitar-club/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/posts/placeholder-text/"
+                href="http://localhost:1313/zh/life/guitar-club/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/tags/emoji/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/zh/life/2022-line-fresh/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/tags/emoji/"
+                href="http://localhost:1313/life/2022-line-fresh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/tags/emoji/"
+                href="http://localhost:1313/zh/life/2022-line-fresh/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/posts/emoji-support/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/zh/tags/LINE-FRESH/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/posts/emoji-support/"
+                href="http://localhost:1313/tags/LINE-FRESH/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/posts/emoji-support/"
+                href="http://localhost:1313/zh/tags/LINE-FRESH/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/tags/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/zh/tags/Paris/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/tags/"
+                href="http://localhost:1313/tags/Paris/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/tags/"
+                href="http://localhost:1313/zh/tags/Paris/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/blogs/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <loc>http://localhost:1313/zh/tags/Travel/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/blogs/"
+                href="http://localhost:1313/tags/Travel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/blogs/"
+                href="http://localhost:1313/zh/tags/Travel/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/tags/example/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
-  </url><url>
-    <loc>https://james61124.github.io/zh/tags/Markdown-syntax/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <loc>http://localhost:1313/zh/travel/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/tags/Markdown-syntax/"
+                href="http://localhost:1313/travel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/tags/Markdown-syntax/"
+                href="http://localhost:1313/zh/travel/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/tags/Mathjax/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <loc>http://localhost:1313/zh/travel/paris-20240125/</loc>
+    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/tags/Mathjax/"
+                href="http://localhost:1313/travel/paris-20240125/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/tags/Mathjax/"
+                href="http://localhost:1313/zh/travel/paris-20240125/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/blogs/math/</loc>
-    <lastmod>2022-12-09T19:53:33+05:30</lastmod>
+    <loc>http://localhost:1313/zh/tags/Hackathon/</loc>
+    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/blogs/math/"
+                href="http://localhost:1313/tags/Hackathon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/blogs/math/"
+                href="http://localhost:1313/zh/tags/Hackathon/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/blogs/markdown-syntax/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
+    <loc>http://localhost:1313/zh/life/11th-meichu-hackathon/</loc>
+    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/blogs/markdown-syntax/"
+                href="http://localhost:1313/life/11th-meichu-hackathon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/blogs/markdown-syntax/"
+                href="http://localhost:1313/zh/life/11th-meichu-hackathon/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/tags/Sample/</loc>
-    <lastmod>2021-04-03T23:29:21+05:30</lastmod>
+    <loc>http://localhost:1313/zh/life/meichu-hackathon-event-planning-leader/</loc>
+    <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/tags/Sample/"
+                href="http://localhost:1313/life/meichu-hackathon-event-planning-leader/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/tags/Sample/"
+                href="http://localhost:1313/zh/life/meichu-hackathon-event-planning-leader/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/tags/Emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
+    <loc>http://localhost:1313/zh/tags/Algorithm/</loc>
+    <lastmod>2024-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/tags/Emoji-support/"
+                href="http://localhost:1313/tags/Algorithm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/tags/Emoji-support/"
+                href="http://localhost:1313/zh/tags/Algorithm/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/blogs/emoji-support/</loc>
-    <lastmod>2021-04-03T22:53:58+05:30</lastmod>
+    <loc>http://localhost:1313/zh/categories/Algorithm/</loc>
+    <lastmod>2024-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/blogs/emoji-support/"
+                href="http://localhost:1313/categories/Algorithm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/blogs/emoji-support/"
+                href="http://localhost:1313/zh/categories/Algorithm/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/tags/Placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+    <loc>http://localhost:1313/zh/program/the-rod-cutting-problem/</loc>
+    <lastmod>2024-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/tags/Placeholder-text/"
+                href="http://localhost:1313/program/the-rod-cutting-problem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/tags/Placeholder-text/"
+                href="http://localhost:1313/zh/program/the-rod-cutting-problem/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/blogs/placeholder-text/</loc>
-    <lastmod>2021-04-03T22:41:10+05:30</lastmod>
+    <loc>http://localhost:1313/zh/tags/Dynamic-Programming/</loc>
+    <lastmod>2024-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/blogs/placeholder-text/"
+                href="http://localhost:1313/tags/Dynamic-Programming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/blogs/placeholder-text/"
+                href="http://localhost:1313/zh/tags/Dynamic-Programming/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/tags/Rich-content/</loc>
-    <lastmod>2021-04-03T19:53:33+05:30</lastmod>
+    <loc>http://localhost:1313/zh/program/</loc>
+    <lastmod>2024-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/tags/Rich-content/"
+                href="http://localhost:1313/program/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/tags/Rich-content/"
+                href="http://localhost:1313/zh/program/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/blogs/rich-content/</loc>
-    <lastmod>2021-04-03T19:53:33+05:30</lastmod>
+    <loc>http://localhost:1313/zh/tags/Github/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/blogs/rich-content/"
+                href="http://localhost:1313/tags/Github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/blogs/rich-content/"
+                href="http://localhost:1313/zh/tags/Github/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/pages/about/</loc>
+    <loc>http://localhost:1313/zh/categories/Github/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/pages/about/"
+                href="http://localhost:1313/categories/Github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/pages/about/"
+                href="http://localhost:1313/zh/categories/Github/"
                 />
   </url><url>
-    <loc>https://james61124.github.io/zh/categories/</loc>
+    <loc>http://localhost:1313/zh/program/github/</loc>
+    <lastmod>2024-01-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://james61124.github.io/categories/"
+                href="http://localhost:1313/program/github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://james61124.github.io/zh/categories/"
-                />
-  </url><url>
-    <loc>https://james61124.github.io/zh/pages/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://james61124.github.io/pages/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://james61124.github.io/zh/pages/"
+                href="http://localhost:1313/zh/program/github/"
                 />
   </url>
 </urlset>
