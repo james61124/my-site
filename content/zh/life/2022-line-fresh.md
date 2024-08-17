@@ -5,7 +5,7 @@ draft: false
 author: "James"
 tags:
   - LINE FRESH
-# image: /images/post.jpg
+image: /images/LINE-FRESH.jpg
 description: ""
 toc: 
 categories:

@@ -5,7 +5,7 @@ draft: false
 author: "James"
 tags:
   - Guitar Club
-# image: /images/post.jpg
+image: /images/GuitarClub.jpg
 description: ""
 toc: 
 categories:

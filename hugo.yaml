@@ -69,8 +69,8 @@ languages:
         enable: true
         intro: "Hi, my name is"
         title: "James Chiu"
-        subtitle: "software developer"
-        content: "Step outside of your confort zone, for that's where life truly begins."
+        subtitle: "Music and sports-loving computer scientist"
+        content: "Bravely stepping out of the comfort zone to explore new sides of myself."
         image: /images/homepage_selfie_v1.jpg
         bottomImage:
           enable: false
@@ -104,9 +104,15 @@ languages:
         title: "About Me"
         image: "/images/homepage_selfie_v3.jpg"
         content: |-
-          Hello everyone, I'm James, a computer science enthusiast who enjoys music and playing sports. 
+          Hi everyone, you can just call me Chiu. I’m a computer science student with a passion for music and sports.
 
-          This is my blog, where I document my life journey, reflections, and share some technical insights. If you have any suggestions, feel free to leave a comment on the post and let's engage in some meaningful discussions!
+          I used to find school life quite boring and felt like I was just studying too much. 
+          But after entering university, many interesting things started happening. 
+          I did things I never thought I could do before and met many different kinds of people. 
+          Recently, I’ve been feeling that I should document my life, or else all these wonderful memories might just fade away.
+
+          This is my blog, where I record my life journey and share some technical knowledge. 
+          If you have any suggestions or topics you’d like me to cover, feel free to message me or leave a comment.
 
         # skills:
         #   enable: true
@@ -175,31 +181,35 @@ languages:
         enable: true
         title: "Work Experience"
         items:
-          - job: "CS EUV Software Engineer"
-            company: "ASML in Headquarters"
-            companyUrl: ""
-            date: "Jul 2024 - present"
+          - job: "CS EUV Software Engineer in Headquarters"
+            company: "ASML in Veldhoven"
+            companyUrl: "https://www.asml.com/en"
+            date: "Jul 2024 - now"
             featuredLink:
-              enable: true
-              name: "About the Product"
+              enable: false
+              name: "View the project"
               url: "https://example.com"
-            #   info:
-            #     enable: true
-            #     content: I worked as a software developer for more than one year in Amazon.
-            content: "Our team is tasked with developing eDetector, which is an integrated tool designed for cybersecurity, malware detection, and forensic analysis."
+              info:
+                enable: true
+                content: I worked as a software developer for more than one year in Amazon.
+            content: "Primarily responsible for developing a Real-Time Monitoring Tool that can monitor machine error processes in real time and notify frontline engineers for repairs. 
+                      Additionally, I developed the CS EUV Central End-to-End Issue Management platform, 
+                      which aims to integrate and analyze information across different departments to assist product leadership in managing systemic issues."
 
           - job: "R&D Software Engineer"
-            company: "Block Chain Security Crop."
+            company: "Block Chain Security in Taipei"
             companyUrl: "https://chainsecurity.asia/"
             date: "Jul 2023 - Jul 2024"
             featuredLink:
-              enable: true
-              name: "About the Product"
+              enable: false
+              name: "View the project"
               url: "https://example.com"
-            #   info:
-            #     enable: true
-            #     content: I worked as a software developer for more than one year in Amazon.
-            content: "Our team is tasked with developing eDetector, which is an integrated tool designed for cybersecurity, malware detection, and forensic analysis."
+              info:
+                enable: true
+                content: I worked as a software developer for more than one year in Amazon.
+            content: "Primarily responsible for developing eDetector, 
+            a next-generation forensic software that includes features such as detecting malware and memory trace forensics. 
+            It uses a backend microservices system to enhance system stability and scalability, and it is already available in the market."
       
       # Education
       education:
@@ -244,11 +254,11 @@ languages:
         items:
           - title: 11th MeiChu Hackathon
             content: Champianship in Google Team
-            url: /blogs/11th-meichu-hackathon
+            url: /life/11th-meichu-hackathon
             image: /images/MeiChuHackathon.jpg
           - title: 2022 LINE Fresh
             content: Second place in Taiwan 
-            # url: /blogs/math
+            url: /life/2022-line-fresh
             image: /images/LINE-FRESH.jpg
           # - title: Council College Student Research Program
           #   content: Selected for the Council College Student Research Program of National Science and Technology Council
@@ -267,10 +277,11 @@ languages:
         items:
           - title: 9th And 10th MeiChu Hackathon
             content: Event Planning Team Leader
-            # url: /blogs/math
+            url: /life/meichu-hackathon-event-planning-leader
             image: /images/10th-MeiChu-Hackathon.jpg
           - title: NYCU Guitar Club
             content: President
+            url: /life/guitar club
             image: /images/GuitarClub.jpg
           - title: Department Badminton Team
             content: Vice Captain
@@ -339,8 +350,8 @@ languages:
         enable: true
         intro: "嗨，我是"
         title: "邱"
-        subtitle: "軟體工程師"
-        content: "勇敢跳脫舒適圈，這才是人生的起點。"
+        subtitle: "熱愛音樂與運動的資工人"
+        content: "勇敢跳脫舒適圈，探索不同的自己"
         image: /images/homepage_selfie_v1.jpg
         bottomImage:
           enable: false
@@ -373,11 +384,12 @@ languages:
         title: "關於我"
         image: /images/homepage_selfie_v3.jpg
         content: |-
-          大家好，大家比較喜歡直接叫我邱，是個喜歡音樂跟運動的資工人。
+          大家好，大家比較喜歡直接叫我邱，是個熱愛音樂與運動的資工人。
 
-          原本覺得求學階段滿無趣的，好像念太多書了，但升上大學之後發生了很多有趣的事情，做了很多以前從來沒有想過可以做的事。
+          原本覺得求學階段滿無趣的，好像念太多書了，但升上大學之後發生了很多有趣的事情，做了很多以前從來沒有想過可以做的事，也認識了很多不一樣的人。
+          最近覺得應該要記錄一下生活軌跡，不然精采的生活會不小心就被忘了。
 
-          這是我的部落格，裡面記錄了我的人生歷程，還有一些技術分享，如果有建議的話歡迎私訊交流。
+          這是我的部落格，裡面記錄了我的人生歷程，還有一些技術分享，如果有建議或是想要我分項的歡迎私訊交流或是留言貼文。
 
         # 技能包 - C/C++, Python, Shell Script, Java, Kotlin, HTML, CSS, Javascript, Go
         # 框架 - Django, Flask, React Native, Hugo
@@ -521,11 +533,11 @@ languages:
         items:
           - title: 第 11 屆梅竹黑客松
             content: Google 組第一名
-            url: /blogs/11th-meichu-hackathon
+            url: /zh/life/11th-meichu-hackathon
             image: /images/MeiChuHackathon.jpg
           - title: 2022 LINE Fresh 校園競賽
             content: 亞軍
-            # url: /blogs/math
+            url: /zh/life/2022-line-fresh
             image: /images/LINE-FRESH.jpg
           # - title: 大專生計畫
           #   content: 專題入選大專生計畫
@@ -544,10 +556,11 @@ languages:
         items:
           - title: 第九屆和第十屆梅竹黑客松
             content: 活動部長
-            # url: /blogs/math
+            url: /zh/life/meichu-hackathon-event-planning-leader
             image: /images/10th-MeiChu-Hackathon.jpg
           - title: 交通大學吉他社
             content: 社長
+            url: /zh/life/guitar-club
             image: /images/GuitarClub.jpg
           - title: 交通大學資工系系羽
             content: 副隊長

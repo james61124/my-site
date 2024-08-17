@@ -5,7 +5,7 @@ draft: false
 author: "James"
 tags:
   - Hackathon
-# image: /images/post.jpg
+image: /images/10th-MeiChu-Hackathon.jpg
 description: ""
 toc: 
 categories:

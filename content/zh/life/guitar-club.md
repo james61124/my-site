@@ -1,11 +1,11 @@
 ---
-title: "交大吉他社社團生活分享 - 社團生活帶給我的改變"
+title: "交大吉他社社團生活分享"
 date: 2024-02-23
 draft: false
 author: "James"
 tags:
   - Guitar Club
-# image: /images/post.jpg
+image: /images/GuitarClub.jpg
 description: ""
 toc: 
 categories:
