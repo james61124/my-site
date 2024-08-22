@@ -1,5 +1,5 @@
 ---
-title: "2022 LINE FRESH 參賽過程與參賽心得"
+title: "Insights from the 2022 LINE FRESH Competition"
 date: 2024-02-20
 draft: false
 author: "James"
@@ -12,22 +12,21 @@ categories:
   - Life
 ---
 
-## **作品介紹**
+## **Project Overview**
 
-我們設計了一個 Dida Dream - 及時予系統，期望透過即期品整合平台搭配線上剩食捐贈管道來達成剩食再分配的目標。我們主要功能有四個，即期品資料蒐集、客製化推播、捐贈計畫以及會員制度。
+We designed a system called "Dida Dream - Timely Assistance System," aiming to achieve food redistribution by integrating a platform for near-expiry products with an online donation channel. Our main features include data collection of near-expiry products, customized notifications, donation plans, and a membership system.
 
-### **專案介紹**
+### **Project Introduction**
 
-#### **即期品資料蒐集**
+#### **Data Collection of Near-Expiry Products**
 
 ![image](/images/posts/2022-line-fresh/data-collection-1.png)
 
 ![image](/images/posts/2022-line-fresh/data-collection-2.png)
 
+We aimed to collaborate with chain and local businesses, integrating a backend database to collect all near-expiry product information. Chain stores served as the initial data source, with their APIs providing real-time updates on near-expiry products. For local shops, dedicated personnel handled data entry, and updates were made via our website.
 
-我們引入連鎖商家及在地商家，搭配後端資料庫整合並蒐集所有即期品資訊，利用連鎖商家作為初期的資料來源，結合商家本身的 API 來及時更新即期品資訊，在地小商家會由專人進行建檔服務，並透過網站更新即期品資訊。
-
-#### **客製化推播**
+#### **Customized Notifications**
 
 ![image](/images/posts/2022-line-fresh/customized-push-message-1.png)
 
@@ -35,42 +34,42 @@ categories:
 
 ![image](/images/posts/2022-line-fresh/customized-push-message-3.png)
 
-我們利用 LINE Bot 定期推播優惠資訊，並利用使用者註冊時填的資料來客製化優惠內容，同時推出 You Are What You Eat 的心理小測驗來客製化預覽訊息的樣式，增加使用者黏著度。
+We utilized LINE Bot to send regular notifications about discounts. These notifications were customized based on the data users provided during registration. Additionally, we introduced a psychological quiz called "You Are What You Eat" to personalize the style of the preview messages, enhancing user engagement.
 
-#### **捐贈計畫**
+#### **Donation Plan**
 
 ![image](/images/posts/2022-line-fresh/donate.png)
 
-為了達到剩食再分配的目的，我們利用 LINE 禮物跟即時卷，搭建 Giver 跟 Requester 的橋樑，想辦法將剩食送到需要的人手中，Giver 可以透過系統發送即時卷，Request 在發送請求後，經過我們的即時配對系統，就可以收到 Giver 發送的即時卷，可以去特定商店兌換即期品。而 Requester 的名單則是選擇跟政府合作，發送邀請碼，這樣可以保障低收入戶的個資，也可以快速推廣我們的計畫。而 Giver 在發送即時卷後可以利用 Dida Collection 集點卡集點，增加 Giver 的捐贈動機。
+To achieve food redistribution, we used LINE Gift and instant coupons to connect Givers and Requesters, ensuring surplus food reaches those in need. Givers can send instant coupons through the system, which Requesters can redeem at specific stores after a real-time matching process. The Requester list is managed in collaboration with the government, using invitation codes to protect low-income individuals' privacy and to quickly promote our program. Givers are also incentivized with points through the Dida Collection loyalty card, encouraging more donations.
 
-#### **商家會員制度**
+#### **Merchant Membership System**
 
-根據不同商家贊助金額商家會拿到 Bronze, Silver, Gold 等不同級別徽章，同時帶有不同程度的福利例如搜尋引擎推播、特別企劃等等。
+Based on the amount of sponsorship, merchants receive badges like Bronze, Silver, and Gold, each offering different benefits such as search engine promotion and special projects.
 
-### **行銷管道**
+### **Marketing Channels**
 
-#### **數位媒體推廣**
+#### **Digital Media Promotion**
 
-Dida Collection 集點卡以及 You Are What You Eat 心理測驗都設有一鍵分享功能，增加我們在社群軟體的曝光度，同時跟公益團體、KOL 等重要人物合作，擴大影響範圍
+Both the Dida Collection loyalty card and the "You Are What You Eat" quiz feature one-click sharing options, increasing our exposure on social media. We also collaborated with NGOs and Key Opinion Leaders (KOLs) to broaden our reach.
 
 #### **LINE Beacon**
 
-利用 LINE Beacon 推播我們的官方帳號，讓使用者在合作商家、連鎖商店等區域可以接收到附近的即期品資訊
+We used LINE Beacon to push notifications from our official account, enabling users in areas near partner shops and chain stores to receive information about nearby near-expiry products.
 
-### **商業模式**
+### **Business Model**
 
-支出方面主要是前後端的資料維護費用以及 LINE Bot 大量推播費用，而收入方面則是透過商家會費、大額捐贈抽成、Beacon 加購方案、政府津貼以及使用者支持等方法來達成金流循環。
+Our main expenses include backend data maintenance and the cost of mass messaging via LINE Bot. On the revenue side, we generate income through merchant membership fees, large donation commissions, Beacon upgrade plans, government subsidies, and user contributions to create a sustainable financial model.
 
-## **技術架構**
+## **Technical Architecture**
 
-![image](https://hackmd.io/_uploads/ryMhSJpsT.png)
+![image](/images/posts/2022-line-fresh/techniques.jpg)
 
-我們利用 Django 來食做官方帳號，並串接各種 LINE API，利用 LINE LIFF 連接至我們的官方網站，並將整個前後端利用 Apache Server 部屬在 VPS 上，至於前期資料的部分則是利用全家 API 來獲得當前資料
+We built the official account using Django and integrated various LINE APIs. The LINE LIFF was connected to our official website, and the entire frontend and backend were deployed on a VPS using Apache Server. For initial data, we used the FamilyMart API to obtain current information.
 
-## **參賽心得**
+## **Insights**
 
-這是一次長期的比賽，因為從開始發想到產出專案大約有 3 個月的時間。個人是認為 LINE 滿認真在籌備這次的校園競賽的，中間舉辦了很多次的工作坊，讓參賽者可以學習到一些商業模式跟專案發想的一些思路，配有導師可以跟他們討論專案的可行性跟完整性，更重要的是讓我們更清楚 LINE 在這個比賽比較重視哪一塊。
+This was a long-term competition, taking about three months from initial concept to final project delivery. I believe LINE put a lot of effort into preparing for this campus competition, holding numerous workshops that taught us about business models and project ideation. They also provided mentors to discuss the feasibility and completeness of our projects, helping us understand which aspects LINE prioritizes in this competition.
 
-LINE 舉辦這次的比賽主旨應該是跨界合作，希望可以結合技術人才跟商業人才來發想專案，進而產生新的火花，自己覺得滿幸運的因為組員剛好各司其職，大家都有自己擅長的地方，而且同為資工系時間分配跟合作模式大家也都很熟悉了。
+LINE's main goal in organizing this competition was likely to encourage cross-disciplinary collaboration, combining technical and business talents to spark new ideas. I was fortunate that my team members each had their strengths and were well-suited for their roles. Since we were all from the Computer Science department, we were familiar with time management and collaboration methods.
 
-而這次比賽算是自己第一次協作大型專案，以前都是完成課堂作業而已，滿高興大家可以花時間去認真籌備一場比賽，拿不拿獎自己反而覺得其次，重要的是這次比賽在技術進步上有很大的突破，而且讓自己更不會害怕大型專案，雖然現在回頭看運用到的技術都很簡單，不過這些都是進步的過程，讓我們技能樹又多點了一塊。
+This competition was my first experience working on a large-scale project. Previously, I had only completed classroom assignments, so I was delighted that everyone took the time to seriously prepare for this competition. Winning a prize became secondary to me; what mattered most was the significant technical progress we made and how this experience made me less intimidated by large projects. Although the technologies we used seem simple in hindsight, they were essential steps in our growth, adding another branch to our skill tree.

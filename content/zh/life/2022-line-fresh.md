@@ -63,9 +63,9 @@ Dida Collection 集點卡以及 You Are What You Eat 心理測驗都設有一鍵
 
 ## **技術架構**
 
-![image](https://hackmd.io/_uploads/ryMhSJpsT.png)
+![image](/images/posts/2022-line-fresh/techniques.jpg)
 
-我們利用 Django 來食做官方帳號，並串接各種 LINE API，利用 LINE LIFF 連接至我們的官方網站，並將整個前後端利用 Apache Server 部屬在 VPS 上，至於前期資料的部分則是利用全家 API 來獲得當前資料
+我們利用 Django 來實作官方帳號，並串接各種 LINE API，利用 LINE LIFF 連接至我們的官方網站，並將整個前後端利用 Apache Server 部屬在 VPS 上，至於前期資料的部分則是利用全家 API 來獲得當前資料
 
 ## **參賽心得**
 
