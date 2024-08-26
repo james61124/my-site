@@ -1,5 +1,5 @@
 ---
-title: "梅竹黑客松籌備心得"
+title: "Insights from Organizing the Mei-Chu Hackathon"
 date: 2024-02-17
 draft: false
 author: "James"
@@ -12,54 +12,54 @@ categories:
   - Life
 ---
 
-梅竹黑客松是全台最大的校園黑客松，先稍微介紹一下黑客松，黑客松其實就是「Hack」跟「Marathon」兩個字合在一起的結果，比賽期間參賽者須要在很短的時間內完成一個專案，這其中包含想法的發想以及專案的實作，算是挑戰性很高的一個比賽，因此籌備團隊的目的就是要確保活動順利的進行，並且通過一整年的準備，將過去的弊病解決並推陳出新，將這個活動越辦越好。
+The Mei-Chu Hackathon is the largest student-run hackathon in Taiwan. Let me first briefly introduce what a hackathon is: the term combines "Hack" and "Marathon." During the competition, participants are required to complete a project within a very short timeframe, from idea generation to actual implementation. This makes it a highly challenging event. As part of the organizing team, our goal is to ensure the smooth running of the event while addressing past issues and introducing new innovations to make the event better every year.
 
-## **關於梅竹黑客松籌備團隊**
+## **About the Mei-Chu Hackathon Organizing Team**
 
-團隊本身超過 40 人，總共分成 7 個部門，行政部、公關部、行銷部、財務部、活動部、開發部、設計部，每個部門都有 2~3 個部長並帶領底下 5~6 個部員。
-
-
-## **為什麼想要擔任梅竹黑客松活動部長**
-
-梅竹黑客松籌備團隊是錄取率很低的團隊，每一年的錄取率大約都只有 10 幾 %，第一年面試錄取後會先以部員的身分籌辦該年的活動，那第二年部長人選就會從這些部員中挑選出來，所以說起來我們也算是辦了兩屆的活動。
-
-當初會看到這個活動並進來面試，一來是因為比賽內容跟自己本科系息息相關，二來就是想要在這個組織架構完整的團隊裡學習跟進步，籌辦大型活動的經驗對我來說是非常寶貴的，在這之前甚至鮮少有機會可以處理公共事務，梅竹黑客松牽涉的層面非常的廣，光團隊本身就有超過 40 人，參賽者超過 300 人，更有數十間合作企業跟贊助企業，一年總預算逼近 200 萬元，能夠參與這種規模的活動籌備並掌管一個部門對我來說是一個很好的成長機會，
-
-## **活動部工作**
-
-基本上所有跟場地還有流程有關的事情都跟活動部有關，接下來一一介紹我們幾個重要的任務。
-
-### **場地租借**
-
-因為主要受眾為清交學生，活動又需提供過夜場地的緣故，我們想辦法爭取租借清大或是交大體育館作為活動場地。這其實是個漫長的過程，清交體育館並不允許任何過夜活動的舉辦，因為凌晨的這段時間校方必須派人留守在現場否則無法確保現場安全，再來就是我們的場佈時間會跟校隊練習時間還有體育課撞到，若是強行調整體育場方會不好交代。
-
-### **會場佈置**
-
-因為會場需要的器材實在是太多了，我們這部分選擇跟「活動王」這間公司做接洽，任何跟場地佈置、場地器材等相關的事項都是直接跟他們溝通，現場就會派人來假設。這中間需要經過半年時間的調整，像是桌椅擺放、舞台音響燈光、廠商攤位、發電機架設、電路分配以及網路分配等等，諸多細節都需要經過活動一步一步地準備慢慢做調整
-
-### **餐食分配**
-
-會場現場會提供正餐，這些也是活動部的職責內容。這塊會遇到的問題是我們其實很難估計該廠商提供的餐食數量是否可以滿足所有現場的人員，所以基本上會多抓一些人數，但還是很難保證不會有廠商給很少的狀況，所以現場還是必須要有能力做緊急處理跟加購
-
-### **活動粗細流撰寫**
-
-這是最難的一個部分，活動部必須要確保每個幹部在每個時間點都知道他應該要做甚麼工作，也必須知道活動現在進行到哪個環節，所以我們除了要設計出好的流程，合理分配每個人力，還有寫出好的細流格式讓大家可以輕鬆閱讀。越接近活動就需要擬出越多細節，最後一個禮拜真的是沒什麼在睡覺，每天都在煩惱細流。
-
-### **娛樂交流活動及企業博覽會**
-
-這部分基本上交給底下部員負責，梅竹黑客松最大的特色在於，除了有多家企業進駐，還有遊戲機台在旁邊供參賽者使用，每年會出現的類型不同，像是按摩機、羅技賽車、球池等等都是出現過的元素。除了這些機台，活動部需要設計好的抽獎活動跟流程來增加企業博覽會的觸及，提高參賽者移動前往企業攤位區的動機，這幾年都有結合 linebot 設計抽獎闖關活動。
-
-### **現場機動**
-
-最後對活動部長的考驗就是現場的指揮能力，儘管細流想得再詳細，當天一定會出現很多意想不到的突發狀況必須去處理，也必須確保每個時段的每個人都真的有在自己的崗位上，所以就會看到當天有三個人拿著耳麥東奔西走地到處調配跟確認。我們運氣比較不好的是行政組執秘當天竟然確診不能到現場，我們直接少了一個重要人力，需要花更多力氣去補足這個空缺
+The team consists of over 40 members, divided into seven departments: Administration, Public Relations, Marketing, Finance, Event Planning, Development, and Design. Each department is led by 2-3 heads and has 5-6 members under them.
 
 
-## **這一年來的體悟**
+## **Why I Chose to be the Head of the Event Planning Department**
 
-首先是對於組織本身，這屆非常幸運行政組的能力非常強而且很有想法，他們帶領我們一步一步完成這個大型活動，並解決過往籌備上很多弊病。像是大型組織會有很多管理上的問題，像是不同部門之間的文件溝通跟檔案整理非常複雜，如果沒有分類好文件，副本開來開去就會常常有資訊落差。這種大型的籌備很多時候的問題也會牽一髮動全身，可能有些部門的任務沒辦法在期限內完成，但是壓力卻是其他部門在背，因為可能這個任務要完成了下個任務才能夠繼續做，辦了這次活動就會深深體會到團隊中事情真的不能拖，然後行政組也非常厲害要可以中間可能產生的誤差。
+The Mei-Chu Hackathon organizing team is highly selective, with an annual acceptance rate of only around 10%. In the first year, selected members join as team members, and in the second year, department heads are chosen from this pool. So essentially, we’ve had experience organizing two consecutive events.
 
-各個部門都有壓力很大的時期，對於活動部來說，越接近活動我們壓力就會越大，尤其是現場會有非常多突發狀況，很多都是事前準備不會想到的問題。不得不說，我不是一個很會處理細節的人，滿感謝另外兩個部長在籌備期間一起做的各種努力，那也讓我學習到很多。小時候看大型活動會有一種看不透的感覺，完全不會知道後台怎麼運作，需要怎麼準備跟辦起一場活動，真的參與到其中就有一種豁然開朗的感覺，你會學會活動流程、會場布置、人員分配等等細節，真的是很不一樣的體驗。
+I was initially drawn to the event because it aligns closely with my academic background, and I wanted to learn and grow within a well-structured team. The experience of organizing a large-scale event is invaluable to me. Prior to this, I had few opportunities to engage in public affairs. The Mei-Chu Hackathon covers a broad range of responsibilities: the team has over 40 members, there are over 300 participants, and we collaborate with dozens of partner and sponsor companies, with an annual budget approaching 2 million NTD. Being involved in an event of this scale and leading a department was a great growth opportunity for me.
 
-現場壓力確實大，全場的節奏都掌握在我們手中，哪邊可能拖到了就要趕快叫停然後讓流程往下走，哪邊設備、人力沒有跟上要盡快排除，我們這次遇到最誇張的事情應該是比賽比到一半有一組參賽選手出現心悸的狀況，我們叫了救護車把他接走，真的是嚇到大家。但是現場這麼混亂的情況一定會有設想不周到的地方，這次比較美中不足的應該是有部員會一直抓著我們沒有安排好的部分碎碎念，感受是真的不太好，大家都是盡力在統籌整場活動的還是覺得應該要多一點包容心，可以給建議但是帶著情緒就真的不好了。
+## **Event Planning Department Responsibilities**
 
-這一整年收穫非常多，除了學習到這些活動上的細節，也認識很多外系的很有能力的人，這些人都是在我自己原本的生活圈不太會接觸到的人。大學時期還是滿推薦跳脫舒適圈去參加一些新活動，或是做一些平常不太會做的事情，滿慶幸當初的自己抓住這個機會，讓自己的大二大三生活又增添了新的回憶。
+Our department handles everything related to the venue and event process. Below are some of our key tasks.
+
+### **Venue Rental**
+
+Since our main audience consists of students from NCTU and NTHU, and because the event requires an overnight venue, we aimed to secure either NCTU or NTHU gymnasiums. This was a long process because neither gym allows overnight events. The schools require staff to be on-site during nighttime hours to ensure safety, which was a significant hurdle. Additionally, our setup times often clashed with team practices and PE classes, making scheduling a challenge.
+
+### **Venue Setup**
+
+Given the extensive equipment needed for the event, we partnered with "Activity King Group," a company specializing in event logistics. They handled everything related to venue setup and equipment. The process involved six months of adjustments, covering details like table and chair arrangements, stage setup, sound and lighting systems, vendor booths, generator setups, power distribution, and internet access. These details were fine-tuned step by step.
+
+### **Meal Distribution**
+
+Our department was also responsible for providing meals at the venue. Estimating the right amount of food was challenging; we had to account for potential shortages and sometimes had to place emergency orders if vendors didn’t deliver enough.
+
+### **Detailed Event Schedule Planning**
+
+This was the most challenging aspect. The Event Planning Department had to ensure that every staff member knew their tasks at every point in time and understood where the event was in its schedule. We designed an efficient schedule, allocated manpower appropriately, and created a user-friendly format for everyone to follow. As the event drew closer, more details needed to be finalized, leading to sleepless nights in the final week as we worried about every aspect of the schedule.
+
+### **Entertainment and Corporate Expo**
+
+This section was primarily handled by team members. One unique aspect of the Mei-Chu Hackathon is that, in addition to corporate booths, we have entertainment areas for participants, featuring different types of game machines each year. Past attractions included massage chairs, Logitech racing simulators, ball pits, and more. The Event Planning Department also designed prize draws and activities to encourage participants to visit corporate booths, often integrating these with a LINE bot for engaging challenges.
+
+### **On-Site Coordination**
+
+The final test for the Event Planning Department heads was managing on-site operations. No matter how detailed the schedule was, unexpected issues always arose on the day of the event. We had to ensure every team member was in the right place at the right time. On the day of the event, you’d see three of us constantly running around with earpieces, coordinating and troubleshooting. We faced a significant challenge when our Admin Lead tested positive for COVID-19 on the day, leaving us without a crucial team member. We had to scramble to fill that gap.
+
+
+## **Reflections from the Past Year**
+
+First, I want to express how fortunate we were to have a highly capable and creative administration team. They led us through the event planning process and solved many of the issues that plagued previous years. Large organizations often face management challenges, such as complex communication and document organization across departments. Without proper document categorization, version discrepancies and information gaps easily arise. This event showed us how even minor delays in one department’s tasks can cascade and affect other teams.
+
+Every department had its periods of intense pressure. For the Event Planning Department, stress peaked as the event date approached, when we had to handle numerous unexpected issues. I must admit, I’m not great with details, so I’m grateful to the other two department heads for their hard work and support during the preparation phase, which taught me a lot. When I was younger, large events seemed like a mystery to me—I never knew how things operated behind the scenes. Participating in this process opened my eyes; I learned about event workflows, venue setups, manpower allocation, and so much more. It’s an entirely different experience from merely attending an event.
+
+The pressure on-site was intense since we were responsible for the entire event’s rhythm. We had to make quick decisions when delays occurred, ensure equipment and manpower were in place, and handle emergencies. One of the most dramatic incidents this year was when a participant experienced heart palpitations during the competition, and we had to call an ambulance to take them to the hospital, which shocked everyone. While we did our best to keep everything running smoothly, there were inevitably some gaps. One member kept complaining about issues we hadn’t addressed, which was disheartening since everyone was doing their best. Constructive feedback is welcome, but delivering it with frustration or anger creates unnecessary tension.
+
+This year has been incredibly rewarding. Beyond learning event management details, I met many capable people from different fields, people I wouldn’t have encountered within my usual circles. I highly recommend stepping out of your comfort zone during college, whether by joining new activities or trying things you usually wouldn’t. I’m glad I seized this opportunity, which added fresh memories to my sophomore and junior years.

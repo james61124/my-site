@@ -1,12 +1,12 @@
 ---
-title: "DP 系列 - The Rod Cutting Problem"
+title: "DP Series - The Rod Cutting Problem"
 date: 2024-01-21
 draft: false
 author: "James"
 tags:
   - Algorithm
   - Dynamic Programming
-# image: /images/post.jpg
+image: /images/program/Algorithm.png
 description: ""
 toc: 
 categories:
@@ -15,27 +15,27 @@ categories:
 
 ---------------------------------------------------------------------------------------------
 
-如果賣出長度是 i 的 rod 可以得 p<sub>i</sub> 元，怎麼切一條長度是 n 的 rod 使總收入最大
+Given that selling a rod of length i yields a profit of p<sub>i</sub> , how do we cut a rod of length n to maximize the total revenue?
 
 ---------------------------------------------------------------------------------------------
 
-### **方法一、遞迴**
-最直觀的方式就是用遞迴解，如下圖所示，r<sub>n</sub> 為切割長度 n 的 rod 可得的最大收入，假設 i 為最佳解中的第一段長度，<mark>r<sub>n</sub> = p<sub>i</sub> + r<sub>n-i</sub></mark>，因為 p<sub>i</sub> 是切割的最佳解中第一段的獲利，再加上剩餘部分最佳獲利就是我們要的答案。
+### **Method 1: Recursion**
+The most straightforward approach is to solve it using recursion. As shown in the figure below, r<sub>n</sub> represents the maximum revenue obtainable by cutting a rod of length n. Suppose i is the length of the first segment in the optimal solution; then <mark>r<sub>n</sub> = p<sub>i</sub> + r<sub>n−i</sub></mark>, because p<sub>i</sub> is the revenue from the first segment in the optimal solution, and adding the maximum revenue from the remaining part gives us the answer.
 
-i 怎麼求？利用迴圈讓 i 從 0 跑到 n-1，求出每一組 <mark>p<sub>i</sub> + r<sub>n-i</sub></mark>，找到最大的那組就是答案。
+How do we find i? By looping through i from 0 to n−1, evaluating each combination <mark>p<sub>i</sub> + r<sub>n−i</sub></mark>, and selecting the maximum value as the answer.
 
-但這樣會遇到一個問題，每一次的 r<sub>n-i</sub> 都需要遞迴下去找到他的最佳解，這樣重複的 r 就會需要算很多次，以下圖為例，算 r<sub>4</sub> 的時候需要算 r<sub>3</sub>, r<sub>2</sub>, r<sub>1</sub>, r<sub>0</sub>，算 r<sub>3</sub> 又要再算一次 r<sub>2</sub>, r<sub>1</sub>, r<sub>0</sub>，因此我們需要利用 DP 來幫我們節省時間。
+However, this approach has a problem: each time we compute r<sub>n−i</sub>, it requires recursively calculating its optimal solution, leading to repeated calculations. For instance, when computing r<sub>4</sub>, we need to compute r<sub>3</sub>, r<sub>2</sub>, r<sub>1</sub>, r<sub>0</sub>, and computing r<sub>3</sub> requires recomputing r<sub>2</sub>, r<sub>1</sub>, r<sub>0</sub>. Therefore, we can use Dynamic Programming (DP) to save time.
 
 ![Recursive](/images/posts/the-rod-cutting-problem/Recursive.jpg)
 
 
-### **方法二、DP**
+### **Method 2: DP**
 
-我們可以建表紀錄每一個 r<sub>i</sub> 的數值，這樣就不用每次遇到 i 都再算一次
+We can build a table to store the values of each r<sub>i</sub>, so we don’t have to recalculate them every time i is needed.
 
-已知 r<sub>0</sub>, r<sub>1</sub>，就可以利用 r<sub>0</sub>, r<sub>1</sub> 算 r<sub>2</sub>，<mark>r<sub>2</sub> = max( p<sub>1</sub>+r<sub>1</sub>, p<sub>2</sub>+r<sub>0</sub> )</mark>，再來利用 r<sub>1</sub>, r<sub>2</sub> 算 r<sub>3</sub>，最後就知道 r<sub>5</sub>，所以最重要的還是遞迴式 <mark>p<sub>i</sub> + r<sub>n-i</sub></mark>
+Given r<sub>0</sub> and r<sub>1</sub>, we can compute r<sub>2</sub> as follows: <mark>r<sub>2</sub> = max( p<sub>1</sub> + r<sub>1</sub>, p<sub>2</sub> + r<sub>0</sub> )</mark>. Next, using r<sub>1</sub> and r<sub>2</sub>, we can compute r<sub>3</sub>, and finally determine r<sub>5</sub>. The most crucial part is still the recursive formula <mark>p<sub>i</sub> + r<sub>n-i</sub></mark>.
 
 ![DP](/images/posts/the-rod-cutting-problem/DP.jpg)
 
-### **小筆記**
-建表紀錄遞迴中需要重複的部分，是 DP 裡很重要的工具！
+### **Quick Note**
+Building a table to store repetitive parts in recursion is a key technique in Dynamic Programming!

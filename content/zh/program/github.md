@@ -5,7 +5,7 @@ draft: false
 author: "James"
 tags:
   - Github
-# image: /images/post.jpg
+image: /images/program/github.png
 description: ""
 toc: 
 categories:
@@ -80,3 +80,5 @@ git checkout [-b] <branch-name>
 git push origin <branch-name>
 ```
 最後就是把本地端 branch 資訊推到遠端
+
+圖片來源: [Medium](https://miro.medium.com/v2/resize:fit:1400/1*mtsk3fQ_BRemFidhkel3dA.png)
