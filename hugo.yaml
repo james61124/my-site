@@ -588,7 +588,7 @@ outputs:
 Paginate: 6
 enableRobotsTXT: true
 disqusShortname: jamesBlog
-# googleAnalytics: G-MEASUREMENT_ID
+googleAnalytics: G-1PS8N6815C
 
 markup:
   goldmark:
