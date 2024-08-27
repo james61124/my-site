@@ -1,4 +1,4 @@
-baseURL: "https://james61124.github.io/"
+baseURL: "https://jamesblogger.com/"
 languageCode: "en-us"
 title: "James Blog"
 theme: hugo-profile
@@ -16,7 +16,7 @@ languages:
     weight: 1
     Menus:
       main:
-        - identifier: life
+        - identifier: Life
           name: Life
           title: life posts
           url: /Life
@@ -302,7 +302,7 @@ languages:
         - identifier: life
           name: 生活
           title: life posts
-          url: /zh/Life
+          url: /zh/life
           weight: 1
         - identifier: travel
           name: 旅行
