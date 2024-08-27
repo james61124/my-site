@@ -40,12 +40,38 @@
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
+        // 設置 Disqus 主題為 dark
+        if (window.DISQUS) {
+            DISQUS.reset({
+                reload: true,
+                config: function () {  
+                    this.theme = 'dark';
+                }
+            });
+        }
     } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
+        document.body.classList.remove('dark');
+        // 設置 Disqus 主題為 light
+        if (window.DISQUS) {
+            DISQUS.reset({
+                reload: true,
+                config: function () {  
+                    this.theme = 'light';
+                }
+            });
+        }
     } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
+        // 設置 Disqus 主題為 dark
+        if (window.DISQUS) {
+            DISQUS.reset({
+                reload: true,
+                config: function () {  
+                    this.theme = 'dark';
+                }
+            });
+        }
     }
-
 </script>
 {{- end }}
 
@@ -56,9 +82,27 @@
         if (document.body.className.includes("dark")) {
             document.body.classList.remove('dark');
             localStorage.setItem("pref-theme", 'light');
+            // 切換到 light 主題時，重新設置 Disqus 主題為 light
+            if (window.DISQUS) {
+                DISQUS.reset({
+                    reload: true,
+                    config: function () {  
+                        this.theme = 'light';
+                    }
+                });
+            }
         } else {
             document.body.classList.add('dark');
             localStorage.setItem("pref-theme", 'dark');
+            // 切換到 dark 主題時，重新設置 Disqus 主題為 dark
+            if (window.DISQUS) {
+                DISQUS.reset({
+                    reload: true,
+                    config: function () {  
+                        this.theme = 'dark';
+                    }
+                });
+            }
         }
     })
 
