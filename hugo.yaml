@@ -16,8 +16,8 @@ languages:
     weight: 1
     Menus:
       main:
-        - identifier: Life
-          name: Life
+        - identifier: life
+          name: life
           title: life posts
           url: /life
           weight: 1
