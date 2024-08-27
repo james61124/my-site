@@ -587,7 +587,7 @@ outputs:
 
 Paginate: 6
 enableRobotsTXT: true
-# disqusShortname: your-disqus-shortname
+disqusShortname: jamesBlog
 # googleAnalytics: G-MEASUREMENT_ID
 
 markup:
