@@ -6,6 +6,7 @@ author: "James"
 tags:
   - Hackathon
 image: /images/10th-MeiChu-Hackathon.jpg
+permalink: "/life/meichu-hackathon-event-planning-leader/"
 description: ""
 toc: 
 categories:

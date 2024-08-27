@@ -19,7 +19,7 @@ languages:
         - identifier: Life
           name: Life
           title: life posts
-          url: /Life
+          url: /life
           weight: 1
         - identifier: travel
           name: Travel

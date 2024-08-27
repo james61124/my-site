@@ -6,6 +6,7 @@ author: "James"
 tags:
   - LINE FRESH
 image: /images/LINE-FRESH.jpg
+permalink: "/life/2022-line-fresh/"
 description: ""
 toc: 
 categories:

@@ -6,6 +6,7 @@ author: "James"
 tags:
   - Guitar Club
 image: /images/GuitarClub.jpg
+permalink: "/life/guitar-club/"
 description: ""
 toc: 
 categories:
