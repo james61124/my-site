@@ -588,7 +588,7 @@ outputs:
 Paginate: 6
 enableRobotsTXT: true
 disqusShortname: jamesBlog
-googleAnalytics: G-1PS8N6815C
+googleAnalytics: G-E46R7ZG7V8
 
 markup:
   goldmark:
