@@ -3,6 +3,16 @@
     if (document.body.className.includes("dark")) {
         document.body.classList.remove('dark');
         localStorage.setItem("pref-theme", 'light');
+
+        // 如果使用 Disqus，重置主題為 light
+        if (window.DISQUS) {
+            DISQUS.reset({
+                reload: true,
+                config: function () {  
+                    this.theme = 'light';
+                }
+            });
+        }
     }
 </script>
 
@@ -12,6 +22,16 @@
     if (document.body.className.includes("light")) {
         document.body.classList.add('dark');
         localStorage.setItem("pref-theme", 'dark');
+
+        // 如果使用 Disqus，重置主題為 dark
+        if (window.DISQUS) {
+            DISQUS.reset({
+                reload: true,
+                config: function () {  
+                    this.theme = 'dark';
+                }
+            });
+        }
     }
 </script>
 

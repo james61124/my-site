@@ -19,7 +19,7 @@ languages:
         - identifier: life
           name: Life
           title: life posts
-          url: /life
+          url: /Life
           weight: 1
         - identifier: travel
           name: Travel
@@ -302,7 +302,7 @@ languages:
         - identifier: life
           name: 生活
           title: life posts
-          url: /zh/life
+          url: /zh/Life
           weight: 1
         - identifier: travel
           name: 旅行
