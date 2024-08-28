@@ -1,63 +1,63 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - tag - James Blog</title>
-        <link>https://jamesblogger.com/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Tags - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 23 Feb 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 23 Feb 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Guitar Club</title>
-    <link>https://jamesblogger.com/tags/Guitar-Club/</link>
+    <link>http://localhost:1313/tags/Guitar-Club/</link>
     <pubDate>Fri, 23 Feb 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Guitar-Club/</guid>
+    </author><guid>http://localhost:1313/tags/Guitar-Club/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>LINE FRESH</title>
-    <link>https://jamesblogger.com/tags/LINE-FRESH/</link>
+    <link>http://localhost:1313/tags/LINE-FRESH/</link>
     <pubDate>Tue, 20 Feb 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/LINE-FRESH/</guid>
+    </author><guid>http://localhost:1313/tags/LINE-FRESH/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Paris</title>
-    <link>https://jamesblogger.com/tags/Paris/</link>
+    <link>http://localhost:1313/tags/Paris/</link>
     <pubDate>Tue, 20 Feb 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Paris/</guid>
+    </author><guid>http://localhost:1313/tags/Paris/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Travel</title>
-    <link>https://jamesblogger.com/tags/Travel/</link>
+    <link>http://localhost:1313/tags/Travel/</link>
     <pubDate>Tue, 20 Feb 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Travel/</guid>
+    </author><guid>http://localhost:1313/tags/Travel/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Hackathon</title>
-    <link>https://jamesblogger.com/tags/Hackathon/</link>
+    <link>http://localhost:1313/tags/Hackathon/</link>
     <pubDate>Sat, 17 Feb 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Hackathon/</guid>
+    </author><guid>http://localhost:1313/tags/Hackathon/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Algorithm</title>
-    <link>https://jamesblogger.com/tags/Algorithm/</link>
+    <link>http://localhost:1313/tags/Algorithm/</link>
     <pubDate>Sun, 21 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Algorithm/</guid>
+    </author><guid>http://localhost:1313/tags/Algorithm/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Dynamic Programming</title>
-    <link>https://jamesblogger.com/tags/Dynamic-Programming/</link>
+    <link>http://localhost:1313/tags/Dynamic-Programming/</link>
     <pubDate>Sun, 21 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Dynamic-Programming/</guid>
+    </author><guid>http://localhost:1313/tags/Dynamic-Programming/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Github</title>
-    <link>https://jamesblogger.com/tags/Github/</link>
+    <link>http://localhost:1313/tags/Github/</link>
     <pubDate>Thu, 18 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Github/</guid>
+    </author><guid>http://localhost:1313/tags/Github/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
