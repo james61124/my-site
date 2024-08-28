@@ -2,8 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jamesblogger.com/zh/tags/Bruges/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jamesblogger.com/zh/categories/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +17,74 @@
                 hreflang="zh"
                 href="https://jamesblogger.com/zh/categories/"
                 />
+  </url><url>
+    <loc>https://jamesblogger.com/zh/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jamesblogger.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jamesblogger.com/zh/"
+                />
+  </url><url>
+    <loc>https://jamesblogger.com/zh/categories/Life/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jamesblogger.com/categories/Life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jamesblogger.com/zh/categories/Life/"
+                />
+  </url><url>
+    <loc>https://jamesblogger.com/zh/tags/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jamesblogger.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jamesblogger.com/zh/tags/"
+                />
+  </url><url>
+    <loc>https://jamesblogger.com/zh/tags/Travel/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jamesblogger.com/tags/Travel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jamesblogger.com/zh/tags/Travel/"
+                />
+  </url><url>
+    <loc>https://jamesblogger.com/zh/travel/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jamesblogger.com/travel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://jamesblogger.com/zh/travel/"
+                />
+  </url><url>
+    <loc>https://jamesblogger.com/zh/travel/bruges-20240713/</loc>
+    <lastmod>2024-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jamesblogger.com/zh/tags/Guitar-Club/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
@@ -28,32 +99,6 @@
                 href="https://jamesblogger.com/zh/tags/Guitar-Club/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/zh/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jamesblogger.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jamesblogger.com/zh/"
-                />
-  </url><url>
-    <loc>https://jamesblogger.com/zh/categories/Life/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jamesblogger.com/categories/Life/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jamesblogger.com/zh/categories/Life/"
-                />
-  </url><url>
     <loc>https://jamesblogger.com/zh/life/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -65,19 +110,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://jamesblogger.com/zh/life/"
-                />
-  </url><url>
-    <loc>https://jamesblogger.com/zh/tags/</loc>
-    <lastmod>2024-02-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jamesblogger.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/"
                 />
   </url><url>
     <loc>https://jamesblogger.com/zh/life/guitar-club/</loc>
@@ -130,32 +162,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://jamesblogger.com/zh/tags/Paris/"
-                />
-  </url><url>
-    <loc>https://jamesblogger.com/zh/tags/Travel/</loc>
-    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jamesblogger.com/tags/Travel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Travel/"
-                />
-  </url><url>
-    <loc>https://jamesblogger.com/zh/travel/</loc>
-    <lastmod>2024-02-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jamesblogger.com/travel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://jamesblogger.com/zh/travel/"
                 />
   </url><url>
     <loc>https://jamesblogger.com/zh/travel/paris-20240125/</loc>
