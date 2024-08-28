@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="UTF-8">
+<head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta http-equiv="Accept-CH" content="DPR, Viewport-Width, Width">
@@ -28,37 +28,25 @@
 
 
 
-  
-    
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-1PS8N6815C"></script>
-      <script>
-        var doNotTrack = false;
-        if ( false ) {
-          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-          var doNotTrack = (dnt == "1" || dnt == "yes");
-        }
-        if (!doNotTrack) {
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-1PS8N6815C');
-        }
-      </script>
-    
-  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1PS8N6815C"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-1PS8N6815C', { 'anonymize_ip': false });
+}
+</script>
+
+<meta property="og:title" content="Tags" />
+<meta property="og:description" content="Text about my cool site" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://jamesblogger.com/zh/tags/" /><meta property="og:site_name" content="James Blog" />
 
 
-<meta property="og:url" content="http://localhost:1313/zh/tags/">
-  <meta property="og:site_name" content="James Blog">
-  <meta property="og:title" content="Tags">
-  <meta property="og:description" content="Text about my cool site">
-  <meta property="og:locale" content="zh">
-  <meta property="og:type" content="website">
-
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Tags">
-  <meta name="twitter:description" content="Text about my cool site">
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Tags"/>
+<meta name="twitter:description" content="Text about my cool site"/>
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
@@ -261,7 +249,7 @@ Tags | James Blog
                     
                         
                             <li class="nav-item navbar-text">
-                                <a class="nav-link" href="http://localhost:1313//zh/" aria-label="about">
+                                <a class="nav-link" href="https://jamesblogger.com//zh/" aria-label="about">
                                     關於我
                                 </a>
                             </li>
@@ -325,16 +313,39 @@ Tags | James Blog
                             <div class="card h-100 mb-4">
                                 <div class="card-body bg-transparent p-4 shadow-sm">
                                     <h3 class="text-center pb-2" >
-                                        <a href="/tags/hackathon" class="primary-font card-title">
-                                            <h5 class="card-title bg-transparent">hackathon</h5>
+                                        <a href="/tags/%E6%97%85%E8%A1%8C" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">旅行</h5>
                                         </a>
                                     </h3>
                                     
-                                        <a href="http://localhost:1313/zh/life/11th-meichu-hackathon/" class="card-text secondary-font">
-                                            <h6 style="color: var(--text-secondary-color) !important;">第 11 屆梅竹黑客松參賽過程與心得</h6>
+                                        <a href="https://jamesblogger.com/zh/travel/Den-Haag-20240810/" class="card-text secondary-font">
+                                            <h6 style="color: var(--text-secondary-color) !important;">荷蘭 - 海牙一日遊 20240728</h6>
                                         </a>
-                                        <a href="http://localhost:1313/zh/life/meichu-hackathon-event-planning-leader/" class="card-text secondary-font">
+                                        <a href="https://jamesblogger.com/zh/travel/bruges-20240713/" class="card-text secondary-font">
+                                            <h6 style="color: var(--text-secondary-color) !important;">比利時 - 布魯日兩日遊 20240713</h6>
+                                        </a>
+                                        <a href="https://jamesblogger.com/zh/travel/paris-20240125/" class="card-text secondary-font">
+                                            <h6 style="color: var(--text-secondary-color) !important;">法國 - 巴黎兩日遊 2024-01-25</h6>
+                                        </a></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 my-3">
+                        <div class="card-columns">
+                            <div class="card h-100 mb-4">
+                                <div class="card-body bg-transparent p-4 shadow-sm">
+                                    <h3 class="text-center pb-2" >
+                                        <a href="/tags/Hackathon" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">Hackathon</h5>
+                                        </a>
+                                    </h3>
+                                    
+                                        <a href="https://jamesblogger.com/zh/life/meichu-hackathon-event-planning-leader/" class="card-text secondary-font">
                                             <h6 style="color: var(--text-secondary-color) !important;">梅竹黑客松籌備心得</h6>
+                                        </a>
+                                        <a href="https://jamesblogger.com/zh/life/11th-meichu-hackathon/" class="card-text secondary-font">
+                                            <h6 style="color: var(--text-secondary-color) !important;">第 11 屆梅竹黑客松參賽過程與心得</h6>
                                         </a></div>
                             </div>
                         </div>
@@ -345,32 +356,12 @@ Tags | James Blog
                             <div class="card h-100 mb-4">
                                 <div class="card-body bg-transparent p-4 shadow-sm">
                                     <h3 class="text-center pb-2" >
-                                        <a href="/tags/travel" class="primary-font card-title">
-                                            <h5 class="card-title bg-transparent">travel</h5>
+                                        <a href="/tags/Algorithm" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">Algorithm</h5>
                                         </a>
                                     </h3>
                                     
-                                        <a href="http://localhost:1313/zh/travel/bruges-20240713/" class="card-text secondary-font">
-                                            <h6 style="color: var(--text-secondary-color) !important;">布魯日兩日遊 20240713</h6>
-                                        </a>
-                                        <a href="http://localhost:1313/zh/travel/paris-20240125/" class="card-text secondary-font">
-                                            <h6 style="color: var(--text-secondary-color) !important;">巴黎兩日遊 2024-01-25</h6>
-                                        </a></div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-lg-4 col-md-6 my-3">
-                        <div class="card-columns">
-                            <div class="card h-100 mb-4">
-                                <div class="card-body bg-transparent p-4 shadow-sm">
-                                    <h3 class="text-center pb-2" >
-                                        <a href="/tags/algorithm" class="primary-font card-title">
-                                            <h5 class="card-title bg-transparent">algorithm</h5>
-                                        </a>
-                                    </h3>
-                                    
-                                        <a href="http://localhost:1313/zh/program/the-rod-cutting-problem/" class="card-text secondary-font">
+                                        <a href="https://jamesblogger.com/zh/program/the-rod-cutting-problem/" class="card-text secondary-font">
                                             <h6 style="color: var(--text-secondary-color) !important;">DP 系列 - The Rod Cutting Problem</h6>
                                         </a></div>
                             </div>
@@ -382,29 +373,12 @@ Tags | James Blog
                             <div class="card h-100 mb-4">
                                 <div class="card-body bg-transparent p-4 shadow-sm">
                                     <h3 class="text-center pb-2" >
-                                        <a href="/tags/bruges" class="primary-font card-title">
-                                            <h5 class="card-title bg-transparent">bruges</h5>
+                                        <a href="/tags/Dynamic-Programming" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">Dynamic-Programming</h5>
                                         </a>
                                     </h3>
                                     
-                                        <a href="http://localhost:1313/zh/travel/bruges-20240713/" class="card-text secondary-font">
-                                            <h6 style="color: var(--text-secondary-color) !important;">布魯日兩日遊 20240713</h6>
-                                        </a></div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    <div class="col-lg-4 col-md-6 my-3">
-                        <div class="card-columns">
-                            <div class="card h-100 mb-4">
-                                <div class="card-body bg-transparent p-4 shadow-sm">
-                                    <h3 class="text-center pb-2" >
-                                        <a href="/tags/dynamic-programming" class="primary-font card-title">
-                                            <h5 class="card-title bg-transparent">dynamic programming</h5>
-                                        </a>
-                                    </h3>
-                                    
-                                        <a href="http://localhost:1313/zh/program/the-rod-cutting-problem/" class="card-text secondary-font">
+                                        <a href="https://jamesblogger.com/zh/program/the-rod-cutting-problem/" class="card-text secondary-font">
                                             <h6 style="color: var(--text-secondary-color) !important;">DP 系列 - The Rod Cutting Problem</h6>
                                         </a></div>
                             </div>
@@ -416,12 +390,12 @@ Tags | James Blog
                             <div class="card h-100 mb-4">
                                 <div class="card-body bg-transparent p-4 shadow-sm">
                                     <h3 class="text-center pb-2" >
-                                        <a href="/tags/github" class="primary-font card-title">
-                                            <h5 class="card-title bg-transparent">github</h5>
+                                        <a href="/tags/Github" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">Github</h5>
                                         </a>
                                     </h3>
                                     
-                                        <a href="http://localhost:1313/zh/program/github/" class="card-text secondary-font">
+                                        <a href="https://jamesblogger.com/zh/program/github/" class="card-text secondary-font">
                                             <h6 style="color: var(--text-secondary-color) !important;">Github 新手入門</h6>
                                         </a></div>
                             </div>
@@ -433,12 +407,12 @@ Tags | James Blog
                             <div class="card h-100 mb-4">
                                 <div class="card-body bg-transparent p-4 shadow-sm">
                                     <h3 class="text-center pb-2" >
-                                        <a href="/tags/guitar-club" class="primary-font card-title">
-                                            <h5 class="card-title bg-transparent">guitar club</h5>
+                                        <a href="/tags/Guitar-Club" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">Guitar-Club</h5>
                                         </a>
                                     </h3>
                                     
-                                        <a href="http://localhost:1313/zh/life/guitar-club/" class="card-text secondary-font">
+                                        <a href="https://jamesblogger.com/zh/life/guitar-club/" class="card-text secondary-font">
                                             <h6 style="color: var(--text-secondary-color) !important;">交大吉他社社團生活分享</h6>
                                         </a></div>
                             </div>
@@ -450,12 +424,12 @@ Tags | James Blog
                             <div class="card h-100 mb-4">
                                 <div class="card-body bg-transparent p-4 shadow-sm">
                                     <h3 class="text-center pb-2" >
-                                        <a href="/tags/line-fresh" class="primary-font card-title">
-                                            <h5 class="card-title bg-transparent">line fresh</h5>
+                                        <a href="/tags/LINE-FRESH" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">LINE-FRESH</h5>
                                         </a>
                                     </h3>
                                     
-                                        <a href="http://localhost:1313/zh/life/2022-line-fresh/" class="card-text secondary-font">
+                                        <a href="https://jamesblogger.com/zh/life/2022-line-fresh/" class="card-text secondary-font">
                                             <h6 style="color: var(--text-secondary-color) !important;">2022 LINE FRESH 參賽過程與參賽心得</h6>
                                         </a></div>
                             </div>
@@ -467,13 +441,81 @@ Tags | James Blog
                             <div class="card h-100 mb-4">
                                 <div class="card-body bg-transparent p-4 shadow-sm">
                                     <h3 class="text-center pb-2" >
-                                        <a href="/tags/paris" class="primary-font card-title">
-                                            <h5 class="card-title bg-transparent">paris</h5>
+                                        <a href="/tags/%E5%B7%B4%E9%BB%8E" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">巴黎</h5>
                                         </a>
                                     </h3>
                                     
-                                        <a href="http://localhost:1313/zh/travel/paris-20240125/" class="card-text secondary-font">
-                                            <h6 style="color: var(--text-secondary-color) !important;">巴黎兩日遊 2024-01-25</h6>
+                                        <a href="https://jamesblogger.com/zh/travel/paris-20240125/" class="card-text secondary-font">
+                                            <h6 style="color: var(--text-secondary-color) !important;">法國 - 巴黎兩日遊 2024-01-25</h6>
+                                        </a></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 my-3">
+                        <div class="card-columns">
+                            <div class="card h-100 mb-4">
+                                <div class="card-body bg-transparent p-4 shadow-sm">
+                                    <h3 class="text-center pb-2" >
+                                        <a href="/tags/%E5%B8%83%E9%AD%AF%E6%97%A5" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">布魯日</h5>
+                                        </a>
+                                    </h3>
+                                    
+                                        <a href="https://jamesblogger.com/zh/travel/bruges-20240713/" class="card-text secondary-font">
+                                            <h6 style="color: var(--text-secondary-color) !important;">比利時 - 布魯日兩日遊 20240713</h6>
+                                        </a></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 my-3">
+                        <div class="card-columns">
+                            <div class="card h-100 mb-4">
+                                <div class="card-body bg-transparent p-4 shadow-sm">
+                                    <h3 class="text-center pb-2" >
+                                        <a href="/tags/%E6%B3%95%E5%9C%8B" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">法國</h5>
+                                        </a>
+                                    </h3>
+                                    
+                                        <a href="https://jamesblogger.com/zh/travel/paris-20240125/" class="card-text secondary-font">
+                                            <h6 style="color: var(--text-secondary-color) !important;">法國 - 巴黎兩日遊 2024-01-25</h6>
+                                        </a></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 my-3">
+                        <div class="card-columns">
+                            <div class="card h-100 mb-4">
+                                <div class="card-body bg-transparent p-4 shadow-sm">
+                                    <h3 class="text-center pb-2" >
+                                        <a href="/tags/%E6%B5%B7%E7%89%99" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">海牙</h5>
+                                        </a>
+                                    </h3>
+                                    
+                                        <a href="https://jamesblogger.com/zh/travel/Den-Haag-20240810/" class="card-text secondary-font">
+                                            <h6 style="color: var(--text-secondary-color) !important;">荷蘭 - 海牙一日遊 20240728</h6>
+                                        </a></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-md-6 my-3">
+                        <div class="card-columns">
+                            <div class="card h-100 mb-4">
+                                <div class="card-body bg-transparent p-4 shadow-sm">
+                                    <h3 class="text-center pb-2" >
+                                        <a href="/tags/%E8%8D%B7%E8%98%AD" class="primary-font card-title">
+                                            <h5 class="card-title bg-transparent">荷蘭</h5>
+                                        </a>
+                                    </h3>
+                                    
+                                        <a href="https://jamesblogger.com/zh/travel/Den-Haag-20240810/" class="card-text secondary-font">
+                                            <h6 style="color: var(--text-secondary-color) !important;">荷蘭 - 海牙一日遊 20240728</h6>
                                         </a></div>
                             </div>
                         </div>

@@ -66,10 +66,10 @@
 
           {{ if .Params.socialShare | default true }}
           <aside class="social">
-            <h5>{{ .Site.Params.terms.social | default "Social" }}</h5>
+            <h5>{{ .Site.Params.terms.social | default "Share" }}</h5>
             <div class="social-content">
               <ul class="list-inline">
-                <li class="list-inline-item text-center">
+                <!-- <li class="list-inline-item text-center">
                   <a target="_blank" href="https://twitter.com/share?text={{ .Title }}&url={{ .Site.Params.hostName }}{{ .Permalink | absURL }}">
                     <i class="fab fa-twitter"></i>
                   </a>
@@ -88,11 +88,11 @@
                   <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ .Site.Params.hostName }}{{ .Permalink | absURL }}">
                     <i class="fab fa-facebook"></i>
                   </a>
-                </li>
+                </li> -->
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://www.instagram.com/?url={{ .Site.Params.hostName }}{{ .Permalink | absURL }}">
-                    <i class="fab fa-instagram"></i>
-                  </a>
+                  <button id="web-share-button" class="btn btn-outline-info">
+                    <i class="fa fa-share-alt"></i> Share
+                  </button>
                 </li>
               </ul>
             </div>
@@ -152,5 +152,24 @@
 {{ if or (.Site.Params.singlePages.readTime.enable | default true) (.Params.enableReadingTime) }}
 <script src="{{.Site.Params.staticPath}}/js/readingTime.js"></script>
 {{end}}
+
+<script>
+  document.getElementById('web-share-button').addEventListener('click', async () => {
+    if (navigator.share) {
+      try {
+        await navigator.share({
+          title: '{{ .Title }}',
+          text: '{{ .Site.Params.terms.emailText | default "Check out this site" }}',
+          url: '{{ .Site.Params.hostName }}{{ .Permalink | absURL }}'
+        });
+        console.log('Successfully shared');
+      } catch (error) {
+        console.error('Error sharing:', error);
+      }
+    } else {
+      alert('Web Share API is not supported in your browser.');
+    }
+  });
+</script>
 
 {{ end }}
