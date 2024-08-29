@@ -57,9 +57,17 @@
           <aside class="tags">
             <h5>{{ .Site.Params.terms.tags | default "Tags" }}</h5>
             <ul class="tags-ul list-unstyled list-inline">
-              {{range .Params.tags}}
-              <li class="list-inline-item"><a href="{{`tags` | absURL}}/{{.| urlize}}" target="_blank">{{.}}</a></li>
-              {{end}}
+              {{- $baseURL := .Site.BaseURL -}}
+              {{ if eq .Site.Language.Lang "zh" }}
+                {{range .Params.tags}}
+                <li class="list-inline-item"><a href="{{ $baseURL }}/zh/tags/{{.| urlize}}" target="_blank">{{.}}</a></li>
+                {{end}}
+              {{ else }}
+                {{range .Params.tags}}
+                <li class="list-inline-item"><a href="{{`tags` | absURL}}/{{.| urlize}}" target="_blank">{{.}}</a></li>
+                {{end}}
+              {{ end }}
+              
             </ul>
           </aside>
           {{end}}
