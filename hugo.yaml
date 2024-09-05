@@ -411,7 +411,7 @@ languages:
         enable: true
         title: "工作經驗"
         items:
-          - job: "CS EUV Software Enginner"
+          - job: "CS EUV Software Engineer"
             company: "ASML總部"
             companyUrl: "https://www.asml.com/en"
             date: "Jul 2024 - 現在"
