@@ -1,42 +1,56 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>旅行 - tag - James Blog</title>
-        <link>https://jamesblogger.com/zh/tags/%E6%97%85%E8%A1%8C/</link>
+        <link>http://localhost:1313/zh/tags/%E6%97%85%E8%A1%8C/</link>
         <description>旅行 - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/tags/%E6%97%85%E8%A1%8C/" rel="self" type="application/rss+xml" /><item>
-    <title>德國 - 慕尼黑三日遊 20240823</title>
-    <link>https://jamesblogger.com/zh/travel/Munich-20240823/</link>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh/tags/%E6%97%85%E8%A1%8C/" rel="self" type="application/rss+xml" /><item>
+    <title>德國 - 漢堡三日遊 20240829</title>
+    <link>http://localhost:1313/zh/travel/Hamburg-20240829/</link>
     <pubDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>https://jamesblogger.com/zh/travel/Munich-20240823/</guid>
+    </author><guid>http://localhost:1313/zh/travel/Hamburg-20240829/</guid>
+    <description><![CDATA[漢堡簡單來說就是一個海港，我覺得德國的城市特色都不會到太鮮明，像義大利的城市可能各個城市之間就差距很大，德國就是務實，不會有太多很浮誇的東西]]></description>
+</item><item>
+    <title>德國 - 慕尼黑三日遊 20240823</title>
+    <link>http://localhost:1313/zh/travel/Munich-20240823/</link>
+    <pubDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>http://localhost:1313/zh/travel/Munich-20240823/</guid>
     <description><![CDATA[Day 1 這次從 Eindhoven 搭了 10 幾個小時的 Flixbus 夜車到慕尼黑，除了價錢便宜真的沒甚麼優點，坐著睡覺腳不能伸直，到點就要開始玩真的挺累，不過至少這樣一來一回可以]]></description>
 </item><item>
+    <title>德國 - 微縮景觀世界 Miniatur Wunderland</title>
+    <link>http://localhost:1313/zh/travel/Miniatur-Wunderland/</link>
+    <pubDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>http://localhost:1313/zh/travel/Miniatur-Wunderland/</guid>
+    <description><![CDATA[太喜歡這裡了所以決定拉一篇出來寫，這裡因為太熱門了所以一定要提前預約，然後要選好的時段，因為我們總共在這裡待了 5 個小時，如果逛到最後時間不夠]]></description>
+</item><item>
     <title>比利時 - 根特 &#43; 布魯塞爾一日遊 20240728</title>
-    <link>https://jamesblogger.com/zh/travel/ghent-20240728/</link>
+    <link>http://localhost:1313/zh/travel/ghent-20240728/</link>
     <pubDate>Thu, 05 Sep 2024 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>https://jamesblogger.com/zh/travel/ghent-20240728/</guid>
+    </author><guid>http://localhost:1313/zh/travel/ghent-20240728/</guid>
     <description><![CDATA[根特 ( Ghent ) 這次來 Ghent 只待了一天，特地為了他們的音樂節來的，Ghent Festival 每年只有 10 天，不過看網路上介紹滿少的，官網上有很多他們的活動跟遊行等等，]]></description>
 </item><item>
     <title>荷蘭 - 海牙一日遊 20240720</title>
-    <link>https://jamesblogger.com/zh/travel/Den-Haag-20240810/</link>
+    <link>http://localhost:1313/zh/travel/Den-Haag-20240810/</link>
     <pubDate>Wed, 28 Aug 2024 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>https://jamesblogger.com/zh/travel/Den-Haag-20240810/</guid>
+    </author><guid>http://localhost:1313/zh/travel/Den-Haag-20240810/</guid>
     <description><![CDATA[這次可以說就是奔著海灘去的，所以其實沒去很多點，本來想要再下一周去，不過突然發現這周天氣超好，差不多有 30 度，荷蘭這邊天氣變化很快，好天氣都沒]]></description>
 </item><item>
     <title>比利時 - 布魯日兩日遊 20240713</title>
-    <link>https://jamesblogger.com/zh/travel/bruges-20240713/</link>
+    <link>http://localhost:1313/zh/travel/bruges-20240713/</link>
     <pubDate>Sat, 17 Aug 2024 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>https://jamesblogger.com/zh/travel/bruges-20240713/</guid>
+    </author><guid>http://localhost:1313/zh/travel/bruges-20240713/</guid>
     <description><![CDATA[Day 1 我們從 Eindhoven 搭 Flixbus 到 Brussels，然後再搭火車到 Bruges，比利時的火車要買一下票，不過公車的部分信用卡就可以直接刷了。 分享兩個寫得很好]]></description>
 </item><item>
     <title>法國 - 巴黎兩日遊 2024-01-25</title>
-    <link>https://jamesblogger.com/zh/travel/paris-20240125/</link>
+    <link>http://localhost:1313/zh/travel/paris-20240125/</link>
     <pubDate>Tue, 20 Feb 2024 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>https://jamesblogger.com/zh/travel/paris-20240125/</guid>
+    </author><guid>http://localhost:1313/zh/travel/paris-20240125/</guid>
     <description><![CDATA[Day 1 第一次自助行就獻給了歐洲，下飛機的時候帶給我一種新奇的感覺，第一次自己站在陌生的城市，面對陌生的環境跟陌生的語言，「未知」這個詞貫穿了我]]></description>
 </item></channel>
 </rss>
