@@ -1,35 +1,35 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - category - James Blog</title>
-        <link>https://jamesblogger.com/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Categories - category - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Travel</title>
-    <link>https://jamesblogger.com/categories/Travel/</link>
+    <link>http://localhost:1313/categories/Travel/</link>
     <pubDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/categories/Travel/</guid>
+    </author><guid>http://localhost:1313/categories/Travel/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Life</title>
-    <link>https://jamesblogger.com/categories/Life/</link>
+    <link>http://localhost:1313/categories/Life/</link>
     <pubDate>Fri, 23 Feb 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/categories/Life/</guid>
+    </author><guid>http://localhost:1313/categories/Life/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Algorithm</title>
-    <link>https://jamesblogger.com/categories/Algorithm/</link>
+    <link>http://localhost:1313/categories/Algorithm/</link>
     <pubDate>Sun, 21 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/categories/Algorithm/</guid>
+    </author><guid>http://localhost:1313/categories/Algorithm/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Github</title>
-    <link>https://jamesblogger.com/categories/Github/</link>
+    <link>http://localhost:1313/categories/Github/</link>
     <pubDate>Thu, 18 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/categories/Github/</guid>
+    </author><guid>http://localhost:1313/categories/Github/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
