@@ -6,8 +6,15 @@
     <description>Recent content in Travels on James Blog</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/zh/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>瑞士四天遊記 20240914</title>
+      <link>http://localhost:1313/zh/travel/Switzerland-20240914/</link>
+      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/travel/Switzerland-20240914/</guid>
+      <description>瑞士就是一個全世界物價最高的地方，原本以為荷蘭、英國已經很貴了，但這裡的物價體感幾乎是這些地區的 1.5 ~ 2 倍。不過即便是這樣，瑞士還是目前所有國</description>
+    </item>
     <item>
       <title>英國 - 倫敦兩日遊 20240906</title>
       <link>http://localhost:1313/zh/travel/London-20240906/</link>
@@ -35,13 +42,6 @@
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/zh/travel/Miniatur-Wunderland/</guid>
       <description>太喜歡這裡了所以決定拉一篇出來寫，這裡因為太熱門了所以一定要提前預約，然後要選好的時段，因為我們總共在這裡待了 5 個小時，如果逛到最後時間不夠</description>
-    </item>
-    <item>
-      <title>瑞士四天遊記 20240914</title>
-      <link>http://localhost:1313/zh/travel/Switzerland-20240914/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/travel/Switzerland-20240914/</guid>
-      <description>瑞士就是一個全世界物價最高的地方，原本以為荷蘭、英國已經很貴了，但這裡的物價體感幾乎是這些地區的 1.5 ~ 2 倍。不過即便是這樣，瑞士還是目前所有國</description>
     </item>
     <item>
       <title>比利時 - 根特 &#43; 布魯塞爾一日遊 20240728</title>
