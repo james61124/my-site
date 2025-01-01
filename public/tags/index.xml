@@ -1,77 +1,77 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - tag - James Blog</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://jamesblogger.com/tags/</link>
         <description>Tags - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>Germany</title>
-    <link>http://localhost:1313/tags/Germany/</link>
-    <pubDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</pubDate><author>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 10 Nov 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>England</title>
+    <link>https://jamesblogger.com/tags/England/</link>
+    <pubDate>Sun, 10 Nov 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/tags/Germany/</guid>
+    </author><guid>https://jamesblogger.com/tags/England/</guid>
     <description><![CDATA[]]></description>
 </item><item>
-    <title>Munich</title>
-    <link>http://localhost:1313/tags/Munich/</link>
-    <pubDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</pubDate><author>
+    <title>London</title>
+    <link>https://jamesblogger.com/tags/London/</link>
+    <pubDate>Sun, 10 Nov 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/tags/Munich/</guid>
+    </author><guid>https://jamesblogger.com/tags/London/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Travel</title>
-    <link>http://localhost:1313/tags/Travel/</link>
+    <link>https://jamesblogger.com/tags/Travel/</link>
+    <pubDate>Sun, 10 Nov 2024 00:00:00 &#43;0000</pubDate><author>
+        <name></name>
+    </author><guid>https://jamesblogger.com/tags/Travel/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Germany</title>
+    <link>https://jamesblogger.com/tags/Germany/</link>
     <pubDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/tags/Travel/</guid>
+    </author><guid>https://jamesblogger.com/tags/Germany/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Munich</title>
+    <link>https://jamesblogger.com/tags/Munich/</link>
+    <pubDate>Tue, 10 Sep 2024 00:00:00 &#43;0000</pubDate><author>
+        <name></name>
+    </author><guid>https://jamesblogger.com/tags/Munich/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Belgium</title>
-    <link>http://localhost:1313/tags/Belgium/</link>
+    <link>https://jamesblogger.com/tags/Belgium/</link>
     <pubDate>Thu, 05 Sep 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/tags/Belgium/</guid>
+    </author><guid>https://jamesblogger.com/tags/Belgium/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Brussels</title>
-    <link>http://localhost:1313/tags/Brussels/</link>
+    <link>https://jamesblogger.com/tags/Brussels/</link>
     <pubDate>Thu, 05 Sep 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/tags/Brussels/</guid>
+    </author><guid>https://jamesblogger.com/tags/Brussels/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Ghent</title>
-    <link>http://localhost:1313/tags/Ghent/</link>
+    <link>https://jamesblogger.com/tags/Ghent/</link>
     <pubDate>Thu, 05 Sep 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/tags/Ghent/</guid>
+    </author><guid>https://jamesblogger.com/tags/Ghent/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Den Haag</title>
-    <link>http://localhost:1313/tags/Den-Haag/</link>
+    <link>https://jamesblogger.com/tags/Den-Haag/</link>
     <pubDate>Wed, 28 Aug 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/tags/Den-Haag/</guid>
+    </author><guid>https://jamesblogger.com/tags/Den-Haag/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Netherlands</title>
-    <link>http://localhost:1313/tags/Netherlands/</link>
+    <link>https://jamesblogger.com/tags/Netherlands/</link>
     <pubDate>Wed, 28 Aug 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/tags/Netherlands/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Bruges</title>
-    <link>http://localhost:1313/tags/Bruges/</link>
-    <pubDate>Sat, 17 Aug 2024 00:00:00 &#43;0000</pubDate><author>
-        <name></name>
-    </author><guid>http://localhost:1313/tags/Bruges/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Guitar Club</title>
-    <link>http://localhost:1313/tags/Guitar-Club/</link>
-    <pubDate>Fri, 23 Feb 2024 00:00:00 &#43;0000</pubDate><author>
-        <name></name>
-    </author><guid>http://localhost:1313/tags/Guitar-Club/</guid>
+    </author><guid>https://jamesblogger.com/tags/Netherlands/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
