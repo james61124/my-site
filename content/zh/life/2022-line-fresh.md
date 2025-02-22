@@ -9,7 +9,7 @@ image: /images/LINE-FRESH.jpg
 description: ""
 toc: 
 categories:
-  - Life
+  - 生活
 ---
 
 ## **作品介紹**

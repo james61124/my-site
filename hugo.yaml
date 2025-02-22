@@ -595,6 +595,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    parser:
+      attribute: true
+  highlight:
+    noClasses: true 
 
 
 

@@ -9,7 +9,7 @@ image: /images/GuitarClub.jpg
 description: ""
 toc: 
 categories:
-  - Life
+  - 生活
 ---
 
 我是交大吉他社 13 級社長，大二的社團生活於我而言，不僅僅是享受大學時光並結交新朋友，他是一個人生重要的歷練，也是一次對音樂認真地奉獻。

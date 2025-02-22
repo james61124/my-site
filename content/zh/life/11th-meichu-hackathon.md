@@ -9,7 +9,7 @@ image: /images/MeiChuHackathon.jpg
 description: ""
 toc: 
 categories:
-  - Life
+  - 生活
 ---
 
 因為前兩年擔任梅竹黑客松籌備幹部的關係，所以很自然的就跟大家講好說一定要再回來參加比賽，除了累積實務經驗，也順便看看下一屆的學弟妹籌備的如何。

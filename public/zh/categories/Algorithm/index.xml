@@ -3,7 +3,35 @@
         <title>Algorithm - category - James Blog</title>
         <link>https://jamesblogger.com/zh/categories/Algorithm/</link>
         <description>Algorithm - category - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sun, 21 Jan 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/categories/Algorithm/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/categories/Algorithm/" rel="self" type="application/rss+xml" /><item>
+    <title>[ Leetcode 209 ] Minimum Size Subarray Sum | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-209/</link>
+    <pubDate>Wed, 29 Jan 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-209/</guid>
+    <description><![CDATA[給定一個正整數陣列 nums 和一個目標數 target，找出最短的連續子陣列，使得其數字總和大於或等於 target。如果沒有符合條件的子陣列，則回傳 0]]></description>
+</item><item>
+    <title>[ Leetcode 300 ] Longest Increasing Subsequence | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-300/</link>
+    <pubDate>Wed, 29 Jan 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-300/</guid>
+    <description><![CDATA[在一個給定的 array 中，找出一個長度最長的遞增的 sub array，這個 sub array 中的 element 必須是按順序排列，但並不要求它們在原本的 array 中的位置是連續的。 題目連結🔗]]></description>
+</item><item>
+    <title>[ Leetcode 841 ] Keys and Rooms | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-841/</link>
+    <pubDate>Wed, 29 Jan 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-841/</guid>
+    <description><![CDATA[有 n 個房間，編號從 0 到 n-1，其中 rooms[i] 包含一個 list，代表房間 i 中可以獲得的鑰匙，這些鑰匙可以用來打開其他房間。最開始，你在房間 0，且已經打]]></description>
+</item><item>
+    <title>Binary Search</title>
+    <link>https://jamesblogger.com/zh/program/binary-search/</link>
+    <pubDate>Tue, 28 Jan 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/binary-search/</guid>
+    <description><![CDATA[Binary Search 就是一種 searching algorithm，用來在一個 sorted array 中尋找 key value 的位置，主要是透過每次將搜尋範圍縮小一半來快速定位目標，所以 Binary Search 的 Time Complexity 為 O(log n)。 基]]></description>
+</item><item>
     <title>DP 系列 - The Rod Cutting Problem</title>
     <link>https://jamesblogger.com/zh/program/the-rod-cutting-problem/</link>
     <pubDate>Sun, 21 Jan 2024 00:00:00 &#43;0000</pubDate><author>

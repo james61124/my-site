@@ -6,7 +6,7 @@ author: "James"
 tags:
   - Algorithm
   - Dynamic Programming
-image: /images/program/Algorithm.png
+image: /images/program/Algorithm.webp
 description: ""
 toc: 
 categories:
