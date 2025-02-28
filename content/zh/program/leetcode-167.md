@@ -1,6 +1,6 @@
 ---
 title: "[ Leetcode 167 ] Two Sum II - Input Array Is Sorted | 解題思路分享"
-date: 2025-02-23
+date: 2025-02-26
 draft: false
 author: "James"
 tags:
@@ -18,7 +18,7 @@ categories:
 
 題目連結🔗：[https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
-### **解題思路 - Two Pointers（Opposite Direction）**
+### **解題思路 - Opposite Direction Two Pointers**
 
 這題可以用 opposite direction 的 two pointer 來解，因為這題算是在 sorted array 中找到某些約束條件的元素，left 先指在第一個元素，right 指在最後一個，如果兩個數的和大於 target，就移動 right，反之，就移動 left。
 

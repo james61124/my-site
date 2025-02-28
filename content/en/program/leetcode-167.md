@@ -1,6 +1,6 @@
 ---
-title: "[ Leetcode 167 ] Two Sum II - Input Array Is Sorted | 解題思路分享"
-date: 2025-02-23
+title: "[ Leetcode 167 ] Two Sum II - Input Array Is Sorted | Solution Approach & Explanation"
+date: 2025-02-26
 draft: false
 author: "James"
 tags:
@@ -18,7 +18,7 @@ This problem is a variation of Two Sum. Given an array sorted in ascending order
 
 Link🔗：[https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 
-### **Method - Two Pointers（Opposite Direction）**
+### **Method - Opposite Direction Two Pointers**
 
 This problem can be solved using opposite direction two-pointer technique, since this problem is about finding elements under certain constraints in a sorted array. Set left pointer at the first element and right pointer at the last element.
 
