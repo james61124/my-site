@@ -7,3 +7,14 @@
 雙串線性 DP 問題 → Double-Sequence Linear DP Problem (Two Strings/Sequences DP Problem)
 矩陣線性 DP 問題 → Matrix Linear DP Problem
 無串線性 DP 問題 → Non-Sequence Linear DP Problem (No String/Sequence DP Problem)
+
+
+
+Double-Sequence Linear DP Problem
+
+問題的輸入為兩個陣列或兩個字串的線性DP 問題。狀態一般可定義為 dp[i][j]
+
+ex. 1143
+ex. 
+
+

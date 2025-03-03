@@ -3,13 +3,48 @@
         <title>Algorithms - tag - James Blog</title>
         <link>https://jamesblogger.com/zh/tags/Algorithms/</link>
         <description>Algorithms - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sun, 23 Feb 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/tags/Algorithms/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/tags/Algorithms/" rel="self" type="application/rss+xml" /><item>
+    <title>[ Leetcode 1343 ] Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-1343/</link>
+    <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-1343/</guid>
+    <description><![CDATA[給一個整數 array nums，還有兩個數 k 和 threshold，找出長度為 k 且平均值大於或等於 threshold 的 subarray 數量。 題目連結🔗：https://leetcod]]></description>
+</item><item>
+    <title>[ Leetcode 1143 ] Longest Common Subsequence | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-1143/</link>
+    <pubDate>Sat, 01 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-1143/</guid>
+    <description><![CDATA[給定兩個字串 text1 和 text2，找出它們的最長公共子序列（LCS，Longest Common Subsequence）的長度。 ⚠️ 注意： 子序列不要求連續，但]]></description>
+</item><item>
+    <title>[ Leetcode 11 ] Container With Most Water | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-11/</link>
+    <pubDate>Thu, 27 Feb 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-11/</guid>
+    <description><![CDATA[在一個 array 中，每個元素代表垂直線的高度，選擇兩條線，讓它們與 x 軸形成的容器能夠容納最多的水，並返回最大水量。 題目連結🔗：https://lee]]></description>
+</item><item>
     <title>[ Leetcode 167 ] Two Sum II - Input Array Is Sorted | 解題思路分享</title>
     <link>https://jamesblogger.com/zh/program/leetcode-167/</link>
-    <pubDate>Sun, 23 Feb 2025 00:00:00 &#43;0000</pubDate><author>
+    <pubDate>Wed, 26 Feb 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
     </author><guid>https://jamesblogger.com/zh/program/leetcode-167/</guid>
     <description><![CDATA[這題是 Two Sum 的變體，給定一個「遞增排序」的 array，要求找出兩個數，使它們的和等於目標值，並返回這兩個數的「1-based index」 題目連]]></description>
+</item><item>
+    <title>[ Leetcode 26 ] Remove Duplicates from Sorted Array | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-26/</link>
+    <pubDate>Wed, 26 Feb 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-26/</guid>
+    <description><![CDATA[給定一個 ascending sorted array - nums，要原地移除重複出現的元素，使得每個元素只出現一次，並返回移除後的陣列長度。 ⚠ 要求： 不能使用額外的陣列空間，必須在原]]></description>
+</item><item>
+    <title>[ Leetcode 349 ] Intersection of Two Arrays | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-349/</link>
+    <pubDate>Sun, 23 Feb 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-349/</guid>
+    <description><![CDATA[給兩個整數陣列 nums1 和 nums2，找出它們的交集，並且結果中每個元素只能出現一次。 題目連結🔗：https://leetcode.com/prob]]></description>
 </item><item>
     <title>[ Leetcode 125 ] Valid Palindrome | 解題思路分享</title>
     <link>https://jamesblogger.com/zh/program/leetcode-125/</link>
@@ -38,12 +73,5 @@
         <name>James</name>
     </author><guid>https://jamesblogger.com/zh/program/leetcode-841/</guid>
     <description><![CDATA[有 n 個房間，編號從 0 到 n-1，其中 rooms[i] 包含一個 list，代表房間 i 中可以獲得的鑰匙，這些鑰匙可以用來打開其他房間。最開始，你在房間 0，且已經打]]></description>
-</item><item>
-    <title>Binary Search</title>
-    <link>https://jamesblogger.com/zh/program/binary-search/</link>
-    <pubDate>Tue, 28 Jan 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>https://jamesblogger.com/zh/program/binary-search/</guid>
-    <description><![CDATA[Binary Search 就是一種 searching algorithm，用來在一個 sorted array 中尋找 key value 的位置，主要是透過每次將搜尋範圍縮小一半來快速定位目標，所以 Binary Search 的 Time Complexity 為 O(log n)。 基]]></description>
 </item></channel>
 </rss>

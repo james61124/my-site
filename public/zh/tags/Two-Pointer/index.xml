@@ -3,13 +3,27 @@
         <title>Two Pointer - tag - James Blog</title>
         <link>https://jamesblogger.com/zh/tags/Two-Pointer/</link>
         <description>Two Pointer - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sun, 23 Feb 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/tags/Two-Pointer/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Thu, 27 Feb 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/tags/Two-Pointer/" rel="self" type="application/rss+xml" /><item>
+    <title>[ Leetcode 11 ] Container With Most Water | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-11/</link>
+    <pubDate>Thu, 27 Feb 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-11/</guid>
+    <description><![CDATA[在一個 array 中，每個元素代表垂直線的高度，選擇兩條線，讓它們與 x 軸形成的容器能夠容納最多的水，並返回最大水量。 題目連結🔗：https://lee]]></description>
+</item><item>
     <title>[ Leetcode 167 ] Two Sum II - Input Array Is Sorted | 解題思路分享</title>
     <link>https://jamesblogger.com/zh/program/leetcode-167/</link>
-    <pubDate>Sun, 23 Feb 2025 00:00:00 &#43;0000</pubDate><author>
+    <pubDate>Wed, 26 Feb 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
     </author><guid>https://jamesblogger.com/zh/program/leetcode-167/</guid>
     <description><![CDATA[這題是 Two Sum 的變體，給定一個「遞增排序」的 array，要求找出兩個數，使它們的和等於目標值，並返回這兩個數的「1-based index」 題目連]]></description>
+</item><item>
+    <title>[ Leetcode 26 ] Remove Duplicates from Sorted Array | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-26/</link>
+    <pubDate>Wed, 26 Feb 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-26/</guid>
+    <description><![CDATA[給定一個 ascending sorted array - nums，要原地移除重複出現的元素，使得每個元素只出現一次，並返回移除後的陣列長度。 ⚠ 要求： 不能使用額外的陣列空間，必須在原]]></description>
 </item><item>
     <title>[ Leetcode 125 ] Valid Palindrome | 解題思路分享</title>
     <link>https://jamesblogger.com/zh/program/leetcode-125/</link>

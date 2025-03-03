@@ -43,8 +43,8 @@ if (!doNotTrack) {
 <meta property="og:description" content="這題是 Two Sum 的變體，給定一個「遞增排序」的 array，要求找出兩個數，使它們的和等於目標值，並返回這兩個數的「1-based index」 題目連" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://jamesblogger.com/zh/program/leetcode-167/" /><meta property="article:section" content="program" />
-<meta property="article:published_time" content="2025-02-23T00:00:00+00:00" />
-<meta property="article:modified_time" content="2025-02-23T00:00:00+00:00" /><meta property="og:site_name" content="James Blog" />
+<meta property="article:published_time" content="2025-02-26T00:00:00+00:00" />
+<meta property="article:modified_time" content="2025-02-26T00:00:00+00:00" /><meta property="og:site_name" content="James Blog" />
 
 
 <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="[ Leetcode 167 ] Two Sum II - Input Array Is Sorted | 解題思路分享"/>
@@ -318,7 +318,7 @@ if (!doNotTrack) {
             <div class="text-center">
               James 
               <small>|</small>
-              Feb 23, 2025
+              Feb 26, 2025
 
               
               <span id="readingTime">
@@ -335,7 +335,7 @@ if (!doNotTrack) {
           <article class="page-content  p-2">
           <p>這題是 Two Sum 的變體，給定一個「遞增排序」的 array，要求找出兩個數，使它們的和等於目標值，並返回這兩個數的「1-based index」</p>
 <p>題目連結🔗：<a href="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/">https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/</a></p>
-<h3 id="解題思路---two-pointersopposite-direction"><strong>解題思路 - Two Pointers（Opposite Direction）</strong></h3>
+<h3 id="解題思路---opposite-direction-two-pointers"><strong>解題思路 - Opposite Direction Two Pointers</strong></h3>
 <p>這題可以用 opposite direction 的 two pointer 來解，因為這題算是在 sorted array 中找到某些約束條件的元素，left 先指在第一個元素，right 指在最後一個，如果兩個數的和大於 target，就移動 right，反之，就移動 left。</p>
 <p><strong>Time Complexity</strong> - O( n )，每個元素最多被 right 或 left 掃過。</p>
 <p><strong>Space Complexity</strong> - O( 1 )，只使用了兩個指針</p>
@@ -366,7 +366,7 @@ if (!doNotTrack) {
   <ul>
     <li>
       <ul>
-        <li><a href="#解題思路---two-pointersopposite-direction"><strong>解題思路 - Two Pointers（Opposite Direction）</strong></a></li>
+        <li><a href="#解題思路---opposite-direction-two-pointers"><strong>解題思路 - Opposite Direction Two Pointers</strong></a></li>
       </ul>
     </li>
   </ul>

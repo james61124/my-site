@@ -4,7 +4,7 @@ date: 2025-02-23
 draft: false
 author: "James"
 tags:
-  - Two Pointer
+  - Dynamic Programming
   - Algorithms
   - Leetcode
 image: /images/program/Leetcode.jpeg
@@ -25,7 +25,6 @@ categories:
 #### 狀態定義
 
 我們使用一個 dp[j][i] 來表示以 arr[j] 和 arr[i] 結尾的最長 Fibonacci subsequence 的長度。對於每一個數 arr[i]，我們檢查他前面的每一個數 arr[j]，如果存在一個 k 使得 arr[i]+arr[j] = arr[k]，就表示 dp[i][k] = dp[i][j] + 1，此時更新 dp[i][k] = dp[i][j] + 1
-
 
 首先我們需要一個 dp[i][j] 來表示以 arr[i], arr[j] 結尾時的 Length of Longest Fibonacci Subsequence，再來用 n^2 遍歷過每一個 i, j 的組合，如果我們可以在 arr 裡找到一個 index k 使得 arr[i]+arr[j] = arr[k]，就表示 dp[j][k] 要嘛是原本的數字，要嘛是 dp[i][j]+1，取大的那個紀錄
 
