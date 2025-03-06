@@ -4,10 +4,31 @@
     <title>Programs on James Blog</title>
     <link>https://jamesblogger.com/zh/program/</link>
     <description>Recent content in Programs on James Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jamesblogger.com/zh/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[ Algorithm ] Sliding Window | 核心概念與 Leetcode 題型解析</title>
+      <link>https://jamesblogger.com/zh/program/sliding-window/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/zh/program/sliding-window/</guid>
+      <description>Sliding Window 就是利用 left 和 right 兩個指標來維持一個動態區間 ( window )，透過移動這個 window 來減少重複運算，主要用在處理 subarray 或是 substring 之類的問題。 Sliding Window 分成兩種 : Fixed-Size Sliding Window Variable-Size Sliding W</description>
+    </item>
+    <item>
+      <title>[ Leetcode 21 ] Merge Two Sorted Lists | 解題思路分享</title>
+      <link>https://jamesblogger.com/zh/program/leetcode-21/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/zh/program/leetcode-21/</guid>
+      <description>給一個正整數 array nums 和一個正整數 k，找出乘積小於 k 的 subarray 數量。 題目連結🔗：https://leetcode.com/problems/merge-</description>
+    </item>
+    <item>
+      <title>[ Leetcode 713 ] Subarray Product Less Than K | 解題思路分享</title>
+      <link>https://jamesblogger.com/zh/program/leetcode-713/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/zh/program/leetcode-713/</guid>
+      <description>給一個正整數 array nums 和一個正整數 k，找出乘積小於 k 的 subarray 數量。 題目連結🔗：https://leetcode.com/problems/subarr</description>
+    </item>
     <item>
       <title>[ Leetcode 1343 ] Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 解題思路分享</title>
       <link>https://jamesblogger.com/zh/program/leetcode-1343/</link>

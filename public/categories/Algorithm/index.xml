@@ -3,7 +3,33 @@
         <title>Algorithm - category - James Blog</title>
         <link>https://jamesblogger.com/categories/Algorithm/</link>
         <description>Algorithm - category - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/categories/Algorithm/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/categories/Algorithm/" rel="self" type="application/rss+xml" /><item>
+    <title>[ Algorithm ] Sliding Window | Core Concepts &amp; Leetcode Problems Analysis</title>
+    <link>https://jamesblogger.com/program/sliding-window/</link>
+    <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/program/sliding-window/</guid>
+    <description><![CDATA[The Sliding Window technique utilizes two pointers, left and right, to maintain a dynamic range (window). By shifting this window, we can reduce redundant computations, making it particularly useful for problems involving subarrays or substrings.
+Sliding Window is categorized into two types:
+Fixed-Size Sliding Window Variable-Size Sliding Window Fixed-Size Sliding Window Used for problems that require subarrays or substrings of a fixed length. The window moves one step to the right at a time, removing the leftmost element and adding a new rightmost element.]]></description>
+</item><item>
+    <title>[ Leetcode 21 ] Merge Two Sorted Lists | Solution Approach &amp; Explanation</title>
+    <link>https://jamesblogger.com/program/leetcode-21/</link>
+    <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/program/leetcode-21/</guid>
+    <description><![CDATA[Given a positive integer array nums and a positive integer k, find the number of subarrays whose product is less than k.
+Link🔗：https://leetcode.com/problems/merge-two-sorted-lists/
+Problem Analysis This problem is straightforward if you think from a two-pointer perspective. The key is to carefully determine which node points to which, and which pointer moves forward.
+Solution - Two Pointers We need a pointer cur to track the last merged node. We compare the values of list1 and list2, and link cur-&gt;next to the smaller one.]]></description>
+</item><item>
+    <title>[ Leetcode 713 ] Subarray Product Less Than K | 解題思路分享</title>
+    <link>https://jamesblogger.com/program/leetcode-713/</link>
+    <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/program/leetcode-713/</guid>
+    <description><![CDATA[Given a positive integer array nums and a positive integer k, find the number of subarrays whose product is less than k. Link🔗：https://leetcode.com/problems/subarray-pro]]></description>
+</item><item>
     <title>[ Leetcode 1343 ] Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Solution Approach &amp; Explanation</title>
     <link>https://jamesblogger.com/program/leetcode-1343/</link>
     <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
@@ -69,30 +95,5 @@ Solution - DP (Double-Sequence Linear DP Problem) This problem can be solved usi
 Link🔗：https://leetcode.com/problems/container-with-most-water/
 Solution - Opposite Direction Two Pointers The key idea is that the area of the container is determined by:
 Area = min(Height of left, Height of right) × Distance between them We aim to find two lines that maximize this area.]]></description>
-</item><item>
-    <title>[ Leetcode 167 ] Two Sum II - Input Array Is Sorted | Solution Approach &amp; Explanation</title>
-    <link>https://jamesblogger.com/program/leetcode-167/</link>
-    <pubDate>Wed, 26 Feb 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>https://jamesblogger.com/program/leetcode-167/</guid>
-    <description><![CDATA[This problem is a variation of Two Sum. Given an array sorted in ascending order, the goal is to find two numbers whose sum equals the target value and return their 1-based indices.
-Link🔗：https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-Method - Opposite Direction Two Pointers This problem can be solved using opposite direction two-pointer technique, since this problem is about finding elements under certain constraints in a sorted array. Set left pointer at the first element and right pointer at the last element.]]></description>
-</item><item>
-    <title>[ Leetcode 26 ] Remove Duplicates from Sorted Array | Solution Approach &amp; Explanation</title>
-    <link>https://jamesblogger.com/program/leetcode-26/</link>
-    <pubDate>Wed, 26 Feb 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>https://jamesblogger.com/program/leetcode-26/</guid>
-    <description><![CDATA[Given an ascending sorted array - nums, the task is to remove duplicate elements in place so that each element appears only once and return the new length of the array.
-⚠ Requirements：
-Extra array space cannot be used; modifications must be done in place. If the returned array length is k, it means the first k elements of nums contain the result after removing duplicates, while the remaining elements can be arbitrary and do not need to be considered.]]></description>
-</item><item>
-    <title>[ Leetcode 349 ] Intersection of Two Arrays | 解題思路分享</title>
-    <link>https://jamesblogger.com/program/leetcode-349/</link>
-    <pubDate>Sun, 23 Feb 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>https://jamesblogger.com/program/leetcode-349/</guid>
-    <description><![CDATA[Given two integer arrays nums1 and nums2, find their intersection, ensuring that each element appears only once in the result. Link🔗：https://leetcode.com/problems/intersection-o]]></description>
 </item></channel>
 </rss>

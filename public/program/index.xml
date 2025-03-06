@@ -4,10 +4,31 @@
     <title>Programs on James Blog</title>
     <link>https://jamesblogger.com/program/</link>
     <description>Recent content in Programs on James Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jamesblogger.com/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[ Algorithm ] Sliding Window | Core Concepts &amp; Leetcode Problems Analysis</title>
+      <link>https://jamesblogger.com/program/sliding-window/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/program/sliding-window/</guid>
+      <description>The Sliding Window technique utilizes two pointers, left and right, to maintain a dynamic range (window). By shifting this window, we can reduce redundant computations, making it particularly useful for problems involving subarrays or substrings.&#xA;Sliding Window is categorized into two types:&#xA;Fixed-Size Sliding Window Variable-Size Sliding Window Fixed-Size Sliding Window Used for problems that require subarrays or substrings of a fixed length. The window moves one step to the right at a time, removing the leftmost element and adding a new rightmost element.</description>
+    </item>
+    <item>
+      <title>[ Leetcode 21 ] Merge Two Sorted Lists | Solution Approach &amp; Explanation</title>
+      <link>https://jamesblogger.com/program/leetcode-21/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/program/leetcode-21/</guid>
+      <description>Given a positive integer array nums and a positive integer k, find the number of subarrays whose product is less than k.&#xA;Link🔗：https://leetcode.com/problems/merge-two-sorted-lists/&#xA;Problem Analysis This problem is straightforward if you think from a two-pointer perspective. The key is to carefully determine which node points to which, and which pointer moves forward.&#xA;Solution - Two Pointers We need a pointer cur to track the last merged node. We compare the values of list1 and list2, and link cur-&amp;gt;next to the smaller one.</description>
+    </item>
+    <item>
+      <title>[ Leetcode 713 ] Subarray Product Less Than K | 解題思路分享</title>
+      <link>https://jamesblogger.com/program/leetcode-713/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/program/leetcode-713/</guid>
+      <description>Given a positive integer array nums and a positive integer k, find the number of subarrays whose product is less than k. Link🔗：https://leetcode.com/problems/subarray-pro</description>
+    </item>
     <item>
       <title>[ Leetcode 1343 ] Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Solution Approach &amp; Explanation</title>
       <link>https://jamesblogger.com/program/leetcode-1343/</link>

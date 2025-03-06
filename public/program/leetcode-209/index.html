@@ -28,31 +28,48 @@
 
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1PS8N6815C"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-1PS8N6815C', { 'anonymize_ip': false });
-}
-</script>
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-1PS8N6815C"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-1PS8N6815C');
+        }
+      </script>
+    
+  
 
-<meta property="og:title" content="[ Leetcode 209 ] Minimum Size Subarray Sum | Solution Approach &amp; Explanation" />
-<meta property="og:description" content="Given a positive integer array nums and a target value target, find the smallest contiguous subarray whose sum is greater than or equal to target. If no such subarray exists, return 0.
+
+<meta property="og:url" content="https://jamesblogger.com/program/leetcode-209/">
+  <meta property="og:site_name" content="James Blog">
+  <meta property="og:title" content="[ Leetcode 209 ] Minimum Size Subarray Sum | Solution Approach &amp; Explanation">
+  <meta property="og:description" content="Given a positive integer array nums and a target value target, find the smallest contiguous subarray whose sum is greater than or equal to target. If no such subarray exists, return 0.
 Link🔗：https://leetcode.com/problems/minimum-size-subarray-sum/
-Method 1 - Sliding Window This problem can be solved using the Sliding Window technique. Since all numbers in the array are positive, we know that if a subarray sum reaches or exceeds target, adding more numbers will only make it longer but won&rsquo;t help find the shortest subarray." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://jamesblogger.com/program/leetcode-209/" /><meta property="article:section" content="program" />
-<meta property="article:published_time" content="2025-01-29T00:00:00+00:00" />
-<meta property="article:modified_time" content="2025-01-29T00:00:00+00:00" /><meta property="og:site_name" content="James Blog" />
+Method 1 - Sliding Window This problem can be solved using the Sliding Window technique. Since all numbers in the array are positive, we know that if a subarray sum reaches or exceeds target, adding more numbers will only make it longer but won’t help find the shortest subarray.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="program">
+    <meta property="article:published_time" content="2025-01-29T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-01-29T00:00:00+00:00">
+    <meta property="article:tag" content="Sliding Window">
+    <meta property="article:tag" content="Prefix Sum">
+    <meta property="article:tag" content="Algorithms">
+    <meta property="article:tag" content="Leetcode">
 
 
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="[ Leetcode 209 ] Minimum Size Subarray Sum | Solution Approach &amp; Explanation"/>
-<meta name="twitter:description" content="Given a positive integer array nums and a target value target, find the smallest contiguous subarray whose sum is greater than or equal to target. If no such subarray exists, return 0.
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="[ Leetcode 209 ] Minimum Size Subarray Sum | Solution Approach &amp; Explanation">
+  <meta name="twitter:description" content="Given a positive integer array nums and a target value target, find the smallest contiguous subarray whose sum is greater than or equal to target. If no such subarray exists, return 0.
 Link🔗：https://leetcode.com/problems/minimum-size-subarray-sum/
-Method 1 - Sliding Window This problem can be solved using the Sliding Window technique. Since all numbers in the array are positive, we know that if a subarray sum reaches or exceeds target, adding more numbers will only make it longer but won&rsquo;t help find the shortest subarray."/>
+Method 1 - Sliding Window This problem can be solved using the Sliding Window technique. Since all numbers in the array are positive, we know that if a subarray sum reaches or exceeds target, adding more numbers will only make it longer but won’t help find the shortest subarray.">
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">

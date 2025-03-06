@@ -28,27 +28,43 @@
 
 
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1PS8N6815C"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-1PS8N6815C', { 'anonymize_ip': false });
-}
-</script>
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-1PS8N6815C"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-1PS8N6815C');
+        }
+      </script>
+    
+  
 
-<meta property="og:title" content="[ Leetcode 125 ] Valid Palindrome | 解題思路分享" />
-<meta property="og:description" content="這題要求判斷給定的字串是否是「回文」（Palindrome），忽略大小寫和非字母數字字符。 題目連結🔗：https://leetcode.co" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://jamesblogger.com/zh/program/leetcode-125/" /><meta property="article:section" content="program" />
-<meta property="article:published_time" content="2025-02-15T00:00:00+00:00" />
-<meta property="article:modified_time" content="2025-02-15T00:00:00+00:00" /><meta property="og:site_name" content="James Blog" />
+
+<meta property="og:url" content="https://jamesblogger.com/zh/program/leetcode-125/">
+  <meta property="og:site_name" content="James Blog">
+  <meta property="og:title" content="[ Leetcode 125 ] Valid Palindrome | 解題思路分享">
+  <meta property="og:description" content="這題要求判斷給定的字串是否是「回文」（Palindrome），忽略大小寫和非字母數字字符。 題目連結🔗：https://leetcode.co">
+  <meta property="og:locale" content="zh">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="program">
+    <meta property="article:published_time" content="2025-02-15T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-02-15T00:00:00+00:00">
+    <meta property="article:tag" content="Two Pointer">
+    <meta property="article:tag" content="Algorithms">
+    <meta property="article:tag" content="Leetcode">
 
 
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="[ Leetcode 125 ] Valid Palindrome | 解題思路分享"/>
-<meta name="twitter:description" content="這題要求判斷給定的字串是否是「回文」（Palindrome），忽略大小寫和非字母數字字符。 題目連結🔗：https://leetcode.co"/>
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="[ Leetcode 125 ] Valid Palindrome | 解題思路分享">
+  <meta name="twitter:description" content="這題要求判斷給定的字串是否是「回文」（Palindrome），忽略大小寫和非字母數字字符。 題目連結🔗：https://leetcode.co">
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
