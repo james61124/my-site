@@ -1,6 +1,6 @@
 ---
 title: "[ Leetcode 21 ] Merge Two Sorted Lists | 解題思路分享"
-date: 2025-03-05
+date: 2025-03-06
 draft: false
 author: "James"
 tags:
