@@ -2,241 +2,262 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on James Blog</title>
-    <link>http://localhost:1313/zh/</link>
+    <link>https://jamesblogger.com/zh/</link>
     <description>Recent content in Home on James Blog</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jamesblogger.com/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[ Leetcode 20 ] Valid Parentheses | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-20/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-20/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-20/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-20/</guid>
       <description>給一個只包含 &amp;rsquo;(&amp;rsquo;, &amp;rsquo;)&amp;rsquo;, &amp;rsquo;{&amp;rsquo;, &amp;rsquo;}&amp;rsquo;, &amp;rsquo;[&amp;rsquo;, &amp;rsquo;]&amp;rsquo; 的 string s，檢查這個 string 是否是 valid 的括號組合。 題目連結🔗：https://leetcode.com/problems/val</description>
     </item>
     <item>
       <title>[ Leetcode 21 ] Merge Two Sorted Lists | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-21/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-21/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-21/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-21/</guid>
       <description>給一個正整數 array nums 和一個正整數 k，找出乘積小於 k 的 subarray 數量。 題目連結🔗：https://leetcode.com/problems/merge-</description>
     </item>
     <item>
+      <title>[ Leetcode 227 ] Basic Calculator II | 解題思路分享</title>
+      <link>https://jamesblogger.com/zh/program/leetcode-227/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/zh/program/leetcode-227/</guid>
+      <description>給一個只包含非負整數、+、-、*、/ 和空格的 string，計算它的 value。運算順序需符合標準的數學運算規則（ 先乘除，後加減 ），但不允許使</description>
+    </item>
+    <item>
+      <title>[ Leetcode 496 ] Next Greater Element I | 解題思路分享</title>
+      <link>https://jamesblogger.com/zh/program/leetcode-496/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/zh/program/leetcode-496/</guid>
+      <description>給定兩個 array nums1 和 nums2，其中 nums1 是 nums2 的 subset，我們需要在 nums2 中為 nums1 中的每個數字找到下一個較大元素。 題目連結🔗：https://leetc</description>
+    </item>
+    <item>
+      <title>[ Leetcode 739 ] Daily Temperatures | 解題思路分享</title>
+      <link>https://jamesblogger.com/zh/program/leetcode-739/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/zh/program/leetcode-739/</guid>
+      <description>給一個整數 array temperatures，表示每天的溫度，對於每一天，我們需要找到離當天最近的一個更高的日子，並返回該天跟當前天的天數，如果沒有</description>
+    </item>
+    <item>
       <title>[ Algorithm ] Sliding Window | 核心概念與 Leetcode 題型解析</title>
-      <link>http://localhost:1313/zh/program/sliding-window/</link>
+      <link>https://jamesblogger.com/zh/program/sliding-window/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/sliding-window/</guid>
+      <guid>https://jamesblogger.com/zh/program/sliding-window/</guid>
       <description>Sliding Window 就是利用 left 和 right 兩個指標來維持一個動態區間 ( window )，透過移動這個 window 來減少重複運算，主要用在處理 subarray 或是 substring 之類的問題。 Sliding Window 分成兩種 : Fixed-Size Sliding Window Variable-Size Sliding W</description>
     </item>
     <item>
       <title>[ Leetcode 713 ] Subarray Product Less Than K | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-713/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-713/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-713/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-713/</guid>
       <description>給一個正整數 array nums 和一個正整數 k，找出乘積小於 k 的 subarray 數量。 題目連結🔗：https://leetcode.com/problems/subarr</description>
     </item>
     <item>
       <title>[ Leetcode 1343 ] Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-1343/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-1343/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-1343/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-1343/</guid>
       <description>給一個整數 array nums，還有兩個數 k 和 threshold，找出長度為 k 且平均值大於或等於 threshold 的 subarray 數量。 題目連結🔗：https://leetcod</description>
     </item>
     <item>
       <title>[ Leetcode 141 ] Linked List Cycle | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-141/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-141/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-141/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-141/</guid>
       <description>給一個 linked list，要判斷有沒有 cycle。 題目連結🔗：https://leetcode.com/problems/linked-list-c</description>
     </item>
     <item>
       <title>[ Leetcode 19 ] Remove Nth Node From End of List | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-19/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-19/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-19/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-19/</guid>
       <description>給一個 linked list，要 delete 倒數第 n 個 node，並且 return 整個 linked list。 題目連結🔗：https://leetcode.com/problems/re</description>
     </item>
     <item>
       <title>[ Leetcode 3 ] Longest Substring Without Repeating Characters | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-3/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-3/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-3/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-3/</guid>
       <description>給定一個字串 s，找出其中 不含 repeated character 的最長 substring 長度。 題目連結🔗：https://leetcode.com/problems/longest-sub</description>
     </item>
     <item>
       <title>[ Leetcode 876 ] Middle of the Linked List | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-876/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-876/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-876/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-876/</guid>
       <description>給一個 linked list，要 return 中間那個 node。 題目連結🔗：https://leetcode.com/problems/middle-of-the-</description>
     </item>
     <item>
       <title>[ Leetcode 1143 ] Longest Common Subsequence | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-1143/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-1143/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-1143/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-1143/</guid>
       <description>給定兩個字串 text1 和 text2，找出它們的最長公共子序列（LCS，Longest Common Subsequence）的長度。 ⚠️ 注意： 子序列不要求連續，但</description>
     </item>
     <item>
       <title>[ Leetcode 11 ] Container With Most Water | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-11/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-11/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-11/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-11/</guid>
       <description>在一個 array 中，每個元素代表垂直線的高度，選擇兩條線，讓它們與 x 軸形成的容器能夠容納最多的水，並返回最大水量。 題目連結🔗：https://lee</description>
     </item>
     <item>
       <title>[ Leetcode 167 ] Two Sum II - Input Array Is Sorted | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-167/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-167/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-167/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-167/</guid>
       <description>這題是 Two Sum 的變體，給定一個「遞增排序」的 array，要求找出兩個數，使它們的和等於目標值，並返回這兩個數的「1-based index」 題目連</description>
     </item>
     <item>
       <title>[ Leetcode 26 ] Remove Duplicates from Sorted Array | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-26/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-26/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-26/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-26/</guid>
       <description>給定一個 ascending sorted array - nums，要原地移除重複出現的元素，使得每個元素只出現一次，並返回移除後的陣列長度。 ⚠ 要求： 不能使用額外的陣列空間，必須在原</description>
     </item>
     <item>
       <title>[ Leetcode 349 ] Intersection of Two Arrays | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-349/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-349/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-349/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-349/</guid>
       <description>給兩個整數陣列 nums1 和 nums2，找出它們的交集，並且結果中每個元素只能出現一次。 題目連結🔗：https://leetcode.com/prob</description>
     </item>
     <item>
       <title>改變人生的半年 - ASML 荷蘭總部實習全紀錄</title>
-      <link>http://localhost:1313/zh/life/ASML/</link>
+      <link>https://jamesblogger.com/zh/life/ASML/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/life/ASML/</guid>
+      <guid>https://jamesblogger.com/zh/life/ASML/</guid>
       <description>出國實習這件事應該是目前這輩子做過最大但也最成功的決定，利用半年的時間到外面的世界走走看看，現在回想起來還是覺得很不可思議，回台灣之後也有種</description>
     </item>
     <item>
       <title>[ Leetcode 125 ] Valid Palindrome | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-125/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-125/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-125/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-125/</guid>
       <description>這題要求判斷給定的字串是否是「回文」（Palindrome），忽略大小寫和非字母數字字符。 題目連結🔗：https://leetcode.co</description>
     </item>
     <item>
       <title>[ Leetcode 209 ] Minimum Size Subarray Sum | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-209/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-209/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-209/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-209/</guid>
       <description>給定一個正整數陣列 nums 和一個目標數 target，找出最短的連續子陣列，使得其數字總和大於或等於 target。如果沒有符合條件的子陣列，則回傳 0</description>
     </item>
     <item>
       <title>[ Leetcode 300 ] Longest Increasing Subsequence | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-300/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-300/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-300/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-300/</guid>
       <description>在一個給定的 array 中，找出一個長度最長的遞增的 sub array，這個 sub array 中的 element 必須是按順序排列，但並不要求它們在原本的 array 中的位置是連續的。 題目連結🔗</description>
     </item>
     <item>
       <title>[ Leetcode 841 ] Keys and Rooms | 解題思路分享</title>
-      <link>http://localhost:1313/zh/program/leetcode-841/</link>
+      <link>https://jamesblogger.com/zh/program/leetcode-841/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/leetcode-841/</guid>
+      <guid>https://jamesblogger.com/zh/program/leetcode-841/</guid>
       <description>有 n 個房間，編號從 0 到 n-1，其中 rooms[i] 包含一個 list，代表房間 i 中可以獲得的鑰匙，這些鑰匙可以用來打開其他房間。最開始，你在房間 0，且已經打</description>
     </item>
     <item>
       <title>Binary Search</title>
-      <link>http://localhost:1313/zh/program/binary-search/</link>
+      <link>https://jamesblogger.com/zh/program/binary-search/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/binary-search/</guid>
+      <guid>https://jamesblogger.com/zh/program/binary-search/</guid>
       <description>Binary Search 就是一種 searching algorithm，用來在一個 sorted array 中尋找 key value 的位置，主要是透過每次將搜尋範圍縮小一半來快速定位目標，所以 Binary Search 的 Time Complexity 為 O(log n)。 基</description>
     </item>
     <item>
       <title>瑞士自由行｜4天沉浸阿爾卑斯秘境，從湖泊到雪山的奇幻旅程</title>
-      <link>http://localhost:1313/zh/travel/Switzerland-20240914/</link>
+      <link>https://jamesblogger.com/zh/travel/Switzerland-20240914/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/travel/Switzerland-20240914/</guid>
+      <guid>https://jamesblogger.com/zh/travel/Switzerland-20240914/</guid>
       <description>瑞士就是一個全世界物價最高的地方，原本以為荷蘭、英國已經很貴了，但這裡的物價體感幾乎是這些地區的 1.5 ~ 2 倍。不過即便是這樣，瑞士還是目前所有國</description>
     </item>
     <item>
       <title>英國 - 倫敦兩日遊 20240906</title>
-      <link>http://localhost:1313/zh/travel/London-20240906/</link>
+      <link>https://jamesblogger.com/zh/travel/London-20240906/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/travel/London-20240906/</guid>
+      <guid>https://jamesblogger.com/zh/travel/London-20240906/</guid>
       <description>倫敦就是一個可能我三歲就知道的城市，只是一直沒有去過。對於這些大城市只知道一些關鍵字，像是霧都、大笨鐘、倫敦鐵橋等等，這次非常興奮終於有機會</description>
     </item>
     <item>
       <title>德國 - 慕尼黑三日遊 20240823</title>
-      <link>http://localhost:1313/zh/travel/Munich-20240823/</link>
+      <link>https://jamesblogger.com/zh/travel/Munich-20240823/</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/travel/Munich-20240823/</guid>
+      <guid>https://jamesblogger.com/zh/travel/Munich-20240823/</guid>
       <description>Day 1 這次從 Eindhoven 搭了 10 幾個小時的 Flixbus 夜車到慕尼黑，除了價錢便宜真的沒甚麼優點，坐著睡覺腳不能伸直，到點就要開始玩真的挺累，不過至少這樣一來一回可以</description>
     </item>
     <item>
       <title>比利時 - 根特 &#43; 布魯塞爾一日遊 20240728</title>
-      <link>http://localhost:1313/zh/travel/ghent-20240728/</link>
+      <link>https://jamesblogger.com/zh/travel/ghent-20240728/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/travel/ghent-20240728/</guid>
+      <guid>https://jamesblogger.com/zh/travel/ghent-20240728/</guid>
       <description>根特 ( Ghent ) 這次來 Ghent 只待了一天，特地為了他們的音樂節來的，Ghent Festival 每年只有 10 天，不過看網路上介紹滿少的，官網上有很多他們的活動跟遊行等等，</description>
     </item>
     <item>
       <title>荷蘭 - 海牙一日遊 20240720</title>
-      <link>http://localhost:1313/zh/travel/Den-Haag-20240810/</link>
+      <link>https://jamesblogger.com/zh/travel/Den-Haag-20240810/</link>
       <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/travel/Den-Haag-20240810/</guid>
+      <guid>https://jamesblogger.com/zh/travel/Den-Haag-20240810/</guid>
       <description>這次可以說就是奔著海灘去的，所以其實沒去很多點，本來想要再下一周去，不過突然發現這周天氣超好，差不多有 30 度，荷蘭這邊天氣變化很快，好天氣都沒</description>
     </item>
     <item>
       <title>比利時 - 布魯日兩日遊 20240713</title>
-      <link>http://localhost:1313/zh/travel/bruges-20240713/</link>
+      <link>https://jamesblogger.com/zh/travel/bruges-20240713/</link>
       <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/travel/bruges-20240713/</guid>
+      <guid>https://jamesblogger.com/zh/travel/bruges-20240713/</guid>
       <description>Day 1 我們從 Eindhoven 搭 Flixbus 到 Brussels，然後再搭火車到 Bruges，比利時的火車要買一下票，不過公車的部分信用卡就可以直接刷了。 分享兩個寫得很好</description>
     </item>
     <item>
       <title>交大吉他社社團生活分享</title>
-      <link>http://localhost:1313/zh/life/guitar-club/</link>
+      <link>https://jamesblogger.com/zh/life/guitar-club/</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/life/guitar-club/</guid>
+      <guid>https://jamesblogger.com/zh/life/guitar-club/</guid>
       <description>我是交大吉他社 13 級社長，大二的社團生活於我而言，不僅僅是享受大學時光並結交新朋友，他是一個人生重要的歷練，也是一次對音樂認真地奉獻。 為什麼會</description>
     </item>
     <item>
       <title>2022 LINE FRESH 參賽過程與參賽心得</title>
-      <link>http://localhost:1313/zh/life/2022-line-fresh/</link>
+      <link>https://jamesblogger.com/zh/life/2022-line-fresh/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/life/2022-line-fresh/</guid>
+      <guid>https://jamesblogger.com/zh/life/2022-line-fresh/</guid>
       <description>作品介紹 我們設計了一個 Dida Dream - 及時予系統，期望透過即期品整合平台搭配線上剩食捐贈管道來達成剩食再分配的目標。我們主要功能有四個，即期品資料蒐集</description>
     </item>
     <item>
       <title>法國 - 巴黎兩日遊 2024-01-25</title>
-      <link>http://localhost:1313/zh/travel/paris-20240125/</link>
+      <link>https://jamesblogger.com/zh/travel/paris-20240125/</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/travel/paris-20240125/</guid>
+      <guid>https://jamesblogger.com/zh/travel/paris-20240125/</guid>
       <description>Day 1 第一次自助行就獻給了歐洲，下飛機的時候帶給我一種新奇的感覺，第一次自己站在陌生的城市，面對陌生的環境跟陌生的語言，「未知」這個詞貫穿了我</description>
     </item>
     <item>
       <title>第 11 屆梅竹黑客松參賽過程與心得</title>
-      <link>http://localhost:1313/zh/life/11th-meichu-hackathon/</link>
+      <link>https://jamesblogger.com/zh/life/11th-meichu-hackathon/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/life/11th-meichu-hackathon/</guid>
+      <guid>https://jamesblogger.com/zh/life/11th-meichu-hackathon/</guid>
       <description>因為前兩年擔任梅竹黑客松籌備幹部的關係，所以很自然的就跟大家講好說一定要再回來參加比賽，除了累積實務經驗，也順便看看下一屆的學弟妹籌備的如何</description>
     </item>
     <item>
       <title>梅竹黑客松籌備心得</title>
-      <link>http://localhost:1313/zh/life/meichu-hackathon-event-planning-leader/</link>
+      <link>https://jamesblogger.com/zh/life/meichu-hackathon-event-planning-leader/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/life/meichu-hackathon-event-planning-leader/</guid>
+      <guid>https://jamesblogger.com/zh/life/meichu-hackathon-event-planning-leader/</guid>
       <description>梅竹黑客松是全台最大的校園黑客松，先稍微介紹一下黑客松，黑客松其實就是「Hack」跟「Marathon」兩個字合在一起的結果，比賽期間參賽者</description>
     </item>
     <item>
       <title>DP 系列 - The Rod Cutting Problem</title>
-      <link>http://localhost:1313/zh/program/the-rod-cutting-problem/</link>
+      <link>https://jamesblogger.com/zh/program/the-rod-cutting-problem/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/the-rod-cutting-problem/</guid>
+      <guid>https://jamesblogger.com/zh/program/the-rod-cutting-problem/</guid>
       <description>如果賣出長度是 i 的 rod 可以得 pi 元，怎麼切一條長度是 n 的 rod 使總收入最大 方法一、遞迴 最直觀的方式就是用遞迴解，如下圖所示，rn 為切割長度 n 的 rod 可得</description>
     </item>
     <item>
       <title>Github 新手入門</title>
-      <link>http://localhost:1313/zh/program/github/</link>
+      <link>https://jamesblogger.com/zh/program/github/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/zh/program/github/</guid>
+      <guid>https://jamesblogger.com/zh/program/github/</guid>
       <description>什麼是 Github？ git 是版本控制的軟體，而 Github 是程式碼線上儲存平台，將專案存成一個個儲存庫 ( repository )，利用 git 來進行版本控制，也方便一個團隊來做協作</description>
     </item>
   </channel>

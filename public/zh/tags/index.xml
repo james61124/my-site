@@ -1,77 +1,77 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - tag - James Blog</title>
-        <link>http://localhost:1313/zh/tags/</link>
+        <link>https://jamesblogger.com/zh/tags/</link>
         <description>Tags - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Leetcode</title>
-    <link>http://localhost:1313/zh/tags/Leetcode/</link>
+    <link>https://jamesblogger.com/zh/tags/Leetcode/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/zh/tags/Leetcode/</guid>
+    </author><guid>https://jamesblogger.com/zh/tags/Leetcode/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Linked List</title>
-    <link>http://localhost:1313/zh/tags/Linked-List/</link>
+    <link>https://jamesblogger.com/zh/tags/Linked-List/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/zh/tags/Linked-List/</guid>
+    </author><guid>https://jamesblogger.com/zh/tags/Linked-List/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Math</title>
+    <link>https://jamesblogger.com/zh/tags/Math/</link>
+    <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name></name>
+    </author><guid>https://jamesblogger.com/zh/tags/Math/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Stack</title>
-    <link>http://localhost:1313/zh/tags/Stack/</link>
+    <link>https://jamesblogger.com/zh/tags/Stack/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/zh/tags/Stack/</guid>
+    </author><guid>https://jamesblogger.com/zh/tags/Stack/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>String</title>
-    <link>http://localhost:1313/zh/tags/String/</link>
+    <link>https://jamesblogger.com/zh/tags/String/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/zh/tags/String/</guid>
+    </author><guid>https://jamesblogger.com/zh/tags/String/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Two Pointers</title>
-    <link>http://localhost:1313/zh/tags/Two-Pointers/</link>
+    <link>https://jamesblogger.com/zh/tags/Two-Pointers/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/zh/tags/Two-Pointers/</guid>
+    </author><guid>https://jamesblogger.com/zh/tags/Two-Pointers/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Algorithms</title>
-    <link>http://localhost:1313/zh/tags/Algorithms/</link>
+    <link>https://jamesblogger.com/zh/tags/Algorithms/</link>
     <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/zh/tags/Algorithms/</guid>
+    </author><guid>https://jamesblogger.com/zh/tags/Algorithms/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Array</title>
-    <link>http://localhost:1313/zh/tags/Array/</link>
+    <link>https://jamesblogger.com/zh/tags/Array/</link>
     <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/zh/tags/Array/</guid>
+    </author><guid>https://jamesblogger.com/zh/tags/Array/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Sliding Window</title>
-    <link>http://localhost:1313/zh/tags/Sliding-Window/</link>
+    <link>https://jamesblogger.com/zh/tags/Sliding-Window/</link>
     <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/zh/tags/Sliding-Window/</guid>
+    </author><guid>https://jamesblogger.com/zh/tags/Sliding-Window/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Dynamic Programming</title>
-    <link>http://localhost:1313/zh/tags/Dynamic-Programming/</link>
+    <link>https://jamesblogger.com/zh/tags/Dynamic-Programming/</link>
     <pubDate>Sat, 01 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:1313/zh/tags/Dynamic-Programming/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Two Pointer</title>
-    <link>http://localhost:1313/zh/tags/Two-Pointer/</link>
-    <pubDate>Thu, 27 Feb 2025 00:00:00 &#43;0000</pubDate><author>
-        <name></name>
-    </author><guid>http://localhost:1313/zh/tags/Two-Pointer/</guid>
+    </author><guid>https://jamesblogger.com/zh/tags/Dynamic-Programming/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

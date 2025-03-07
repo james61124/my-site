@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>英國 - 倫敦兩日遊 20240906 on James Blog</title>
-    <link>http://localhost:1313/zh/travel/London-20240906/</link>
+    <link>https://jamesblogger.com/zh/travel/London-20240906/</link>
     <description>Recent content in 英國 - 倫敦兩日遊 20240906 on James Blog</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/travel/London-20240906/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jamesblogger.com/zh/travel/London-20240906/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

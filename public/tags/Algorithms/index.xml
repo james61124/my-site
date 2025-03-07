@@ -1,97 +1,97 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Algorithms - tag - James Blog</title>
-        <link>http://localhost:1313/tags/Algorithms/</link>
+        <link>https://jamesblogger.com/tags/Algorithms/</link>
         <description>Algorithms - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/Algorithms/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/tags/Algorithms/" rel="self" type="application/rss+xml" /><item>
     <title>[ Algorithm ] Sliding Window | Core Concepts &amp; Leetcode Problems Analysis</title>
-    <link>http://localhost:1313/program/sliding-window/</link>
+    <link>https://jamesblogger.com/program/sliding-window/</link>
     <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/program/sliding-window/</guid>
+    </author><guid>https://jamesblogger.com/program/sliding-window/</guid>
     <description><![CDATA[The Sliding Window technique utilizes two pointers, left and right, to maintain a dynamic range (window). By shifting this window, we can reduce redundant computations, making it particularly useful for problems involving subarrays or substrings.
 Sliding Window is categorized into two types:
 Fixed-Size Sliding Window Variable-Size Sliding Window Fixed-Size Sliding Window Used for problems that require subarrays or substrings of a fixed length. The window moves one step to the right at a time, removing the leftmost element and adding a new rightmost element.]]></description>
 </item><item>
     <title>[ Leetcode 1343 ] Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Solution Approach &amp; Explanation</title>
-    <link>http://localhost:1313/program/leetcode-1343/</link>
+    <link>https://jamesblogger.com/program/leetcode-1343/</link>
     <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/program/leetcode-1343/</guid>
+    </author><guid>https://jamesblogger.com/program/leetcode-1343/</guid>
     <description><![CDATA[Given an integer array nums, along with two integers k and threshold, find the number of subarrays of length k whose average is greater than or equal to threshold.
 Link🔗：https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
 Problem Analysis The goal is to find all subarrays of length k that meet the given condition. This means we need to examine every subarray of length k.
 Brute Force A straightforward approach is to enumerate all possible subarrays of length k.]]></description>
 </item><item>
     <title>[ Leetcode 3 ] Longest Substring Without Repeating Characters | Solution Approach &amp; Explanation</title>
-    <link>http://localhost:1313/program/leetcode-3/</link>
+    <link>https://jamesblogger.com/program/leetcode-3/</link>
     <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/program/leetcode-3/</guid>
+    </author><guid>https://jamesblogger.com/program/leetcode-3/</guid>
     <description><![CDATA[Given a string s, find the length of the longest substring without repeating characters.
 Link🔗：https://leetcode.com/problems/longest-substring-without-repeating-characters/
 Problem Analysis The objective is to find the longest substring without repeating characters, meaning we must examine every possible substring.
 Brute Force The most straightforward brute-force approach is to enumerate all possible substrings and check for repeated characters. However, this results in a time complexity of O(n²), which is too slow and will cause time limit exceeded (TLE) errors.]]></description>
 </item><item>
     <title>[ Leetcode 1143 ] Longest Common Subsequence | Solution Approach &amp; Explanation</title>
-    <link>http://localhost:1313/program/leetcode-1143/</link>
+    <link>https://jamesblogger.com/program/leetcode-1143/</link>
     <pubDate>Sat, 01 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/program/leetcode-1143/</guid>
+    </author><guid>https://jamesblogger.com/program/leetcode-1143/</guid>
     <description><![CDATA[Given two strings, text1 and text2, find the length of their Longest Common Subsequence (LCS).
 ⚠️ Note:
 A subsequence does not need to be contiguous but must maintain the original order. If there is no common subsequence, return 0. Link🔗：https://leetcode.com/problems/longest-common-subsequence/
 Solution - DP (Double-Sequence Linear DP Problem) This problem can be solved using Double-Sequence Linear DP, as the input consists of two strings. We define dp[i+1][j+1] to represent the length of the longest common subsequence (LCS) ending at text1[i] and text2[j].]]></description>
 </item><item>
     <title>[ Leetcode 11 ] Container With Most Water | Solution Approach &amp; Explanation</title>
-    <link>http://localhost:1313/program/leetcode-11/</link>
+    <link>https://jamesblogger.com/program/leetcode-11/</link>
     <pubDate>Thu, 27 Feb 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/program/leetcode-11/</guid>
+    </author><guid>https://jamesblogger.com/program/leetcode-11/</guid>
     <description><![CDATA[In a given array, each element represents the height of a vertical line. The task is to choose two lines such that the container formed with the x-axis can hold the maximum amount of water and return that maximum volume.
 Link🔗：https://leetcode.com/problems/container-with-most-water/
 Solution - Opposite Direction Two Pointers The key idea is that the area of the container is determined by:
 Area = min(Height of left, Height of right) × Distance between them We aim to find two lines that maximize this area.]]></description>
 </item><item>
     <title>[ Leetcode 167 ] Two Sum II - Input Array Is Sorted | Solution Approach &amp; Explanation</title>
-    <link>http://localhost:1313/program/leetcode-167/</link>
+    <link>https://jamesblogger.com/program/leetcode-167/</link>
     <pubDate>Wed, 26 Feb 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/program/leetcode-167/</guid>
+    </author><guid>https://jamesblogger.com/program/leetcode-167/</guid>
     <description><![CDATA[This problem is a variation of Two Sum. Given an array sorted in ascending order, the goal is to find two numbers whose sum equals the target value and return their 1-based indices.
 Link🔗：https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 Method - Opposite Direction Two Pointers This problem can be solved using opposite direction two-pointer technique, since this problem is about finding elements under certain constraints in a sorted array. Set left pointer at the first element and right pointer at the last element.]]></description>
 </item><item>
     <title>[ Leetcode 26 ] Remove Duplicates from Sorted Array | Solution Approach &amp; Explanation</title>
-    <link>http://localhost:1313/program/leetcode-26/</link>
+    <link>https://jamesblogger.com/program/leetcode-26/</link>
     <pubDate>Wed, 26 Feb 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/program/leetcode-26/</guid>
+    </author><guid>https://jamesblogger.com/program/leetcode-26/</guid>
     <description><![CDATA[Given an ascending sorted array - nums, the task is to remove duplicate elements in place so that each element appears only once and return the new length of the array.
 ⚠ Requirements：
 Extra array space cannot be used; modifications must be done in place. If the returned array length is k, it means the first k elements of nums contain the result after removing duplicates, while the remaining elements can be arbitrary and do not need to be considered.]]></description>
 </item><item>
     <title>[ Leetcode 349 ] Intersection of Two Arrays | 解題思路分享</title>
-    <link>http://localhost:1313/program/leetcode-349/</link>
+    <link>https://jamesblogger.com/program/leetcode-349/</link>
     <pubDate>Sun, 23 Feb 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/program/leetcode-349/</guid>
+    </author><guid>https://jamesblogger.com/program/leetcode-349/</guid>
     <description><![CDATA[Given two integer arrays nums1 and nums2, find their intersection, ensuring that each element appears only once in the result. Link🔗：https://leetcode.com/problems/intersection-o]]></description>
 </item><item>
     <title>[ Leetcode 125 ] Valid Palindrome | Solution Approach &amp; Explanation</title>
-    <link>http://localhost:1313/program/leetcode-125/</link>
+    <link>https://jamesblogger.com/program/leetcode-125/</link>
     <pubDate>Sat, 15 Feb 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/program/leetcode-125/</guid>
+    </author><guid>https://jamesblogger.com/program/leetcode-125/</guid>
     <description><![CDATA[This problem requires determining whether a given string is a palindrome, ignoring case and non-alphanumeric characters.
 Link🔗：https://leetcode.com/problems/valid-palindrome/
 Solution - Opposite Direction Two Pointers This problem can be solved using an opposite direction two-pointer approach. The idea is to check whether the characters at the left and right pointers are the same. If they are, both pointers move inward. The main points to consider are ensuring that left and right do not go out of bounds and using isalnum() to check whether a character is alphanumeric.]]></description>
 </item><item>
     <title>[ Leetcode 209 ] Minimum Size Subarray Sum | Solution Approach &amp; Explanation</title>
-    <link>http://localhost:1313/program/leetcode-209/</link>
+    <link>https://jamesblogger.com/program/leetcode-209/</link>
     <pubDate>Wed, 29 Jan 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/program/leetcode-209/</guid>
+    </author><guid>https://jamesblogger.com/program/leetcode-209/</guid>
     <description><![CDATA[Given a positive integer array nums and a target value target, find the smallest contiguous subarray whose sum is greater than or equal to target. If no such subarray exists, return 0.
 Link🔗：https://leetcode.com/problems/minimum-size-subarray-sum/
 Method 1 - Sliding Window This problem can be solved using the Sliding Window technique. Since all numbers in the array are positive, we know that if a subarray sum reaches or exceeds target, adding more numbers will only make it longer but won&rsquo;t help find the shortest subarray.]]></description>

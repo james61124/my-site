@@ -1,35 +1,35 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Two Pointers - tag - James Blog</title>
-        <link>http://localhost:1313/zh/tags/Two-Pointers/</link>
+        <link>https://jamesblogger.com/zh/tags/Two-Pointers/</link>
         <description>Two Pointers - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh/tags/Two-Pointers/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/tags/Two-Pointers/" rel="self" type="application/rss+xml" /><item>
     <title>[ Leetcode 21 ] Merge Two Sorted Lists | 解題思路分享</title>
-    <link>http://localhost:1313/zh/program/leetcode-21/</link>
+    <link>https://jamesblogger.com/zh/program/leetcode-21/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/zh/program/leetcode-21/</guid>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-21/</guid>
     <description><![CDATA[給一個正整數 array nums 和一個正整數 k，找出乘積小於 k 的 subarray 數量。 題目連結🔗：https://leetcode.com/problems/merge-]]></description>
 </item><item>
     <title>[ Leetcode 141 ] Linked List Cycle | 解題思路分享</title>
-    <link>http://localhost:1313/zh/program/leetcode-141/</link>
+    <link>https://jamesblogger.com/zh/program/leetcode-141/</link>
     <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/zh/program/leetcode-141/</guid>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-141/</guid>
     <description><![CDATA[給一個 linked list，要判斷有沒有 cycle。 題目連結🔗：https://leetcode.com/problems/linked-list-c]]></description>
 </item><item>
     <title>[ Leetcode 19 ] Remove Nth Node From End of List | 解題思路分享</title>
-    <link>http://localhost:1313/zh/program/leetcode-19/</link>
+    <link>https://jamesblogger.com/zh/program/leetcode-19/</link>
     <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/zh/program/leetcode-19/</guid>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-19/</guid>
     <description><![CDATA[給一個 linked list，要 delete 倒數第 n 個 node，並且 return 整個 linked list。 題目連結🔗：https://leetcode.com/problems/re]]></description>
 </item><item>
     <title>[ Leetcode 876 ] Middle of the Linked List | 解題思路分享</title>
-    <link>http://localhost:1313/zh/program/leetcode-876/</link>
+    <link>https://jamesblogger.com/zh/program/leetcode-876/</link>
     <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:1313/zh/program/leetcode-876/</guid>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-876/</guid>
     <description><![CDATA[給一個 linked list，要 return 中間那個 node。 題目連結🔗：https://leetcode.com/problems/middle-of-the-]]></description>
 </item></channel>
 </rss>
