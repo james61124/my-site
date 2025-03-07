@@ -1,5 +1,5 @@
 ---
-title: "[ Leetcode 713 ] Subarray Product Less Than K | 解題思路分享"
+title: "[ Leetcode 713 ] Subarray Product Less Than K | Solution Approach & Explanation"
 date: 2025-03-05
 draft: false
 author: "James"

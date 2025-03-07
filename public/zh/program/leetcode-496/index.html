@@ -48,27 +48,24 @@
   
 
 
-<meta property="og:url" content="http://localhost:1313/program/leetcode-713/">
+<meta property="og:url" content="http://localhost:1313/zh/program/leetcode-496/">
   <meta property="og:site_name" content="James Blog">
-  <meta property="og:title" content="[ Leetcode 713 ] Subarray Product Less Than K | Solution Approach &amp; Explanation">
-  <meta property="og:description" content="Given a positive integer array nums and a positive integer k, find the number of subarrays whose product is less than k.
-Link🔗：https://leetcode.com/problems/subarray-product-less-than-k/
-Problem Analysis When I see a problem involving a constraint on the subarray’s size but with a flexible range, I immediately consider using a variable-size sliding window approach. The key question here is: how should we move the left and right pointers to ensure we capture all valid subarrays without missing any?">
-  <meta property="og:locale" content="en">
+  <meta property="og:title" content="[ Leetcode 496 ] Next Greater Element I | 解題思路分享">
+  <meta property="og:description" content="給定兩個 array nums1 和 nums2，其中 nums1 是 nums2 的 subset，我們需要在 nums2 中為 nums1 中的每個數字找到下一個較大元素。 題目連結🔗：https://leetc">
+  <meta property="og:locale" content="zh">
   <meta property="og:type" content="article">
     <meta property="article:section" content="program">
-    <meta property="article:published_time" content="2025-03-05T00:00:00+00:00">
-    <meta property="article:modified_time" content="2025-03-05T00:00:00+00:00">
-    <meta property="article:tag" content="Array">
-    <meta property="article:tag" content="Sliding Window">
+    <meta property="article:published_time" content="2025-03-06T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-03-06T00:00:00+00:00">
+    <meta property="article:tag" content="String">
+    <meta property="article:tag" content="Stack">
+    <meta property="article:tag" content="Math">
     <meta property="article:tag" content="Leetcode">
 
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="[ Leetcode 713 ] Subarray Product Less Than K | Solution Approach &amp; Explanation">
-  <meta name="twitter:description" content="Given a positive integer array nums and a positive integer k, find the number of subarrays whose product is less than k.
-Link🔗：https://leetcode.com/problems/subarray-product-less-than-k/
-Problem Analysis When I see a problem involving a constraint on the subarray’s size but with a flexible range, I immediately consider using a variable-size sliding window approach. The key question here is: how should we move the left and right pointers to ensure we capture all valid subarrays without missing any?">
+  <meta name="twitter:title" content="[ Leetcode 496 ] Next Greater Element I | 解題思路分享">
+  <meta name="twitter:description" content="給定兩個 array nums1 和 nums2，其中 nums1 是 nums2 的 subset，我們需要在 nums2 中為 nums1 中的每個數字找到下一個較大元素。 題目連結🔗：https://leetc">
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
@@ -139,7 +136,7 @@ Problem Analysis When I see a problem involving a constraint on the subarray’s
 <script defer src="/fontawesome-6/all-6.4.2.js"></script>
 
   <title>
-[ Leetcode 713 ] Subarray Product Less Than K | Solution Approach &amp; Explanation | James Blog
+[ Leetcode 496 ] Next Greater Element I | 解題思路分享 | James Blog
 
   </title>
 </head>
@@ -243,9 +240,9 @@ Problem Analysis When I see a problem involving a constraint on the subarray’s
                     
                     
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/life" title="life posts">
+                        <a class="nav-link" href="/zh/life" title="life posts">
                             
-                            life
+                            生活
                         </a>
                     </li>
                     
@@ -253,9 +250,9 @@ Problem Analysis When I see a problem involving a constraint on the subarray’s
                     
                     
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/travel" title="travel posts">
+                        <a class="nav-link" href="/zh/travel" title="travel posts">
                             
-                            Travel
+                            旅行
                         </a>
                     </li>
                     
@@ -263,9 +260,9 @@ Problem Analysis When I see a problem involving a constraint on the subarray’s
                     
                     
                     <li class="nav-item navbar-text">
-                        <a class="nav-link" href="/program" title="program posts">
+                        <a class="nav-link" href="/zh/program" title="program posts">
                             
-                            Program
+                            程式
                         </a>
                     </li>
                     
@@ -274,8 +271,8 @@ Problem Analysis When I see a problem involving a constraint on the subarray’s
                     
                         
                             <li class="nav-item navbar-text">
-                                <a class="nav-link" href="/" aria-label="about">
-                                    About Me
+                                <a class="nav-link" href="http://localhost:1313//zh/" aria-label="about">
+                                    關於我
                                 </a>
                             </li>
                         
@@ -286,8 +283,8 @@ Problem Analysis When I see a problem involving a constraint on the subarray’s
                         
                         
                         
-                        <a class="nav-link" href="/zh/program/leetcode-713/" hreflang="zh">
-                            中文
+                        <a class="nav-link" href="/program/leetcode-496/" hreflang="en">
+                            English
                         </a>
                         
                     </li>
@@ -334,11 +331,11 @@ Problem Analysis When I see a problem involving a constraint on the subarray’s
       <div class="col-sm-12 col-md-12 col-lg-6">
         <div class="pr-lg-4">
           <div class="title mb-5">
-            <h1 class="text-center mb-4">[ Leetcode 713 ] Subarray Product Less Than K | Solution Approach &amp; Explanation</h1>
+            <h1 class="text-center mb-4">[ Leetcode 496 ] Next Greater Element I | 解題思路分享</h1>
             <div class="text-center">
               James 
               <small>|</small>
-              Mar 5, 2025
+              Mar 6, 2025
 
               
               <span id="readingTime">
@@ -349,55 +346,49 @@ Problem Analysis When I see a problem involving a constraint on the subarray’s
           </div>
           
           <div class="featured-image">
-            <img class="img-fluid mx-auto d-block" src="/images/program/Leetcode.jpeg" alt="[ Leetcode 713 ] Subarray Product Less Than K | Solution Approach &amp; Explanation">
+            <img class="img-fluid mx-auto d-block" src="/images/program/Leetcode.jpeg" alt="[ Leetcode 496 ] Next Greater Element I | 解題思路分享">
           </div>
           
           <article class="page-content  p-2">
-          <p>Given a positive integer array <strong>nums</strong> and a positive integer <strong>k</strong>, find the number of subarrays whose product is less than <strong>k</strong>.</p>
-<p>Link🔗：<a href="https://leetcode.com/problems/subarray-product-less-than-k/">https://leetcode.com/problems/subarray-product-less-than-k/</a></p>
-<h3 id="problem-analysis"><strong>Problem Analysis</strong></h3>
-<p>When I see a problem involving a constraint on the subarray&rsquo;s size but with a flexible range, I immediately consider using a variable-size sliding window approach. The key question here is: how should we move the left and right pointers to ensure we capture all valid subarrays without missing any?</p>
-<h3 id="solution---variable-size-sliding-window"><strong>Solution - Variable-Size Sliding Window</strong></h3>
-<p>Using the sliding window technique, we need to determine when to move the left pointer while iterating with right. The approach involves:</p>
-<ol>
-<li>Using <strong>left</strong> and <strong>right</strong> pointers to define the sliding window boundaries.</li>
-<li>Maintaining a variable <strong>currentProduct</strong> to store the product of elements within the window.</li>
-<li>Storing the count of valid subarrays in <strong>result</strong>.</li>
-</ol>
-<h4 id="when-to-move-the-left-pointer"><strong>When to Move the Left Pointer?</strong></h4>
-<p>Each time we extend the window by moving <strong>right</strong>, we multiply nums[right] into <strong>currentProduct</strong>. However, if <strong>currentProduct</strong> becomes ≥ k, we need to shrink the window from the <strong>left</strong> by continuously dividing nums[left] out of currentProduct until it becomes &lt; k again.</p>
-<h4 id="preventing-left-from-exceeding-right"><strong>Preventing Left from Exceeding Right</strong></h4>
-<p>If the sliding window contains only one element (i.e., left == right), and currentProduct is still ≥ k, we must handle this case carefully. Otherwise, left might keep moving right indefinitely, surpassing right.</p>
-<p>Thus, we need to add a condition in the while loop to ensure that left does not surpass right (left &lt; right).</p>
-<h4 id="how-to-count-the-number-of-valid-subarrays"><strong>How to Count the Number of Valid Subarrays?</strong></h4>
-<p>The key observation is that whenever we find a valid sliding window [left, right], all subarrays ending at right within this window are also valid.</p>
-<p>For example, if the sliding window is [4, 5, 8] and k = 200, then all subarrays ending at right are valid:</p>
-<ul>
-<li>[8]</li>
-<li>[5, 8]</li>
-<li>[4, 5, 8]</li>
-</ul>
-<p>Thus, we should add the size of the sliding window (right - left + 1) to result, since some of these subarrays will no longer be visible as right moves forward.</p>
-<p>If the window contains only one element and currentProduct is still ≥ k, we don&rsquo;t increment result and simply continue iterating.</p>
+          <p>給定兩個 array <strong>nums1</strong> 和 <strong>nums2</strong>，其中 <strong>nums1</strong> 是 <strong>nums2</strong> 的 subset，我們需要在 <strong>nums2</strong> 中為 <strong>nums1</strong> 中的每個數字找到下一個較大元素。</p>
+<p>題目連結🔗：<a href="https://leetcode.com/problems/next-greater-element-i/">https://leetcode.com/problems/next-greater-element-i/</a></p>
+<h3 id="問題分析"><strong>問題分析</strong></h3>
+<p>關鍵在於我們要怎麼找到下一個大於自己的 element，如果重新跑一次迴圈肯定太費時。</p>
+<h3 id="解題思路---monotone-stack"><strong>解題思路 - Monotone Stack</strong></h3>
+<p>Monotone Stack 的設計完美符合這種題目，因為可以設計讓 stack 中的數字一定是 decreasing，這樣 iterate 到下一個數如果比 stack.top() 還要大，就表示這個就是 stack.top() 的 next greater element，這裡有兩個問題需要解決：</p>
+<h5 id="hash-map-的建立"><strong>Hash Map 的建立</strong></h5>
+<p>我們不可能 nums1 要什麼數字我們就重新 iterate 一次 nums2 來找 next greater element，所以我們必須建立一個 hash map 來存所有 nums2 element 的 next greater element，也就是 unordered_map</p>
+<h5 id="找-next-greater-element-的過程"><strong>找 Next Greater Element 的過程</strong></h5>
+<p>iterate 到下一個數如果比 stack.top() 還要大，就表示這個就是 stack.top() 的 next greater element，再來就將這組存進去 hash map 中然後 pop 出來，再來繼續看這樣還是不是比 stack.top()，直到現在這個數比 stack.top() 小為止，就 push 進去 stack 中。</p>
+<h5 id="收尾"><strong>收尾</strong></h5>
+<p>收尾就很簡單了，stack 最後剩下的都是沒有 next greater element 的，就都在 hash map 填 -1，然後就可以去查 hash map 了。</p>
 <p><strong>Time Complexity</strong> - O( n )</p>
-<p><strong>Space Complexity</strong> - O( 1 )</p>
-<h4 id="implementation"><strong>Implementation</strong></h4>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span><span style="color:#66d9ef">int</span> <span style="color:#a6e22e">numSubarrayProductLessThanK</span>(vector<span style="color:#f92672">&lt;</span><span style="color:#66d9ef">int</span><span style="color:#f92672">&gt;&amp;</span> nums, <span style="color:#66d9ef">int</span> k) {
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">int</span> left <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">int</span> right <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">int</span> currentProduct <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span>;
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">int</span> res <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>;
+<p><strong>Space Complexity</strong> - O( n )</p>
+<h5 id="implementation"><strong>Implementation</strong></h5>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-cpp" data-lang="cpp"><span style="display:flex;"><span>vector<span style="color:#f92672">&lt;</span><span style="color:#66d9ef">int</span><span style="color:#f92672">&gt;</span> nextGreaterElement(vector<span style="color:#f92672">&lt;</span><span style="color:#66d9ef">int</span><span style="color:#f92672">&gt;&amp;</span> nums1, vector<span style="color:#f92672">&lt;</span><span style="color:#66d9ef">int</span><span style="color:#f92672">&gt;&amp;</span> nums2) {
+</span></span><span style="display:flex;"><span>        
+</span></span><span style="display:flex;"><span>    unordered_map<span style="color:#f92672">&lt;</span><span style="color:#66d9ef">int</span>, <span style="color:#66d9ef">int</span><span style="color:#f92672">&gt;</span>mp;
+</span></span><span style="display:flex;"><span>    stack<span style="color:#f92672">&lt;</span><span style="color:#66d9ef">int</span><span style="color:#f92672">&gt;</span>st;
+</span></span><span style="display:flex;"><span>    vector<span style="color:#f92672">&lt;</span><span style="color:#66d9ef">int</span><span style="color:#f92672">&gt;</span> ans;
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">while</span>(right <span style="color:#f92672">&lt;</span> nums.size()){
-</span></span><span style="display:flex;"><span>        currentProduct <span style="color:#f92672">*=</span> nums[right];
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">while</span>(currentProduct <span style="color:#f92672">&gt;=</span> k <span style="color:#f92672">&amp;&amp;</span> left<span style="color:#f92672">&lt;</span>right){
-</span></span><span style="display:flex;"><span>            currentProduct <span style="color:#f92672">/=</span> nums[left];
-</span></span><span style="display:flex;"><span>            left<span style="color:#f92672">++</span>;
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span>( <span style="color:#66d9ef">int</span> num : nums2 ){
+</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">while</span>( <span style="color:#f92672">!</span>st.empty() <span style="color:#f92672">&amp;&amp;</span> num <span style="color:#f92672">&gt;</span> st.top() ) {
+</span></span><span style="display:flex;"><span>            mp[st.top()] <span style="color:#f92672">=</span> num;
+</span></span><span style="display:flex;"><span>            st.pop();
 </span></span><span style="display:flex;"><span>        }
-</span></span><span style="display:flex;"><span>        <span style="color:#66d9ef">if</span>(currentProduct <span style="color:#f92672">&lt;</span> k) res <span style="color:#f92672">+=</span> (right<span style="color:#f92672">-</span>left<span style="color:#f92672">+</span><span style="color:#ae81ff">1</span>);
-</span></span><span style="display:flex;"><span>        right<span style="color:#f92672">++</span>;
+</span></span><span style="display:flex;"><span>        st.push(num);
 </span></span><span style="display:flex;"><span>    }
-</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> res;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">while</span>( <span style="color:#f92672">!</span>st.empty() ) {
+</span></span><span style="display:flex;"><span>        mp[st.top()] <span style="color:#f92672">=</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>;
+</span></span><span style="display:flex;"><span>        st.pop();
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">for</span>( <span style="color:#66d9ef">int</span> num : nums1 ) {
+</span></span><span style="display:flex;"><span>        ans.push_back(mp[num]);
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">return</span> ans;
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div>
           </article>
@@ -415,8 +406,8 @@ Problem Analysis When I see a problem involving a constraint on the subarray’s
   <ul>
     <li>
       <ul>
-        <li><a href="#problem-analysis"><strong>Problem Analysis</strong></a></li>
-        <li><a href="#solution---variable-size-sliding-window"><strong>Solution - Variable-Size Sliding Window</strong></a></li>
+        <li><a href="#問題分析"><strong>問題分析</strong></a></li>
+        <li><a href="#解題思路---monotone-stack"><strong>解題思路 - Monotone Stack</strong></a></li>
       </ul>
     </li>
   </ul>
@@ -430,11 +421,13 @@ Problem Analysis When I see a problem involving a constraint on the subarray’s
             <h5>Tags</h5>
             <ul class="tags-ul list-unstyled list-inline">
                 
-                <li class="list-inline-item"><a href="http://localhost:1313/tags/Array" target="_blank">Array</a></li>
+                <li class="list-inline-item"><a href="http://localhost:1313//zh/tags/String" target="_blank">String</a></li>
                 
-                <li class="list-inline-item"><a href="http://localhost:1313/tags/Sliding-Window" target="_blank">Sliding Window</a></li>
+                <li class="list-inline-item"><a href="http://localhost:1313//zh/tags/Stack" target="_blank">Stack</a></li>
                 
-                <li class="list-inline-item"><a href="http://localhost:1313/tags/Leetcode" target="_blank">Leetcode</a></li>
+                <li class="list-inline-item"><a href="http://localhost:1313//zh/tags/Math" target="_blank">Math</a></li>
+                
+                <li class="list-inline-item"><a href="http://localhost:1313//zh/tags/Leetcode" target="_blank">Leetcode</a></li>
                 
               
               
@@ -448,22 +441,22 @@ Problem Analysis When I see a problem involving a constraint on the subarray’s
             <div class="social-content">
               <ul class="list-inline">
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://twitter.com/share?text=%5b%20Leetcode%20713%20%5d%20Subarray%20Product%20Less%20Than%20K%20%7c%20Solution%20Approach%20%26%20Explanation&url=http%3a%2f%2flocalhost%3a1313%2fprogram%2fleetcode-713%2f">
+                  <a target="_blank" href="https://twitter.com/share?text=%5b%20Leetcode%20496%20%5d%20Next%20Greater%20Element%20I%20%7c%20%e8%a7%a3%e9%a1%8c%e6%80%9d%e8%b7%af%e5%88%86%e4%ba%ab&url=http%3a%2f%2flocalhost%3a1313%2fzh%2fprogram%2fleetcode-496%2f">
                     <i class="fab fa-twitter"></i>
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://api.whatsapp.com/send?text=%5b%20Leetcode%20713%20%5d%20Subarray%20Product%20Less%20Than%20K%20%7c%20Solution%20Approach%20%26%20Explanation: http%3a%2f%2flocalhost%3a1313%2fprogram%2fleetcode-713%2f">
+                  <a target="_blank" href="https://api.whatsapp.com/send?text=%5b%20Leetcode%20496%20%5d%20Next%20Greater%20Element%20I%20%7c%20%e8%a7%a3%e9%a1%8c%e6%80%9d%e8%b7%af%e5%88%86%e4%ba%ab: http%3a%2f%2flocalhost%3a1313%2fzh%2fprogram%2fleetcode-496%2f">
                     <i class="fab fa-whatsapp"></i>
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href='mailto:?subject=%5b%20Leetcode%20713%20%5d%20Subarray%20Product%20Less%20Than%20K%20%7c%20Solution%20Approach%20%26%20Explanation&amp;body=Check%20out%20this%20site http%3a%2f%2flocalhost%3a1313%2fprogram%2fleetcode-713%2f'>
+                  <a target="_blank" href='mailto:?subject=%5b%20Leetcode%20496%20%5d%20Next%20Greater%20Element%20I%20%7c%20%e8%a7%a3%e9%a1%8c%e6%80%9d%e8%b7%af%e5%88%86%e4%ba%ab&amp;body=Check%20out%20this%20site http%3a%2f%2flocalhost%3a1313%2fzh%2fprogram%2fleetcode-496%2f'>
                     <i class="fa fa-envelope"></i>
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
-                  <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fprogram%2fleetcode-713%2f">
+                  <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fzh%2fprogram%2fleetcode-496%2f">
                     <i class="fab fa-facebook"></i>
                   </a>
                 </li>
