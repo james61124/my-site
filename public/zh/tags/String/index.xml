@@ -1,14 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>String - tag - James Blog</title>
-        <link>https://jamesblogger.com/zh/tags/String/</link>
+        <link>http://localhost:1313/zh/tags/String/</link>
         <description>String - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/tags/String/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh/tags/String/" rel="self" type="application/rss+xml" /><item>
+    <title>[ Leetcode 20 ] Valid Parentheses | 解題思路分享</title>
+    <link>http://localhost:1313/zh/program/leetcode-20/</link>
+    <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>http://localhost:1313/zh/program/leetcode-20/</guid>
+    <description><![CDATA[給一個只包含 (, ), {, }, [ 和 ] 的 string s，檢查這個 string 是否是 valid 的括號組合。 題目連結🔗：https://leetcode.com/problems/va]]></description>
+</item><item>
     <title>[ Leetcode 1143 ] Longest Common Subsequence | 解題思路分享</title>
-    <link>https://jamesblogger.com/zh/program/leetcode-1143/</link>
+    <link>http://localhost:1313/zh/program/leetcode-1143/</link>
     <pubDate>Sat, 01 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>https://jamesblogger.com/zh/program/leetcode-1143/</guid>
+    </author><guid>http://localhost:1313/zh/program/leetcode-1143/</guid>
     <description><![CDATA[給定兩個字串 text1 和 text2，找出它們的最長公共子序列（LCS，Longest Common Subsequence）的長度。 ⚠️ 注意： 子序列不要求連續，但]]></description>
 </item></channel>
 </rss>

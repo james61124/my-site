@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Hash Table - tag - James Blog</title>
-        <link>https://jamesblogger.com/zh/tags/Hash-Table/</link>
+        <link>http://localhost:1313/zh/tags/Hash-Table/</link>
         <description>Hash Table - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sun, 23 Feb 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/tags/Hash-Table/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sun, 23 Feb 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh/tags/Hash-Table/" rel="self" type="application/rss+xml" /><item>
     <title>[ Leetcode 349 ] Intersection of Two Arrays | 解題思路分享</title>
-    <link>https://jamesblogger.com/zh/program/leetcode-349/</link>
+    <link>http://localhost:1313/zh/program/leetcode-349/</link>
     <pubDate>Sun, 23 Feb 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>https://jamesblogger.com/zh/program/leetcode-349/</guid>
+    </author><guid>http://localhost:1313/zh/program/leetcode-349/</guid>
     <description><![CDATA[給兩個整數陣列 nums1 和 nums2，找出它們的交集，並且結果中每個元素只能出現一次。 題目連結🔗：https://leetcode.com/prob]]></description>
 </item></channel>
 </rss>

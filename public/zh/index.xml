@@ -9,6 +9,13 @@
     <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/zh/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>[ Leetcode 20 ] Valid Parentheses | 解題思路分享</title>
+      <link>http://localhost:1313/zh/program/leetcode-20/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/program/leetcode-20/</guid>
+      <description>給一個只包含 &amp;rsquo;(&amp;rsquo;, &amp;rsquo;)&amp;rsquo;, &amp;rsquo;{&amp;rsquo;, &amp;rsquo;}&amp;rsquo;, &amp;rsquo;[&amp;rsquo;, &amp;rsquo;]&amp;rsquo; 的 string s，檢查這個 string 是否是 valid 的括號組合。 題目連結🔗：https://leetcode.com/problems/val</description>
+    </item>
+    <item>
       <title>[ Leetcode 21 ] Merge Two Sorted Lists | 解題思路分享</title>
       <link>http://localhost:1313/zh/program/leetcode-21/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>

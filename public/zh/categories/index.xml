@@ -1,35 +1,35 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - category - James Blog</title>
-        <link>https://jamesblogger.com/zh/categories/</link>
+        <link>http://localhost:1313/zh/categories/</link>
         <description>Categories - category - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Algorithm</title>
-    <link>https://jamesblogger.com/zh/categories/Algorithm/</link>
-    <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+    <link>http://localhost:1313/zh/categories/Algorithm/</link>
+    <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/zh/categories/Algorithm/</guid>
+    </author><guid>http://localhost:1313/zh/categories/Algorithm/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>生活</title>
-    <link>https://jamesblogger.com/zh/categories/%E7%94%9F%E6%B4%BB/</link>
+    <link>http://localhost:1313/zh/categories/%E7%94%9F%E6%B4%BB/</link>
     <pubDate>Fri, 21 Feb 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/zh/categories/%E7%94%9F%E6%B4%BB/</guid>
+    </author><guid>http://localhost:1313/zh/categories/%E7%94%9F%E6%B4%BB/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>旅行</title>
-    <link>https://jamesblogger.com/zh/categories/%E6%97%85%E8%A1%8C/</link>
+    <link>http://localhost:1313/zh/categories/%E6%97%85%E8%A1%8C/</link>
     <pubDate>Fri, 06 Dec 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/zh/categories/%E6%97%85%E8%A1%8C/</guid>
+    </author><guid>http://localhost:1313/zh/categories/%E6%97%85%E8%A1%8C/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Github</title>
-    <link>https://jamesblogger.com/zh/categories/Github/</link>
+    <link>http://localhost:1313/zh/categories/Github/</link>
     <pubDate>Thu, 18 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/zh/categories/Github/</guid>
+    </author><guid>http://localhost:1313/zh/categories/Github/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
