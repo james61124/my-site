@@ -4,10 +4,31 @@
     <title>Home on James Blog</title>
     <link>https://jamesblogger.com/zh/</link>
     <description>Recent content in Home on James Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jamesblogger.com/zh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[ Leetcode 133 ] Clone Graph | 解題思路分享</title>
+      <link>https://jamesblogger.com/zh/program/leetcode-133/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/zh/program/leetcode-133/</guid>
+      <description>複製一個 Graph，同時不能直接 return 這個 Graph 的 pointer 回去。 題目連結🔗：https://leetcode.com/problems/clone-gra</description>
+    </item>
+    <item>
+      <title>[ Leetcode 200 ] Number of Islands | 解題思路分享</title>
+      <link>https://jamesblogger.com/zh/program/leetcode-200/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/zh/program/leetcode-200/</guid>
+      <description>給一個由 &amp;lsquo;1&amp;rsquo;（陸地）和 &amp;lsquo;0&amp;rsquo;（水）組成的 2D Array，計算島嶼的數量。島嶼是由水平或垂直方</description>
+    </item>
+    <item>
+      <title>[ Data Structure ] Stack &amp; Monotone Stack | 核心概念與 Leetcode 題型解析</title>
+      <link>https://jamesblogger.com/zh/program/stack/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/zh/program/stack/</guid>
+      <description>Stack 是一種 Last In, First Out (LIFO) 的 data structure，有點像是疊積木，所以最大的特色就是，你永遠只能看到最上面這個 element，要 remove element 也只能 remove 最上面的</description>
+    </item>
     <item>
       <title>[ Leetcode 20 ] Valid Parentheses | 解題思路分享</title>
       <link>https://jamesblogger.com/zh/program/leetcode-20/</link>

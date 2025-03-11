@@ -3,7 +3,14 @@
         <title>Stack - tag - James Blog</title>
         <link>https://jamesblogger.com/zh/tags/Stack/</link>
         <description>Stack - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/tags/Stack/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Fri, 07 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/tags/Stack/" rel="self" type="application/rss+xml" /><item>
+    <title>[ Data Structure ] Stack &amp; Monotone Stack | 核心概念與 Leetcode 題型解析</title>
+    <link>https://jamesblogger.com/zh/program/stack/</link>
+    <pubDate>Fri, 07 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/stack/</guid>
+    <description><![CDATA[Stack 是一種 Last In, First Out (LIFO) 的 data structure，有點像是疊積木，所以最大的特色就是，你永遠只能看到最上面這個 element，要 remove element 也只能 remove 最上面的]]></description>
+</item><item>
     <title>[ Leetcode 20 ] Valid Parentheses | 解題思路分享</title>
     <link>https://jamesblogger.com/zh/program/leetcode-20/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>

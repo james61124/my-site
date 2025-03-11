@@ -4,10 +4,31 @@
     <title>Programs on James Blog</title>
     <link>https://jamesblogger.com/program/</link>
     <description>Recent content in Programs on James Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jamesblogger.com/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[ Leetcode 133 ] Clone Graph | Solution Approach &amp; Explanation</title>
+      <link>https://jamesblogger.com/program/leetcode-133/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/program/leetcode-133/</guid>
+      <description>The task is to clone a graph, but we cannot directly return the pointer to the original graph.&#xA;Link🔗：https://leetcode.com/problems/clone-graph/&#xA;Solution - DFS This problem is essentially about using DFS to traverse the entire graph and clone all the nodes. The main challenge is where to store the cloned nodes during the DFS traversal.&#xA;Design of the visit map If we use the usual vector to track visited nodes, we will only know if a node has been visited but not where the cloned node is.</description>
+    </item>
+    <item>
+      <title>[ Leetcode 200 ] Number of Islands | Solution Approach &amp; Explanation</title>
+      <link>https://jamesblogger.com/program/leetcode-200/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/program/leetcode-200/</guid>
+      <description>Given a 2D array composed of &amp;lsquo;1&amp;rsquo; (land) and &amp;lsquo;0&amp;rsquo; (water), calculate the number of islands. An island is defined as a region of &amp;lsquo;1&amp;rsquo;s (land) connected either horizontally or vertically, surrounded by &amp;lsquo;0&amp;rsquo;s (water). Link🔗：https://leetcode.com/problems</description>
+    </item>
+    <item>
+      <title>[ Data Structure ] Stack &amp; Monotone Stack | Core Concepts &amp; Leetcode Problems Analysis</title>
+      <link>https://jamesblogger.com/program/stack/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://jamesblogger.com/program/stack/</guid>
+      <description>A Stack is a Last In, First Out (LIFO) data structure, similar to stacking blocks. The key characteristic is that you can only access the top element, and removal also happens only from the top. You cannot directly access elements below the top.&#xA;Common Stack Operations in C++ STL :&#xA;stack&amp;lt;int&amp;gt;st; - Declare a stack st.push(value); - Insert an element at the top st.pop();&#x9;- Remove the top element (⚠️ Does not return the value) st.</description>
+    </item>
     <item>
       <title>[ Leetcode 20 ] Valid Parentheses | Solution Approach &amp; Explanation</title>
       <link>https://jamesblogger.com/program/leetcode-20/</link>

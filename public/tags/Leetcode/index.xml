@@ -3,7 +3,33 @@
         <title>Leetcode - tag - James Blog</title>
         <link>https://jamesblogger.com/tags/Leetcode/</link>
         <description>Leetcode - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/tags/Leetcode/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/tags/Leetcode/" rel="self" type="application/rss+xml" /><item>
+    <title>[ Leetcode 133 ] Clone Graph | Solution Approach &amp; Explanation</title>
+    <link>https://jamesblogger.com/program/leetcode-133/</link>
+    <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/program/leetcode-133/</guid>
+    <description><![CDATA[The task is to clone a graph, but we cannot directly return the pointer to the original graph.
+Link🔗：https://leetcode.com/problems/clone-graph/
+Solution - DFS This problem is essentially about using DFS to traverse the entire graph and clone all the nodes. The main challenge is where to store the cloned nodes during the DFS traversal.
+Design of the visit map If we use the usual vector to track visited nodes, we will only know if a node has been visited but not where the cloned node is.]]></description>
+</item><item>
+    <title>[ Leetcode 200 ] Number of Islands | Solution Approach &amp; Explanation</title>
+    <link>https://jamesblogger.com/program/leetcode-200/</link>
+    <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/program/leetcode-200/</guid>
+    <description><![CDATA[Given a 2D array composed of &lsquo;1&rsquo; (land) and &lsquo;0&rsquo; (water), calculate the number of islands. An island is defined as a region of &lsquo;1&rsquo;s (land) connected either horizontally or vertically, surrounded by &lsquo;0&rsquo;s (water). Link🔗：https://leetcode.com/problems]]></description>
+</item><item>
+    <title>[ Data Structure ] Stack &amp; Monotone Stack | Core Concepts &amp; Leetcode Problems Analysis</title>
+    <link>https://jamesblogger.com/program/stack/</link>
+    <pubDate>Fri, 07 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/program/stack/</guid>
+    <description><![CDATA[A Stack is a Last In, First Out (LIFO) data structure, similar to stacking blocks. The key characteristic is that you can only access the top element, and removal also happens only from the top. You cannot directly access elements below the top.
+Common Stack Operations in C++ STL :
+stack&lt;int&gt;st; - Declare a stack st.push(value); - Insert an element at the top st.pop();	- Remove the top element (⚠️ Does not return the value) st.]]></description>
+</item><item>
     <title>[ Leetcode 20 ] Valid Parentheses | Solution Approach &amp; Explanation</title>
     <link>https://jamesblogger.com/program/leetcode-20/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
@@ -70,34 +96,5 @@ Fixed-Size Sliding Window Variable-Size Sliding Window Fixed-Size Sliding Window
     <description><![CDATA[Given a positive integer array nums and a positive integer k, find the number of subarrays whose product is less than k.
 Link🔗：https://leetcode.com/problems/subarray-product-less-than-k/
 Problem Analysis When I see a problem involving a constraint on the subarray&rsquo;s size but with a flexible range, I immediately consider using a variable-size sliding window approach. The key question here is: how should we move the left and right pointers to ensure we capture all valid subarrays without missing any?]]></description>
-</item><item>
-    <title>[ Leetcode 1343 ] Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Solution Approach &amp; Explanation</title>
-    <link>https://jamesblogger.com/program/leetcode-1343/</link>
-    <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>https://jamesblogger.com/program/leetcode-1343/</guid>
-    <description><![CDATA[Given an integer array nums, along with two integers k and threshold, find the number of subarrays of length k whose average is greater than or equal to threshold.
-Link🔗：https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
-Problem Analysis The goal is to find all subarrays of length k that meet the given condition. This means we need to examine every subarray of length k.
-Brute Force A straightforward approach is to enumerate all possible subarrays of length k.]]></description>
-</item><item>
-    <title>[ Leetcode 141 ] Linked List Cycle | Solution Approach &amp; Explanation</title>
-    <link>https://jamesblogger.com/program/leetcode-141/</link>
-    <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>https://jamesblogger.com/program/leetcode-141/</guid>
-    <description><![CDATA[Given a linked list, determine whether it contains a cycle.
-Link🔗：https://leetcode.com/problems/linked-list-cycle/
-Solution - Fast and Slow Pointers ( Floyd&rsquo;s Cycle Detection Algorithm ) This is one of the classic problems for detecting a cycle in a linked list. The idea is to use two pointers, where the fast pointer moves twice as fast as the slow pointer. If there is a cycle, the fast pointer will eventually catch up to the slow pointer.]]></description>
-</item><item>
-    <title>[ Leetcode 19 ] Remove Nth Node From End of List | Solution Approach &amp; Explanation</title>
-    <link>https://jamesblogger.com/program/leetcode-19/</link>
-    <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>https://jamesblogger.com/program/leetcode-19/</guid>
-    <description><![CDATA[Given a linked list, we need to delete the Nth node from the end and return the updated linked list.
-Link🔗：https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-Problem Analysis The key challenge is efficiently finding the Nth node from the end since searching in a linked list takes O(n) time.
-Brute Force A straightforward approach would be to iterate through the list once while numbering each node. After determining the index of the node to delete, we would iterate again to locate and remove it.]]></description>
 </item></channel>
 </rss>

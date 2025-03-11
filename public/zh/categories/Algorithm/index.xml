@@ -3,7 +3,28 @@
         <title>Algorithm - category - James Blog</title>
         <link>https://jamesblogger.com/zh/categories/Algorithm/</link>
         <description>Algorithm - category - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/categories/Algorithm/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/zh/categories/Algorithm/" rel="self" type="application/rss+xml" /><item>
+    <title>[ Leetcode 133 ] Clone Graph | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-133/</link>
+    <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-133/</guid>
+    <description><![CDATA[複製一個 Graph，同時不能直接 return 這個 Graph 的 pointer 回去。 題目連結🔗：https://leetcode.com/problems/clone-gra]]></description>
+</item><item>
+    <title>[ Leetcode 200 ] Number of Islands | 解題思路分享</title>
+    <link>https://jamesblogger.com/zh/program/leetcode-200/</link>
+    <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/leetcode-200/</guid>
+    <description><![CDATA[給一個由 &lsquo;1&rsquo;（陸地）和 &lsquo;0&rsquo;（水）組成的 2D Array，計算島嶼的數量。島嶼是由水平或垂直方]]></description>
+</item><item>
+    <title>[ Data Structure ] Stack &amp; Monotone Stack | 核心概念與 Leetcode 題型解析</title>
+    <link>https://jamesblogger.com/zh/program/stack/</link>
+    <pubDate>Fri, 07 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/zh/program/stack/</guid>
+    <description><![CDATA[Stack 是一種 Last In, First Out (LIFO) 的 data structure，有點像是疊積木，所以最大的特色就是，你永遠只能看到最上面這個 element，要 remove element 也只能 remove 最上面的]]></description>
+</item><item>
     <title>[ Leetcode 20 ] Valid Parentheses | 解題思路分享</title>
     <link>https://jamesblogger.com/zh/program/leetcode-20/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
@@ -52,26 +73,5 @@
         <name>James</name>
     </author><guid>https://jamesblogger.com/zh/program/leetcode-713/</guid>
     <description><![CDATA[給一個正整數 array nums 和一個正整數 k，找出乘積小於 k 的 subarray 數量。 題目連結🔗：https://leetcode.com/problems/subarr]]></description>
-</item><item>
-    <title>[ Leetcode 1343 ] Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 解題思路分享</title>
-    <link>https://jamesblogger.com/zh/program/leetcode-1343/</link>
-    <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>https://jamesblogger.com/zh/program/leetcode-1343/</guid>
-    <description><![CDATA[給一個整數 array nums，還有兩個數 k 和 threshold，找出長度為 k 且平均值大於或等於 threshold 的 subarray 數量。 題目連結🔗：https://leetcod]]></description>
-</item><item>
-    <title>[ Leetcode 141 ] Linked List Cycle | 解題思路分享</title>
-    <link>https://jamesblogger.com/zh/program/leetcode-141/</link>
-    <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>https://jamesblogger.com/zh/program/leetcode-141/</guid>
-    <description><![CDATA[給一個 linked list，要判斷有沒有 cycle。 題目連結🔗：https://leetcode.com/problems/linked-list-c]]></description>
-</item><item>
-    <title>[ Leetcode 19 ] Remove Nth Node From End of List | 解題思路分享</title>
-    <link>https://jamesblogger.com/zh/program/leetcode-19/</link>
-    <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>https://jamesblogger.com/zh/program/leetcode-19/</guid>
-    <description><![CDATA[給一個 linked list，要 delete 倒數第 n 個 node，並且 return 整個 linked list。 題目連結🔗：https://leetcode.com/problems/re]]></description>
 </item></channel>
 </rss>

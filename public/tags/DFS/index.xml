@@ -3,7 +3,24 @@
         <title>DFS - tag - James Blog</title>
         <link>https://jamesblogger.com/tags/DFS/</link>
         <description>DFS - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/tags/DFS/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/tags/DFS/" rel="self" type="application/rss+xml" /><item>
+    <title>[ Leetcode 133 ] Clone Graph | Solution Approach &amp; Explanation</title>
+    <link>https://jamesblogger.com/program/leetcode-133/</link>
+    <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/program/leetcode-133/</guid>
+    <description><![CDATA[The task is to clone a graph, but we cannot directly return the pointer to the original graph.
+Link🔗：https://leetcode.com/problems/clone-graph/
+Solution - DFS This problem is essentially about using DFS to traverse the entire graph and clone all the nodes. The main challenge is where to store the cloned nodes during the DFS traversal.
+Design of the visit map If we use the usual vector to track visited nodes, we will only know if a node has been visited but not where the cloned node is.]]></description>
+</item><item>
+    <title>[ Leetcode 200 ] Number of Islands | Solution Approach &amp; Explanation</title>
+    <link>https://jamesblogger.com/program/leetcode-200/</link>
+    <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>https://jamesblogger.com/program/leetcode-200/</guid>
+    <description><![CDATA[Given a 2D array composed of &lsquo;1&rsquo; (land) and &lsquo;0&rsquo; (water), calculate the number of islands. An island is defined as a region of &lsquo;1&rsquo;s (land) connected either horizontally or vertically, surrounded by &lsquo;0&rsquo;s (water). Link🔗：https://leetcode.com/problems]]></description>
+</item><item>
     <title>[ Leetcode 841 ] Keys and Rooms | Solution Approach &amp; Explanation</title>
     <link>https://jamesblogger.com/program/leetcode-841/</link>
     <pubDate>Wed, 29 Jan 2025 00:00:00 &#43;0000</pubDate><author>
