@@ -1,77 +1,77 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - tag - James Blog</title>
-        <link>https://jamesblogger.com/tags/</link>
+        <link>http://localhost:32997/tags/</link>
         <description>Tags - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://jamesblogger.com/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:32997/tags/" rel="self" type="application/rss+xml" /><item>
     <title>BFS</title>
-    <link>https://jamesblogger.com/tags/BFS/</link>
+    <link>http://localhost:32997/tags/BFS/</link>
     <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/BFS/</guid>
+    </author><guid>http://localhost:32997/tags/BFS/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>DFS</title>
-    <link>https://jamesblogger.com/tags/DFS/</link>
+    <link>http://localhost:32997/tags/DFS/</link>
     <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/DFS/</guid>
+    </author><guid>http://localhost:32997/tags/DFS/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Disjoint Set</title>
-    <link>https://jamesblogger.com/tags/Disjoint-Set/</link>
+    <link>http://localhost:32997/tags/Disjoint-Set/</link>
     <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Disjoint-Set/</guid>
+    </author><guid>http://localhost:32997/tags/Disjoint-Set/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Graph</title>
-    <link>https://jamesblogger.com/tags/Graph/</link>
+    <link>http://localhost:32997/tags/Graph/</link>
     <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Graph/</guid>
+    </author><guid>http://localhost:32997/tags/Graph/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Hash Table</title>
-    <link>https://jamesblogger.com/tags/Hash-Table/</link>
+    <link>http://localhost:32997/tags/Hash-Table/</link>
     <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Hash-Table/</guid>
+    </author><guid>http://localhost:32997/tags/Hash-Table/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Leetcode</title>
-    <link>https://jamesblogger.com/tags/Leetcode/</link>
+    <link>http://localhost:32997/tags/Leetcode/</link>
     <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Leetcode/</guid>
+    </author><guid>http://localhost:32997/tags/Leetcode/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Medium</title>
-    <link>https://jamesblogger.com/tags/Medium/</link>
+    <link>http://localhost:32997/tags/Medium/</link>
     <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Medium/</guid>
+    </author><guid>http://localhost:32997/tags/Medium/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Union Find</title>
-    <link>https://jamesblogger.com/tags/Union-Find/</link>
+    <link>http://localhost:32997/tags/Union-Find/</link>
     <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Union-Find/</guid>
+    </author><guid>http://localhost:32997/tags/Union-Find/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Data Structure</title>
-    <link>https://jamesblogger.com/tags/Data-Structure/</link>
+    <link>http://localhost:32997/tags/Data-Structure/</link>
     <pubDate>Fri, 07 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Data-Structure/</guid>
+    </author><guid>http://localhost:32997/tags/Data-Structure/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Monotone Stack</title>
-    <link>https://jamesblogger.com/tags/Monotone-Stack/</link>
+    <link>http://localhost:32997/tags/Monotone-Stack/</link>
     <pubDate>Fri, 07 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>https://jamesblogger.com/tags/Monotone-Stack/</guid>
+    </author><guid>http://localhost:32997/tags/Monotone-Stack/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

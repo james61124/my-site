@@ -2,1068 +2,1068 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jamesblogger.com/program/leetcode-133/</loc>
+    <loc>http://localhost:32997/program/leetcode-133/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-133/"
+                href="http://localhost:32997/zh/program/leetcode-133/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-133/"
+                href="http://localhost:32997/program/leetcode-133/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-200/</loc>
+    <loc>http://localhost:32997/program/leetcode-200/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-200/"
+                href="http://localhost:32997/zh/program/leetcode-200/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-200/"
+                href="http://localhost:32997/program/leetcode-200/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/categories/Algorithm/</loc>
+    <loc>http://localhost:32997/categories/Algorithm/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/categories/Algorithm/"
+                href="http://localhost:32997/zh/categories/Algorithm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/categories/Algorithm/"
+                href="http://localhost:32997/categories/Algorithm/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/BFS/</loc>
+    <loc>http://localhost:32997/tags/BFS/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/BFS/"
+                href="http://localhost:32997/zh/tags/BFS/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/BFS/"
+                href="http://localhost:32997/tags/BFS/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/categories/</loc>
+    <loc>http://localhost:32997/categories/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/categories/"
+                href="http://localhost:32997/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/categories/"
+                href="http://localhost:32997/categories/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/DFS/</loc>
+    <loc>http://localhost:32997/tags/DFS/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/DFS/"
+                href="http://localhost:32997/zh/tags/DFS/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/DFS/"
+                href="http://localhost:32997/tags/DFS/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Disjoint-Set/</loc>
+    <loc>http://localhost:32997/tags/Disjoint-Set/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Disjoint-Set/"
+                href="http://localhost:32997/zh/tags/Disjoint-Set/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Disjoint-Set/"
+                href="http://localhost:32997/tags/Disjoint-Set/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Graph/</loc>
+    <loc>http://localhost:32997/tags/Graph/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Graph/"
+                href="http://localhost:32997/zh/tags/Graph/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Graph/"
+                href="http://localhost:32997/tags/Graph/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Hash-Table/</loc>
+    <loc>http://localhost:32997/tags/Hash-Table/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Hash-Table/"
+                href="http://localhost:32997/zh/tags/Hash-Table/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Hash-Table/"
+                href="http://localhost:32997/tags/Hash-Table/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/</loc>
+    <loc>http://localhost:32997/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/"
+                href="http://localhost:32997/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/"
+                href="http://localhost:32997/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Leetcode/</loc>
+    <loc>http://localhost:32997/tags/Leetcode/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Leetcode/"
+                href="http://localhost:32997/zh/tags/Leetcode/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Leetcode/"
+                href="http://localhost:32997/tags/Leetcode/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Medium/</loc>
+    <loc>http://localhost:32997/tags/Medium/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Medium/"
+                href="http://localhost:32997/zh/tags/Medium/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Medium/"
+                href="http://localhost:32997/tags/Medium/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/</loc>
+    <loc>http://localhost:32997/program/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/"
+                href="http://localhost:32997/zh/program/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/"
+                href="http://localhost:32997/program/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/</loc>
+    <loc>http://localhost:32997/tags/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/"
+                href="http://localhost:32997/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/"
+                href="http://localhost:32997/tags/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Union-Find/</loc>
+    <loc>http://localhost:32997/tags/Union-Find/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Union-Find/"
+                href="http://localhost:32997/zh/tags/Union-Find/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Union-Find/"
+                href="http://localhost:32997/tags/Union-Find/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/stack/</loc>
+    <loc>http://localhost:32997/program/stack/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/stack/"
+                href="http://localhost:32997/zh/program/stack/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/stack/"
+                href="http://localhost:32997/program/stack/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Data-Structure/</loc>
+    <loc>http://localhost:32997/tags/Data-Structure/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Data-Structure/"
+                href="http://localhost:32997/zh/tags/Data-Structure/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Data-Structure/"
+                href="http://localhost:32997/tags/Data-Structure/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Monotone-Stack/</loc>
+    <loc>http://localhost:32997/tags/Monotone-Stack/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Monotone-Stack/"
+                href="http://localhost:32997/zh/tags/Monotone-Stack/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Monotone-Stack/"
+                href="http://localhost:32997/tags/Monotone-Stack/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Stack/</loc>
+    <loc>http://localhost:32997/tags/Stack/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Stack/"
+                href="http://localhost:32997/zh/tags/Stack/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Stack/"
+                href="http://localhost:32997/tags/Stack/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-20/</loc>
+    <loc>http://localhost:32997/program/leetcode-20/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-20/"
+                href="http://localhost:32997/zh/program/leetcode-20/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-20/"
+                href="http://localhost:32997/program/leetcode-20/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-21/</loc>
+    <loc>http://localhost:32997/program/leetcode-21/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-21/"
+                href="http://localhost:32997/zh/program/leetcode-21/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-21/"
+                href="http://localhost:32997/program/leetcode-21/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-227/</loc>
+    <loc>http://localhost:32997/program/leetcode-227/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-227/"
+                href="http://localhost:32997/zh/program/leetcode-227/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-227/"
+                href="http://localhost:32997/program/leetcode-227/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-496/</loc>
+    <loc>http://localhost:32997/program/leetcode-496/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-496/"
+                href="http://localhost:32997/zh/program/leetcode-496/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-496/"
+                href="http://localhost:32997/program/leetcode-496/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-739/</loc>
+    <loc>http://localhost:32997/program/leetcode-739/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-739/"
+                href="http://localhost:32997/zh/program/leetcode-739/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-739/"
+                href="http://localhost:32997/program/leetcode-739/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Linked-List/</loc>
+    <loc>http://localhost:32997/tags/Linked-List/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Linked-List/"
+                href="http://localhost:32997/zh/tags/Linked-List/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Linked-List/"
+                href="http://localhost:32997/tags/Linked-List/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Math/</loc>
+    <loc>http://localhost:32997/tags/Math/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Math/"
+                href="http://localhost:32997/zh/tags/Math/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Math/"
+                href="http://localhost:32997/tags/Math/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/String/</loc>
+    <loc>http://localhost:32997/tags/String/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/String/"
+                href="http://localhost:32997/zh/tags/String/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/String/"
+                href="http://localhost:32997/tags/String/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Two-Pointers/</loc>
+    <loc>http://localhost:32997/tags/Two-Pointers/</loc>
     <lastmod>2025-03-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Two-Pointers/"
+                href="http://localhost:32997/zh/tags/Two-Pointers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Two-Pointers/"
+                href="http://localhost:32997/tags/Two-Pointers/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/sliding-window/</loc>
+    <loc>http://localhost:32997/program/sliding-window/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/sliding-window/"
+                href="http://localhost:32997/zh/program/sliding-window/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/sliding-window/"
+                href="http://localhost:32997/program/sliding-window/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-713/</loc>
+    <loc>http://localhost:32997/program/leetcode-713/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-713/"
+                href="http://localhost:32997/zh/program/leetcode-713/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-713/"
+                href="http://localhost:32997/program/leetcode-713/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Algorithms/</loc>
+    <loc>http://localhost:32997/tags/Algorithms/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Algorithms/"
+                href="http://localhost:32997/zh/tags/Algorithms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Algorithms/"
+                href="http://localhost:32997/tags/Algorithms/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Array/</loc>
+    <loc>http://localhost:32997/tags/Array/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Array/"
+                href="http://localhost:32997/zh/tags/Array/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Array/"
+                href="http://localhost:32997/tags/Array/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Sliding-Window/</loc>
+    <loc>http://localhost:32997/tags/Sliding-Window/</loc>
     <lastmod>2025-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Sliding-Window/"
+                href="http://localhost:32997/zh/tags/Sliding-Window/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Sliding-Window/"
+                href="http://localhost:32997/tags/Sliding-Window/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-1343/</loc>
+    <loc>http://localhost:32997/program/leetcode-1343/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-1343/"
+                href="http://localhost:32997/zh/program/leetcode-1343/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-1343/"
+                href="http://localhost:32997/program/leetcode-1343/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-141/</loc>
+    <loc>http://localhost:32997/program/leetcode-141/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-141/"
+                href="http://localhost:32997/zh/program/leetcode-141/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-141/"
+                href="http://localhost:32997/program/leetcode-141/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-19/</loc>
+    <loc>http://localhost:32997/program/leetcode-19/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-19/"
+                href="http://localhost:32997/zh/program/leetcode-19/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-19/"
+                href="http://localhost:32997/program/leetcode-19/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-3/</loc>
+    <loc>http://localhost:32997/program/leetcode-3/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-3/"
+                href="http://localhost:32997/zh/program/leetcode-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-3/"
+                href="http://localhost:32997/program/leetcode-3/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-876/</loc>
+    <loc>http://localhost:32997/program/leetcode-876/</loc>
     <lastmod>2025-03-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-876/"
+                href="http://localhost:32997/zh/program/leetcode-876/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-876/"
+                href="http://localhost:32997/program/leetcode-876/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-1143/</loc>
+    <loc>http://localhost:32997/program/leetcode-1143/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-1143/"
+                href="http://localhost:32997/zh/program/leetcode-1143/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-1143/"
+                href="http://localhost:32997/program/leetcode-1143/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Dynamic-Programming/</loc>
+    <loc>http://localhost:32997/tags/Dynamic-Programming/</loc>
     <lastmod>2025-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Dynamic-Programming/"
+                href="http://localhost:32997/zh/tags/Dynamic-Programming/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Dynamic-Programming/"
+                href="http://localhost:32997/tags/Dynamic-Programming/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-11/</loc>
+    <loc>http://localhost:32997/program/leetcode-11/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-11/"
+                href="http://localhost:32997/zh/program/leetcode-11/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-11/"
+                href="http://localhost:32997/program/leetcode-11/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Two-Pointer/</loc>
+    <loc>http://localhost:32997/tags/Two-Pointer/</loc>
     <lastmod>2025-02-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Two-Pointer/"
+                href="http://localhost:32997/zh/tags/Two-Pointer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Two-Pointer/"
+                href="http://localhost:32997/tags/Two-Pointer/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-167/</loc>
+    <loc>http://localhost:32997/program/leetcode-167/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-167/"
+                href="http://localhost:32997/zh/program/leetcode-167/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-167/"
+                href="http://localhost:32997/program/leetcode-167/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-26/</loc>
+    <loc>http://localhost:32997/program/leetcode-26/</loc>
     <lastmod>2025-02-26T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-26/"
+                href="http://localhost:32997/zh/program/leetcode-26/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-26/"
+                href="http://localhost:32997/program/leetcode-26/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-349/</loc>
+    <loc>http://localhost:32997/program/leetcode-349/</loc>
     <lastmod>2025-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-349/"
+                href="http://localhost:32997/zh/program/leetcode-349/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-349/"
+                href="http://localhost:32997/program/leetcode-349/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/life/ASML/</loc>
+    <loc>http://localhost:32997/life/ASML/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/life/ASML/"
+                href="http://localhost:32997/zh/life/ASML/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/life/ASML/"
+                href="http://localhost:32997/life/ASML/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/ASML/</loc>
+    <loc>http://localhost:32997/tags/ASML/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/ASML/"
+                href="http://localhost:32997/zh/tags/ASML/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/ASML/"
+                href="http://localhost:32997/tags/ASML/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Internship/</loc>
+    <loc>http://localhost:32997/tags/Internship/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/tags/Life/</loc>
+    <loc>http://localhost:32997/tags/Life/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/categories/Life/</loc>
+    <loc>http://localhost:32997/categories/Life/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/life/</loc>
+    <loc>http://localhost:32997/life/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/life/"
+                href="http://localhost:32997/zh/life/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/life/"
+                href="http://localhost:32997/life/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-125/</loc>
+    <loc>http://localhost:32997/program/leetcode-125/</loc>
     <lastmod>2025-02-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-125/"
+                href="http://localhost:32997/zh/program/leetcode-125/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-125/"
+                href="http://localhost:32997/program/leetcode-125/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-209/</loc>
+    <loc>http://localhost:32997/program/leetcode-209/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-209/"
+                href="http://localhost:32997/zh/program/leetcode-209/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-209/"
+                href="http://localhost:32997/program/leetcode-209/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-300/</loc>
+    <loc>http://localhost:32997/program/leetcode-300/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-300/"
+                href="http://localhost:32997/zh/program/leetcode-300/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-300/"
+                href="http://localhost:32997/program/leetcode-300/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/leetcode-841/</loc>
+    <loc>http://localhost:32997/program/leetcode-841/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/leetcode-841/"
+                href="http://localhost:32997/zh/program/leetcode-841/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/leetcode-841/"
+                href="http://localhost:32997/program/leetcode-841/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Binary-Search/</loc>
+    <loc>http://localhost:32997/tags/Binary-Search/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Binary-Search/"
+                href="http://localhost:32997/zh/tags/Binary-Search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Binary-Search/"
+                href="http://localhost:32997/tags/Binary-Search/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Greedy/</loc>
+    <loc>http://localhost:32997/tags/Greedy/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Greedy/"
+                href="http://localhost:32997/zh/tags/Greedy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Greedy/"
+                href="http://localhost:32997/tags/Greedy/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Prefix-Sum/</loc>
+    <loc>http://localhost:32997/tags/Prefix-Sum/</loc>
     <lastmod>2025-01-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Prefix-Sum/"
+                href="http://localhost:32997/zh/tags/Prefix-Sum/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Prefix-Sum/"
+                href="http://localhost:32997/tags/Prefix-Sum/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/binary-search/</loc>
+    <loc>http://localhost:32997/program/binary-search/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/binary-search/"
+                href="http://localhost:32997/zh/program/binary-search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/binary-search/"
+                href="http://localhost:32997/program/binary-search/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Search-Algorithms/</loc>
+    <loc>http://localhost:32997/tags/Search-Algorithms/</loc>
     <lastmod>2025-01-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Search-Algorithms/"
+                href="http://localhost:32997/zh/tags/Search-Algorithms/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Search-Algorithms/"
+                href="http://localhost:32997/tags/Search-Algorithms/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Bern/</loc>
+    <loc>http://localhost:32997/tags/Bern/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/tags/Inerlaken/</loc>
+    <loc>http://localhost:32997/tags/Inerlaken/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/tags/Jungfraujoch/</loc>
+    <loc>http://localhost:32997/tags/Jungfraujoch/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/travel/Switzerland-20240914/</loc>
+    <loc>http://localhost:32997/travel/Switzerland-20240914/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/travel/Switzerland-20240914/"
+                href="http://localhost:32997/zh/travel/Switzerland-20240914/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/travel/Switzerland-20240914/"
+                href="http://localhost:32997/travel/Switzerland-20240914/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Swizerland/</loc>
+    <loc>http://localhost:32997/tags/Swizerland/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/tags/Top-of-Europe/</loc>
+    <loc>http://localhost:32997/tags/Top-of-Europe/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/tags/Travel/</loc>
+    <loc>http://localhost:32997/tags/Travel/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/categories/Travel/</loc>
+    <loc>http://localhost:32997/categories/Travel/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/travel/</loc>
+    <loc>http://localhost:32997/travel/</loc>
     <lastmod>2024-12-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/travel/"
+                href="http://localhost:32997/zh/travel/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/travel/"
+                href="http://localhost:32997/travel/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/England/</loc>
+    <loc>http://localhost:32997/tags/England/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/travel/London-20240906/</loc>
+    <loc>http://localhost:32997/travel/London-20240906/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/travel/London-20240906/"
+                href="http://localhost:32997/zh/travel/London-20240906/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/travel/London-20240906/"
+                href="http://localhost:32997/travel/London-20240906/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/London/</loc>
+    <loc>http://localhost:32997/tags/London/</loc>
     <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/tags/Germany/</loc>
+    <loc>http://localhost:32997/tags/Germany/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/travel/Munich-20240823/</loc>
+    <loc>http://localhost:32997/travel/Munich-20240823/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/travel/Munich-20240823/"
+                href="http://localhost:32997/zh/travel/Munich-20240823/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/travel/Munich-20240823/"
+                href="http://localhost:32997/travel/Munich-20240823/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Munich/</loc>
+    <loc>http://localhost:32997/tags/Munich/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/tags/Belgium/</loc>
+    <loc>http://localhost:32997/tags/Belgium/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/travel/ghent-20240728/</loc>
+    <loc>http://localhost:32997/travel/ghent-20240728/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/travel/ghent-20240728/"
+                href="http://localhost:32997/zh/travel/ghent-20240728/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/travel/ghent-20240728/"
+                href="http://localhost:32997/travel/ghent-20240728/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Brussels/</loc>
+    <loc>http://localhost:32997/tags/Brussels/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/tags/Ghent/</loc>
+    <loc>http://localhost:32997/tags/Ghent/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/tags/Den-Haag/</loc>
+    <loc>http://localhost:32997/tags/Den-Haag/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/tags/Netherlands/</loc>
+    <loc>http://localhost:32997/tags/Netherlands/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/travel/Den-Haag-20240810/</loc>
+    <loc>http://localhost:32997/travel/Den-Haag-20240810/</loc>
     <lastmod>2024-08-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/travel/Den-Haag-20240810/"
+                href="http://localhost:32997/zh/travel/Den-Haag-20240810/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/travel/Den-Haag-20240810/"
+                href="http://localhost:32997/travel/Den-Haag-20240810/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/travel/bruges-20240713/</loc>
+    <loc>http://localhost:32997/travel/bruges-20240713/</loc>
     <lastmod>2024-08-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/travel/bruges-20240713/"
+                href="http://localhost:32997/zh/travel/bruges-20240713/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/travel/bruges-20240713/"
+                href="http://localhost:32997/travel/bruges-20240713/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Bruges/</loc>
+    <loc>http://localhost:32997/tags/Bruges/</loc>
     <lastmod>2024-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/tags/Guitar-Club/</loc>
+    <loc>http://localhost:32997/tags/Guitar-Club/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Guitar-Club/"
+                href="http://localhost:32997/zh/tags/Guitar-Club/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Guitar-Club/"
+                href="http://localhost:32997/tags/Guitar-Club/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/life/guitar-club/</loc>
+    <loc>http://localhost:32997/life/guitar-club/</loc>
     <lastmod>2024-02-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/life/guitar-club/"
+                href="http://localhost:32997/zh/life/guitar-club/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/life/guitar-club/"
+                href="http://localhost:32997/life/guitar-club/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/life/2022-line-fresh/</loc>
+    <loc>http://localhost:32997/life/2022-line-fresh/</loc>
     <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/life/2022-line-fresh/"
+                href="http://localhost:32997/zh/life/2022-line-fresh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/life/2022-line-fresh/"
+                href="http://localhost:32997/life/2022-line-fresh/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/LINE-FRESH/</loc>
+    <loc>http://localhost:32997/tags/LINE-FRESH/</loc>
     <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/LINE-FRESH/"
+                href="http://localhost:32997/zh/tags/LINE-FRESH/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/LINE-FRESH/"
+                href="http://localhost:32997/tags/LINE-FRESH/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Paris/</loc>
+    <loc>http://localhost:32997/tags/Paris/</loc>
     <lastmod>2024-02-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jamesblogger.com/travel/paris-20240125/</loc>
+    <loc>http://localhost:32997/travel/paris-20240125/</loc>
     <lastmod>2024-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/travel/paris-20240125/"
+                href="http://localhost:32997/zh/travel/paris-20240125/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/travel/paris-20240125/"
+                href="http://localhost:32997/travel/paris-20240125/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Hackathon/</loc>
+    <loc>http://localhost:32997/tags/Hackathon/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Hackathon/"
+                href="http://localhost:32997/zh/tags/Hackathon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Hackathon/"
+                href="http://localhost:32997/tags/Hackathon/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/life/meichu-hackathon-event-planning-leader/</loc>
+    <loc>http://localhost:32997/life/meichu-hackathon-event-planning-leader/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/life/meichu-hackathon-event-planning-leader/"
+                href="http://localhost:32997/zh/life/meichu-hackathon-event-planning-leader/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/life/meichu-hackathon-event-planning-leader/"
+                href="http://localhost:32997/life/meichu-hackathon-event-planning-leader/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/life/11th-meichu-hackathon/</loc>
+    <loc>http://localhost:32997/life/11th-meichu-hackathon/</loc>
     <lastmod>2024-02-17T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/life/11th-meichu-hackathon/"
+                href="http://localhost:32997/zh/life/11th-meichu-hackathon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/life/11th-meichu-hackathon/"
+                href="http://localhost:32997/life/11th-meichu-hackathon/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Algorithm/</loc>
+    <loc>http://localhost:32997/tags/Algorithm/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Algorithm/"
+                href="http://localhost:32997/zh/tags/Algorithm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Algorithm/"
+                href="http://localhost:32997/tags/Algorithm/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/the-rod-cutting-problem/</loc>
+    <loc>http://localhost:32997/program/the-rod-cutting-problem/</loc>
     <lastmod>2024-01-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/the-rod-cutting-problem/"
+                href="http://localhost:32997/zh/program/the-rod-cutting-problem/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/the-rod-cutting-problem/"
+                href="http://localhost:32997/program/the-rod-cutting-problem/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/tags/Github/</loc>
+    <loc>http://localhost:32997/tags/Github/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/tags/Github/"
+                href="http://localhost:32997/zh/tags/Github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/tags/Github/"
+                href="http://localhost:32997/tags/Github/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/categories/Github/</loc>
+    <loc>http://localhost:32997/categories/Github/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/categories/Github/"
+                href="http://localhost:32997/zh/categories/Github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/categories/Github/"
+                href="http://localhost:32997/categories/Github/"
                 />
   </url><url>
-    <loc>https://jamesblogger.com/program/github/</loc>
+    <loc>http://localhost:32997/program/github/</loc>
     <lastmod>2024-01-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://jamesblogger.com/zh/program/github/"
+                href="http://localhost:32997/zh/program/github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://jamesblogger.com/program/github/"
+                href="http://localhost:32997/program/github/"
                 />
   </url>
 </urlset>
