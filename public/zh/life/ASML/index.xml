@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>改變人生的半年 - ASML 荷蘭總部實習全紀錄 on James Blog</title>
-    <link>http://localhost:32997/zh/life/ASML/</link>
+    <link>http://localhost:36995/zh/life/ASML/</link>
     <description>Recent content in 改變人生的半年 - ASML 荷蘭總部實習全紀錄 on James Blog</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:32997/zh/life/ASML/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36995/zh/life/ASML/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Github - category - James Blog</title>
-        <link>http://localhost:32997/categories/Github/</link>
+        <link>http://localhost:36995/categories/Github/</link>
         <description>Github - category - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 18 Jan 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:32997/categories/Github/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 18 Jan 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:36995/categories/Github/" rel="self" type="application/rss+xml" /><item>
     <title>Introduction to Github for Beginners</title>
-    <link>http://localhost:32997/program/github/</link>
+    <link>http://localhost:36995/program/github/</link>
     <pubDate>Thu, 18 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/program/github/</guid>
+    </author><guid>http://localhost:36995/program/github/</guid>
     <description><![CDATA[What is Github？ Git is a version control software, while Github is an online platform for storing code. It organizes projects into repositories, allowing users to use Git for version control and making collaboration within a team easier.
 Why Use Github In a project, I make changes to A, someone else modifies B, and I update C. Things can quickly get messy.
 It can store a large collection of your work portfolio.]]></description>

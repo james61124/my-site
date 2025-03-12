@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Matrix - tag - James Blog</title>
-        <link>http://localhost:32997/zh/tags/Matrix/</link>
+        <link>http://localhost:36995/zh/tags/Matrix/</link>
         <description>Matrix - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:32997/zh/tags/Matrix/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:36995/zh/tags/Matrix/" rel="self" type="application/rss+xml" /><item>
     <title>[ Leetcode 36 ] Valid Sudoku | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-36/</link>
+    <link>http://localhost:36995/zh/program/leetcode-36/</link>
     <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-36/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-36/</guid>
     <description><![CDATA[給你一個 9×9 的數獨棋盤（board），檢查這個數獨是否 Valid。Valid 的條件是： 每一列（row） 不能有重複數字 1-9。 每一行（col]]></description>
 </item></channel>
 </rss>

@@ -1,14 +1,21 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Medium - tag - James Blog</title>
-        <link>http://localhost:32997/zh/tags/Medium/</link>
+        <link>http://localhost:36995/zh/tags/Medium/</link>
         <description>Medium - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:32997/zh/tags/Medium/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:36995/zh/tags/Medium/" rel="self" type="application/rss+xml" /><item>
+    <title>[ Leetcode 36 ] Valid Sudoku | 解題思路分享</title>
+    <link>http://localhost:36995/zh/program/leetcode-36/</link>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>http://localhost:36995/zh/program/leetcode-36/</guid>
+    <description><![CDATA[給你一個 9×9 的數獨棋盤（board），檢查這個數獨是否 Valid。Valid 的條件是： 每一列（row） 不能有重複數字 1-9。 每一行（col]]></description>
+</item><item>
     <title>[ Leetcode 133 ] Clone Graph | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-133/</link>
+    <link>http://localhost:36995/zh/program/leetcode-133/</link>
     <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-133/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-133/</guid>
     <description><![CDATA[複製一個 Graph，同時不能直接 return 這個 Graph 的 pointer 回去。 題目連結🔗：https://leetcode.com/problems/clone-gra]]></description>
 </item></channel>
 </rss>

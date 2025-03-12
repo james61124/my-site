@@ -1,42 +1,42 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Sliding Window - tag - James Blog</title>
-        <link>http://localhost:32997/zh/tags/Sliding-Window/</link>
+        <link>http://localhost:36995/zh/tags/Sliding-Window/</link>
         <description>Sliding Window - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:32997/zh/tags/Sliding-Window/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:36995/zh/tags/Sliding-Window/" rel="self" type="application/rss+xml" /><item>
     <title>[ Algorithm ] Sliding Window | 核心概念與 Leetcode 題型解析</title>
-    <link>http://localhost:32997/zh/program/sliding-window/</link>
+    <link>http://localhost:36995/zh/program/sliding-window/</link>
     <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/sliding-window/</guid>
+    </author><guid>http://localhost:36995/zh/program/sliding-window/</guid>
     <description><![CDATA[Sliding Window 就是利用 left 和 right 兩個指標來維持一個動態區間 ( window )，透過移動這個 window 來減少重複運算，主要用在處理 subarray 或是 substring 之類的問題。 Sliding Window 分成兩種 : Fixed-Size Sliding Window Variable-Size Sliding W]]></description>
 </item><item>
     <title>[ Leetcode 713 ] Subarray Product Less Than K | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-713/</link>
+    <link>http://localhost:36995/zh/program/leetcode-713/</link>
     <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-713/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-713/</guid>
     <description><![CDATA[給一個正整數 array nums 和一個正整數 k，找出乘積小於 k 的 subarray 數量。 題目連結🔗：https://leetcode.com/problems/subarr]]></description>
 </item><item>
     <title>[ Leetcode 1343 ] Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-1343/</link>
+    <link>http://localhost:36995/zh/program/leetcode-1343/</link>
     <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-1343/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-1343/</guid>
     <description><![CDATA[給一個整數 array nums，還有兩個數 k 和 threshold，找出長度為 k 且平均值大於或等於 threshold 的 subarray 數量。 題目連結🔗：https://leetcod]]></description>
 </item><item>
     <title>[ Leetcode 3 ] Longest Substring Without Repeating Characters | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-3/</link>
+    <link>http://localhost:36995/zh/program/leetcode-3/</link>
     <pubDate>Mon, 03 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-3/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-3/</guid>
     <description><![CDATA[給定一個字串 s，找出其中 不含 repeated character 的最長 substring 長度。 題目連結🔗：https://leetcode.com/problems/longest-sub]]></description>
 </item><item>
     <title>[ Leetcode 209 ] Minimum Size Subarray Sum | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-209/</link>
+    <link>http://localhost:36995/zh/program/leetcode-209/</link>
     <pubDate>Wed, 29 Jan 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-209/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-209/</guid>
     <description><![CDATA[給定一個正整數陣列 nums 和一個目標數 target，找出最短的連續子陣列，使得其數字總和大於或等於 target。如果沒有符合條件的子陣列，則回傳 0]]></description>
 </item></channel>
 </rss>

@@ -2,199 +2,206 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programs on James Blog</title>
-    <link>http://localhost:32997/program/</link>
+    <link>http://localhost:36995/program/</link>
     <description>Recent content in Programs on James Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:32997/program/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:36995/program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[ Leetcode 36 ] Valid Sudoku | Solution Approach &amp; Explanation</title>
+      <link>http://localhost:36995/program/leetcode-36/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:36995/program/leetcode-36/</guid>
+      <description>Given a 9×9 Sudoku board, check whether the Sudoku configuration is valid. The conditions for validity are:&#xA;Each row must not contain duplicate numbers from 1 to 9. Each column must not contain duplicate numbers from 1 to 9. Each 3×3 sub-box must not contain duplicate numbers from 1 to 9. The character &amp;lsquo;.&amp;rsquo; represents an empty cell and can be ignored. Link🔗：https://leetcode.com/problems/valid-sudoku/&#xA;Problem Analysis Essentially, we need to iterate through the entire board while minimizing the time spent checking for duplicate numbers.</description>
+    </item>
     <item>
       <title>[ Leetcode 133 ] Clone Graph | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-133/</link>
+      <link>http://localhost:36995/program/leetcode-133/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-133/</guid>
+      <guid>http://localhost:36995/program/leetcode-133/</guid>
       <description>The task is to clone a graph, but we cannot directly return the pointer to the original graph.&#xA;Link🔗：https://leetcode.com/problems/clone-graph/&#xA;Solution - DFS This problem is essentially about using DFS to traverse the entire graph and clone all the nodes. The main challenge is where to store the cloned nodes during the DFS traversal.&#xA;Design of the visit map If we use the usual vector to track visited nodes, we will only know if a node has been visited but not where the cloned node is.</description>
     </item>
     <item>
       <title>[ Leetcode 200 ] Number of Islands | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-200/</link>
+      <link>http://localhost:36995/program/leetcode-200/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-200/</guid>
+      <guid>http://localhost:36995/program/leetcode-200/</guid>
       <description>Given a 2D array composed of &amp;lsquo;1&amp;rsquo; (land) and &amp;lsquo;0&amp;rsquo; (water), calculate the number of islands. An island is defined as a region of &amp;lsquo;1&amp;rsquo;s (land) connected either horizontally or vertically, surrounded by &amp;lsquo;0&amp;rsquo;s (water). Link🔗：https://leetcode.com/problems</description>
     </item>
     <item>
       <title>[ Data Structure ] Stack &amp; Monotone Stack | Core Concepts &amp; Leetcode Problems Analysis</title>
-      <link>http://localhost:32997/program/stack/</link>
+      <link>http://localhost:36995/program/stack/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/stack/</guid>
+      <guid>http://localhost:36995/program/stack/</guid>
       <description>A Stack is a Last In, First Out (LIFO) data structure, similar to stacking blocks. The key characteristic is that you can only access the top element, and removal also happens only from the top. You cannot directly access elements below the top.&#xA;Common Stack Operations in C++ STL :&#xA;stack&amp;lt;int&amp;gt;st; - Declare a stack st.push(value); - Insert an element at the top st.pop();&#x9;- Remove the top element (⚠️ Does not return the value) st.</description>
     </item>
     <item>
       <title>[ Leetcode 20 ] Valid Parentheses | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-20/</link>
+      <link>http://localhost:36995/program/leetcode-20/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-20/</guid>
+      <guid>http://localhost:36995/program/leetcode-20/</guid>
       <description>Given a string s containing only the characters (, ), {, }, [ and ], check whether the string forms a valid set of parentheses.&#xA;Link🔗：https://leetcode.com/problems/valid-parentheses/&#xA;Problem Analysis This is a classic First In, Last Out (FILO) problem, which makes a stack the ideal data structure for solving it. We also need to consider edge cases carefully.&#xA;Solution - Stack We use a stack while iterating through the string:&#xA;If we encounter a left parenthesis, we push it onto the stack.</description>
     </item>
     <item>
       <title>[ Leetcode 21 ] Merge Two Sorted Lists | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-21/</link>
+      <link>http://localhost:36995/program/leetcode-21/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-21/</guid>
+      <guid>http://localhost:36995/program/leetcode-21/</guid>
       <description>Given a positive integer array nums and a positive integer k, find the number of subarrays whose product is less than k.&#xA;Link🔗：https://leetcode.com/problems/merge-two-sorted-lists/&#xA;Problem Analysis This problem is straightforward if you think from a two-pointer perspective. The key is to carefully determine which node points to which, and which pointer moves forward.&#xA;Solution - Two Pointers We need a pointer cur to track the last merged node. We compare the values of list1 and list2, and link cur-&amp;gt;next to the smaller one.</description>
     </item>
     <item>
       <title>[ Leetcode 227 ] Basic Calculator II | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-227/</link>
+      <link>http://localhost:36995/program/leetcode-227/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-227/</guid>
+      <guid>http://localhost:36995/program/leetcode-227/</guid>
       <description>Given a string containing non-negative integers, +, -, *, /, and spaces, evaluate its value while following the standard order of operations (multiplication and division before addition and subtraction). The use of eval() is not allowed.&#xA;Link🔗：https://leetcode.com/problems/basic-calculator-ii/&#xA;Problem Analysis Since multiplication and division must be processed before addition and subtraction, the problem requires handling Last In, First Out (LIFO) operations. This suggests that a stack would be an effective data structure to use.</description>
     </item>
     <item>
       <title>[ Leetcode 496 ] Next Greater Element I | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-496/</link>
+      <link>http://localhost:36995/program/leetcode-496/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-496/</guid>
+      <guid>http://localhost:36995/program/leetcode-496/</guid>
       <description>Given two arrays nums1 and nums2, where nums1 is a subset of nums2, we need to find the next greater element for each number in nums1 within nums2.&#xA;Link🔗：https://leetcode.com/problems/next-greater-element-i/&#xA;Problem Analysis The key challenge is how to efficiently find the next greater element for each number in nums1 without iterating over nums2 repeatedly. A brute-force approach would be too slow, so we need an optimized method.&#xA;Solution - Monotone Stack The design of the Monotone Stack fits perfectly for this problem because we can ensure that the numbers in the stack are always in decreasing order.</description>
     </item>
     <item>
       <title>[ Leetcode 739 ] Daily Temperatures | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-739/</link>
+      <link>http://localhost:36995/program/leetcode-739/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-739/</guid>
+      <guid>http://localhost:36995/program/leetcode-739/</guid>
       <description>Given an integer array temperatures, representing the temperature on each day, for each day, we need to find the nearest future day with a higher temperature and return the number of days between the current day and that day. If there is no higher temperature in the future, return 0.&#xA;Link🔗：https://leetcode.com/problems/daily-temperatures/&#xA;Problem Analysis The key to this problem is finding the next number greater than the current one, so we can directly think of using a Monotone Stack.</description>
     </item>
     <item>
       <title>[ Algorithm ] Sliding Window | Core Concepts &amp; Leetcode Problems Analysis</title>
-      <link>http://localhost:32997/program/sliding-window/</link>
+      <link>http://localhost:36995/program/sliding-window/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/sliding-window/</guid>
+      <guid>http://localhost:36995/program/sliding-window/</guid>
       <description>The Sliding Window technique utilizes two pointers, left and right, to maintain a dynamic range (window). By shifting this window, we can reduce redundant computations, making it particularly useful for problems involving subarrays or substrings.&#xA;Sliding Window is categorized into two types:&#xA;Fixed-Size Sliding Window Variable-Size Sliding Window Fixed-Size Sliding Window Used for problems that require subarrays or substrings of a fixed length. The window moves one step to the right at a time, removing the leftmost element and adding a new rightmost element.</description>
     </item>
     <item>
       <title>[ Leetcode 713 ] Subarray Product Less Than K | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-713/</link>
+      <link>http://localhost:36995/program/leetcode-713/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-713/</guid>
+      <guid>http://localhost:36995/program/leetcode-713/</guid>
       <description>Given a positive integer array nums and a positive integer k, find the number of subarrays whose product is less than k.&#xA;Link🔗：https://leetcode.com/problems/subarray-product-less-than-k/&#xA;Problem Analysis When I see a problem involving a constraint on the subarray&amp;rsquo;s size but with a flexible range, I immediately consider using a variable-size sliding window approach. The key question here is: how should we move the left and right pointers to ensure we capture all valid subarrays without missing any?</description>
     </item>
     <item>
       <title>[ Leetcode 1343 ] Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-1343/</link>
+      <link>http://localhost:36995/program/leetcode-1343/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-1343/</guid>
+      <guid>http://localhost:36995/program/leetcode-1343/</guid>
       <description>Given an integer array nums, along with two integers k and threshold, find the number of subarrays of length k whose average is greater than or equal to threshold.&#xA;Link🔗：https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/&#xA;Problem Analysis The goal is to find all subarrays of length k that meet the given condition. This means we need to examine every subarray of length k.&#xA;Brute Force A straightforward approach is to enumerate all possible subarrays of length k.</description>
     </item>
     <item>
       <title>[ Leetcode 141 ] Linked List Cycle | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-141/</link>
+      <link>http://localhost:36995/program/leetcode-141/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-141/</guid>
+      <guid>http://localhost:36995/program/leetcode-141/</guid>
       <description>Given a linked list, determine whether it contains a cycle.&#xA;Link🔗：https://leetcode.com/problems/linked-list-cycle/&#xA;Solution - Fast and Slow Pointers ( Floyd&amp;rsquo;s Cycle Detection Algorithm ) This is one of the classic problems for detecting a cycle in a linked list. The idea is to use two pointers, where the fast pointer moves twice as fast as the slow pointer. If there is a cycle, the fast pointer will eventually catch up to the slow pointer.</description>
     </item>
     <item>
       <title>[ Leetcode 19 ] Remove Nth Node From End of List | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-19/</link>
+      <link>http://localhost:36995/program/leetcode-19/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-19/</guid>
+      <guid>http://localhost:36995/program/leetcode-19/</guid>
       <description>Given a linked list, we need to delete the Nth node from the end and return the updated linked list.&#xA;Link🔗：https://leetcode.com/problems/remove-nth-node-from-end-of-list/&#xA;Problem Analysis The key challenge is efficiently finding the Nth node from the end since searching in a linked list takes O(n) time.&#xA;Brute Force A straightforward approach would be to iterate through the list once while numbering each node. After determining the index of the node to delete, we would iterate again to locate and remove it.</description>
     </item>
     <item>
       <title>[ Leetcode 3 ] Longest Substring Without Repeating Characters | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-3/</link>
+      <link>http://localhost:36995/program/leetcode-3/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-3/</guid>
+      <guid>http://localhost:36995/program/leetcode-3/</guid>
       <description>Given a string s, find the length of the longest substring without repeating characters.&#xA;Link🔗：https://leetcode.com/problems/longest-substring-without-repeating-characters/&#xA;Problem Analysis The objective is to find the longest substring without repeating characters, meaning we must examine every possible substring.&#xA;Brute Force The most straightforward brute-force approach is to enumerate all possible substrings and check for repeated characters. However, this results in a time complexity of O(n²), which is too slow and will cause time limit exceeded (TLE) errors.</description>
     </item>
     <item>
       <title>[ Leetcode 876 ] Middle of the Linked List | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-876/</link>
+      <link>http://localhost:36995/program/leetcode-876/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-876/</guid>
+      <guid>http://localhost:36995/program/leetcode-876/</guid>
       <description>Given a linked list, return the middle node. Link🔗：https://leetcode.com/problems/middle-of-the-linked-list/</description>
     </item>
     <item>
       <title>[ Leetcode 1143 ] Longest Common Subsequence | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-1143/</link>
+      <link>http://localhost:36995/program/leetcode-1143/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-1143/</guid>
+      <guid>http://localhost:36995/program/leetcode-1143/</guid>
       <description>Given two strings, text1 and text2, find the length of their Longest Common Subsequence (LCS).&#xA;⚠️ Note:&#xA;A subsequence does not need to be contiguous but must maintain the original order. If there is no common subsequence, return 0. Link🔗：https://leetcode.com/problems/longest-common-subsequence/&#xA;Solution - DP (Double-Sequence Linear DP Problem) This problem can be solved using Double-Sequence Linear DP, as the input consists of two strings. We define dp[i+1][j+1] to represent the length of the longest common subsequence (LCS) ending at text1[i] and text2[j].</description>
     </item>
     <item>
       <title>[ Leetcode 11 ] Container With Most Water | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-11/</link>
+      <link>http://localhost:36995/program/leetcode-11/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-11/</guid>
+      <guid>http://localhost:36995/program/leetcode-11/</guid>
       <description>In a given array, each element represents the height of a vertical line. The task is to choose two lines such that the container formed with the x-axis can hold the maximum amount of water and return that maximum volume.&#xA;Link🔗：https://leetcode.com/problems/container-with-most-water/&#xA;Solution - Opposite Direction Two Pointers The key idea is that the area of the container is determined by:&#xA;Area = min(Height of left, Height of right) × Distance between them We aim to find two lines that maximize this area.</description>
     </item>
     <item>
       <title>[ Leetcode 167 ] Two Sum II - Input Array Is Sorted | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-167/</link>
+      <link>http://localhost:36995/program/leetcode-167/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-167/</guid>
+      <guid>http://localhost:36995/program/leetcode-167/</guid>
       <description>This problem is a variation of Two Sum. Given an array sorted in ascending order, the goal is to find two numbers whose sum equals the target value and return their 1-based indices.&#xA;Link🔗：https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/&#xA;Method - Opposite Direction Two Pointers This problem can be solved using opposite direction two-pointer technique, since this problem is about finding elements under certain constraints in a sorted array. Set left pointer at the first element and right pointer at the last element.</description>
     </item>
     <item>
       <title>[ Leetcode 26 ] Remove Duplicates from Sorted Array | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-26/</link>
+      <link>http://localhost:36995/program/leetcode-26/</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-26/</guid>
+      <guid>http://localhost:36995/program/leetcode-26/</guid>
       <description>Given an ascending sorted array - nums, the task is to remove duplicate elements in place so that each element appears only once and return the new length of the array.&#xA;⚠ Requirements：&#xA;Extra array space cannot be used; modifications must be done in place. If the returned array length is k, it means the first k elements of nums contain the result after removing duplicates, while the remaining elements can be arbitrary and do not need to be considered.</description>
     </item>
     <item>
       <title>[ Leetcode 349 ] Intersection of Two Arrays | 解題思路分享</title>
-      <link>http://localhost:32997/program/leetcode-349/</link>
+      <link>http://localhost:36995/program/leetcode-349/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-349/</guid>
+      <guid>http://localhost:36995/program/leetcode-349/</guid>
       <description>Given two integer arrays nums1 and nums2, find their intersection, ensuring that each element appears only once in the result. Link🔗：https://leetcode.com/problems/intersection-o</description>
     </item>
     <item>
       <title>[ Leetcode 125 ] Valid Palindrome | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-125/</link>
+      <link>http://localhost:36995/program/leetcode-125/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-125/</guid>
+      <guid>http://localhost:36995/program/leetcode-125/</guid>
       <description>This problem requires determining whether a given string is a palindrome, ignoring case and non-alphanumeric characters.&#xA;Link🔗：https://leetcode.com/problems/valid-palindrome/&#xA;Solution - Opposite Direction Two Pointers This problem can be solved using an opposite direction two-pointer approach. The idea is to check whether the characters at the left and right pointers are the same. If they are, both pointers move inward. The main points to consider are ensuring that left and right do not go out of bounds and using isalnum() to check whether a character is alphanumeric.</description>
     </item>
     <item>
       <title>[ Leetcode 209 ] Minimum Size Subarray Sum | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-209/</link>
+      <link>http://localhost:36995/program/leetcode-209/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-209/</guid>
+      <guid>http://localhost:36995/program/leetcode-209/</guid>
       <description>Given a positive integer array nums and a target value target, find the smallest contiguous subarray whose sum is greater than or equal to target. If no such subarray exists, return 0.&#xA;Link🔗：https://leetcode.com/problems/minimum-size-subarray-sum/&#xA;Method 1 - Sliding Window This problem can be solved using the Sliding Window technique. Since all numbers in the array are positive, we know that if a subarray sum reaches or exceeds target, adding more numbers will only make it longer but won&amp;rsquo;t help find the shortest subarray.</description>
     </item>
     <item>
       <title>[ Leetcode 300 ] Longest Increasing Subsequence | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-300/</link>
+      <link>http://localhost:36995/program/leetcode-300/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-300/</guid>
+      <guid>http://localhost:36995/program/leetcode-300/</guid>
       <description>Given an array, find the longest increasing subsequence (LIS). The elements in this subsequence must appear in increasing order but do not need to be consecutive in the original array.&#xA;Link🔗：https://leetcode.com/problems/longest-increasing-subsequence/&#xA;Method 1 - Dynamic Programming Time Complexity - O( n^2 ), due to the nested loops.&#xA;Space Complexity - O( n ), as we need an array of size n for dp.&#xA;Step 1 Create a dp array where dp[i] represents the length of the LIS that ends at nums[i].</description>
     </item>
     <item>
       <title>[ Leetcode 841 ] Keys and Rooms | Solution Approach &amp; Explanation</title>
-      <link>http://localhost:32997/program/leetcode-841/</link>
+      <link>http://localhost:36995/program/leetcode-841/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/leetcode-841/</guid>
+      <guid>http://localhost:36995/program/leetcode-841/</guid>
       <description>There are n rooms labeled from 0 to n-1. Each rooms[i] contains a list of keys that can be used to unlock other rooms. Initially, you start in room 0, which is already unlocked. The goal is to determine whether you can visit all rooms.&#xA;Link🔗：https://leetcode.com/problems/keys-and-rooms/&#xA;Solution - DFS This problem can be solved using Depth-First Search (DFS), as it is essentially a graph traversal problem. The rooms and their keys form a directed graph, where a key in rooms[i] represents an edge from room i to another room.</description>
     </item>
     <item>
       <title>Binary Search</title>
-      <link>http://localhost:32997/program/binary-search/</link>
+      <link>http://localhost:36995/program/binary-search/</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/binary-search/</guid>
+      <guid>http://localhost:36995/program/binary-search/</guid>
       <description>Binary Search is a searching algorithm used to find the position of a key value in a sorted array. It works by repeatedly narrowing the search range in half, allowing it to quickly locate the target. As a result, the time complexity of Binary Search is O(logn).&#xA;Basic Steps Compare the target with the middle value. If they are equal, return the index. If the target is less than the middle value, narrow the search range to the left half.</description>
     </item>
     <item>
       <title>DP Series - The Rod Cutting Problem</title>
-      <link>http://localhost:32997/program/the-rod-cutting-problem/</link>
+      <link>http://localhost:36995/program/the-rod-cutting-problem/</link>
       <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/the-rod-cutting-problem/</guid>
+      <guid>http://localhost:36995/program/the-rod-cutting-problem/</guid>
       <description>Given that selling a rod of length i yields a profit of pi , how do we cut a rod of length n to maximize the total revenue?&#xA;Method 1: Recursion The most straightforward approach is to solve it using recursion. As shown in the figure below, rn represents the maximum revenue obtainable by cutting a rod of length n. Suppose i is the length of the first segment in the optimal solution; then rn = pi + rn−i, because pi is the revenue from the first segment in the optimal solution, and adding the maximum revenue from the remaining part gives us the answer.</description>
     </item>
     <item>
       <title>Introduction to Github for Beginners</title>
-      <link>http://localhost:32997/program/github/</link>
+      <link>http://localhost:36995/program/github/</link>
       <pubDate>Thu, 18 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:32997/program/github/</guid>
+      <guid>http://localhost:36995/program/github/</guid>
       <description>What is Github？ Git is a version control software, while Github is an online platform for storing code. It organizes projects into repositories, allowing users to use Git for version control and making collaboration within a team easier.&#xA;Why Use Github In a project, I make changes to A, someone else modifies B, and I update C. Things can quickly get messy.&#xA;It can store a large collection of your work portfolio.</description>
     </item>
   </channel>

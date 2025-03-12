@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Greedy - tag - James Blog</title>
-        <link>http://localhost:32997/tags/Greedy/</link>
+        <link>http://localhost:36995/tags/Greedy/</link>
         <description>Greedy - tag - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:32997/tags/Greedy/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:36995/tags/Greedy/" rel="self" type="application/rss+xml" /><item>
     <title>[ Leetcode 300 ] Longest Increasing Subsequence | Solution Approach &amp; Explanation</title>
-    <link>http://localhost:32997/program/leetcode-300/</link>
+    <link>http://localhost:36995/program/leetcode-300/</link>
     <pubDate>Wed, 29 Jan 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/program/leetcode-300/</guid>
+    </author><guid>http://localhost:36995/program/leetcode-300/</guid>
     <description><![CDATA[Given an array, find the longest increasing subsequence (LIS). The elements in this subsequence must appear in increasing order but do not need to be consecutive in the original array.
 Link🔗：https://leetcode.com/problems/longest-increasing-subsequence/
 Method 1 - Dynamic Programming Time Complexity - O( n^2 ), due to the nested loops.

@@ -1,77 +1,77 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Algorithm - category - James Blog</title>
-        <link>http://localhost:32997/zh/categories/Algorithm/</link>
+        <link>http://localhost:36995/zh/categories/Algorithm/</link>
         <description>Algorithm - category - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:32997/zh/categories/Algorithm/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:36995/zh/categories/Algorithm/" rel="self" type="application/rss+xml" /><item>
+    <title>[ Leetcode 210 ] Course Schedule II | 解題思路分享</title>
+    <link>http://localhost:36995/zh/program/leetcode-210/</link>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>http://localhost:36995/zh/program/leetcode-210/</guid>
+    <description><![CDATA[你需要修 numCourses 門課，這些課程從 0 到 numCourses - 1 編號。某些課程有先修課，用一個 prerequisites array 來表示，prerequisites[i] = [a, b]，意思是： 想修課 a，必]]></description>
+</item><item>
+    <title>[ Leetcode 36 ] Valid Sudoku | 解題思路分享</title>
+    <link>http://localhost:36995/zh/program/leetcode-36/</link>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+        <name>James</name>
+    </author><guid>http://localhost:36995/zh/program/leetcode-36/</guid>
+    <description><![CDATA[給你一個 9×9 的數獨棋盤（board），檢查這個數獨是否 Valid。Valid 的條件是： 每一列（row） 不能有重複數字 1-9。 每一行（col]]></description>
+</item><item>
     <title>[ Leetcode 133 ] Clone Graph | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-133/</link>
+    <link>http://localhost:36995/zh/program/leetcode-133/</link>
     <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-133/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-133/</guid>
     <description><![CDATA[複製一個 Graph，同時不能直接 return 這個 Graph 的 pointer 回去。 題目連結🔗：https://leetcode.com/problems/clone-gra]]></description>
 </item><item>
     <title>[ Leetcode 200 ] Number of Islands | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-200/</link>
+    <link>http://localhost:36995/zh/program/leetcode-200/</link>
     <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-200/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-200/</guid>
     <description><![CDATA[給一個由 &lsquo;1&rsquo;（陸地）和 &lsquo;0&rsquo;（水）組成的 2D Array，計算島嶼的數量。島嶼是由水平或垂直方]]></description>
 </item><item>
     <title>[ Data Structure ] Stack &amp; Monotone Stack | 核心概念與 Leetcode 題型解析</title>
-    <link>http://localhost:32997/zh/program/stack/</link>
+    <link>http://localhost:36995/zh/program/stack/</link>
     <pubDate>Fri, 07 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/stack/</guid>
+    </author><guid>http://localhost:36995/zh/program/stack/</guid>
     <description><![CDATA[Stack 是一種 Last In, First Out (LIFO) 的 data structure，有點像是疊積木，所以最大的特色就是，你永遠只能看到最上面這個 element，要 remove element 也只能 remove 最上面的]]></description>
 </item><item>
     <title>[ Leetcode 20 ] Valid Parentheses | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-20/</link>
+    <link>http://localhost:36995/zh/program/leetcode-20/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-20/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-20/</guid>
     <description><![CDATA[給一個只包含 &rsquo;(&rsquo;, &rsquo;)&rsquo;, &rsquo;{&rsquo;, &rsquo;}&rsquo;, &rsquo;[&rsquo;, &rsquo;]&rsquo; 的 string s，檢查這個 string 是否是 valid 的括號組合。 題目連結🔗：https://leetcode.com/problems/val]]></description>
 </item><item>
     <title>[ Leetcode 21 ] Merge Two Sorted Lists | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-21/</link>
+    <link>http://localhost:36995/zh/program/leetcode-21/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-21/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-21/</guid>
     <description><![CDATA[給一個正整數 array nums 和一個正整數 k，找出乘積小於 k 的 subarray 數量。 題目連結🔗：https://leetcode.com/problems/merge-]]></description>
 </item><item>
     <title>[ Leetcode 227 ] Basic Calculator II | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-227/</link>
+    <link>http://localhost:36995/zh/program/leetcode-227/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-227/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-227/</guid>
     <description><![CDATA[給一個只包含非負整數、+、-、*、/ 和空格的 string，計算它的 value。運算順序需符合標準的數學運算規則（ 先乘除，後加減 ），但不允許使]]></description>
 </item><item>
     <title>[ Leetcode 496 ] Next Greater Element I | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-496/</link>
+    <link>http://localhost:36995/zh/program/leetcode-496/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-496/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-496/</guid>
     <description><![CDATA[給定兩個 array nums1 和 nums2，其中 nums1 是 nums2 的 subset，我們需要在 nums2 中為 nums1 中的每個數字找到下一個較大元素。 題目連結🔗：https://leetc]]></description>
 </item><item>
     <title>[ Leetcode 739 ] Daily Temperatures | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-739/</link>
+    <link>http://localhost:36995/zh/program/leetcode-739/</link>
     <pubDate>Thu, 06 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-739/</guid>
+    </author><guid>http://localhost:36995/zh/program/leetcode-739/</guid>
     <description><![CDATA[給一個整數 array temperatures，表示每天的溫度，對於每一天，我們需要找到離當天最近的一個更高的日子，並返回該天跟當前天的天數，如果沒有]]></description>
-</item><item>
-    <title>[ Algorithm ] Sliding Window | 核心概念與 Leetcode 題型解析</title>
-    <link>http://localhost:32997/zh/program/sliding-window/</link>
-    <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/sliding-window/</guid>
-    <description><![CDATA[Sliding Window 就是利用 left 和 right 兩個指標來維持一個動態區間 ( window )，透過移動這個 window 來減少重複運算，主要用在處理 subarray 或是 substring 之類的問題。 Sliding Window 分成兩種 : Fixed-Size Sliding Window Variable-Size Sliding W]]></description>
-</item><item>
-    <title>[ Leetcode 713 ] Subarray Product Less Than K | 解題思路分享</title>
-    <link>http://localhost:32997/zh/program/leetcode-713/</link>
-    <pubDate>Wed, 05 Mar 2025 00:00:00 &#43;0000</pubDate><author>
-        <name>James</name>
-    </author><guid>http://localhost:32997/zh/program/leetcode-713/</guid>
-    <description><![CDATA[給一個正整數 array nums 和一個正整數 k，找出乘積小於 k 的 subarray 數量。 題目連結🔗：https://leetcode.com/problems/subarr]]></description>
 </item></channel>
 </rss>

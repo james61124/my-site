@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>梅竹黑客松籌備心得 on James Blog</title>
-    <link>http://localhost:32997/zh/life/meichu-hackathon-event-planning-leader/</link>
+    <link>http://localhost:36995/zh/life/meichu-hackathon-event-planning-leader/</link>
     <description>Recent content in 梅竹黑客松籌備心得 on James Blog</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:32997/zh/life/meichu-hackathon-event-planning-leader/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36995/zh/life/meichu-hackathon-event-planning-leader/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,35 +1,35 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - category - James Blog</title>
-        <link>http://localhost:32997/categories/</link>
+        <link>http://localhost:36995/categories/</link>
         <description>Categories - category - James Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:32997/categories/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:36995/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Algorithm</title>
-    <link>http://localhost:32997/categories/Algorithm/</link>
-    <pubDate>Sat, 08 Mar 2025 00:00:00 &#43;0000</pubDate><author>
+    <link>http://localhost:36995/categories/Algorithm/</link>
+    <pubDate>Mon, 10 Mar 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:32997/categories/Algorithm/</guid>
+    </author><guid>http://localhost:36995/categories/Algorithm/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Life</title>
-    <link>http://localhost:32997/categories/Life/</link>
+    <link>http://localhost:36995/categories/Life/</link>
     <pubDate>Fri, 21 Feb 2025 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:32997/categories/Life/</guid>
+    </author><guid>http://localhost:36995/categories/Life/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Travel</title>
-    <link>http://localhost:32997/categories/Travel/</link>
+    <link>http://localhost:36995/categories/Travel/</link>
     <pubDate>Fri, 06 Dec 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:32997/categories/Travel/</guid>
+    </author><guid>http://localhost:36995/categories/Travel/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Github</title>
-    <link>http://localhost:32997/categories/Github/</link>
+    <link>http://localhost:36995/categories/Github/</link>
     <pubDate>Thu, 18 Jan 2024 00:00:00 &#43;0000</pubDate><author>
         <name></name>
-    </author><guid>http://localhost:32997/categories/Github/</guid>
+    </author><guid>http://localhost:36995/categories/Github/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
